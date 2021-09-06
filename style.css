@@ -1,0 +1,24 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+body {
+    margin-left:20vw;
+    margin-right:20vw;
+}
+
+img {
+    max-width:60vw;
+}
+
+*:not(.tag, li) {
+    margin-top:1em;
+    margin-bottom:1em;
+    text-indent: 50px;
+    line-height:1.5;
+}
+
+hr {
+    max-width: 30vw;;
+}
