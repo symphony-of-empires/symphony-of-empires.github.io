@@ -1,0 +1,58 @@
+/* (A) TABS CONTAINER */
+.tab {
+  position: relative;
+  max-width: 600px;
+}
+
+/* (B) HIDE CHECKBOX */
+.tab input {
+  display: none;
+}
+
+/* (C) TAB LABEL */
+.tab label {
+  display: block;
+  margin-top: 10px;
+  padding: 5px;
+  padding-left: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* (D) TAB CONTENT */
+.tab .tab-content {
+  /* CSS ANIMATION WILL NOT WORK WITH AUTO HEIGHT */
+  /* THIS IS WHY WE USE MAX-HEIGHT INSTEAD */
+  overflow: hidden;
+  transition: max-height 0.3s;
+  max-height: 0;
+  padding-left: 20px;
+}
+
+/* (E) OPEN TAB ON CHECKED */
+.tab input:checked ~ .tab-content {
+  max-height: 100vh;
+}
+
+/* (F) EXTRA - ADD ARROW INDICATOR */
+.tab label::after {
+  content: "\25b6";
+  position: absolute;
+  left: 5px;
+  top: 3px;
+  display: block;
+  transition: all 0.4s;
+}
+.tab input:checked ~ label::after {
+  transform: rotate(90deg);
+}
+.tab-none label::after {
+  content: "\25FC";
+}
+
+.task-done {
+	color: darkgreen;
+}
+.task-started {
+	color: darkorchid;
+}
