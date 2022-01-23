@@ -1,0 +1,12 @@
+<map id="game/src/client/ui/barchart.hpp" name="game/src/client/ui/barchart.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="571,5,709,47"/>
+<area shape="rect" id="node2" href="$barchart_8cpp.html" title=" " alt="" coords="489,95,628,136"/>
+<area shape="rect" id="node3" href="$components_8hpp.html" title=" " alt="" coords="652,95,791,136"/>
+<area shape="rect" id="node4" href="$client_2interface_2ai_8cpp.html" title=" " alt="" coords="5,184,189,225"/>
+<area shape="rect" id="node5" href="$nation__view_8cpp.html" title=" " alt="" coords="213,184,397,225"/>
+<area shape="rect" id="node6" href="$policies_8cpp.html" title=" " alt="" coords="421,184,605,225"/>
+<area shape="rect" id="node7" href="$profiler__view_8cpp.html" title=" " alt="" coords="629,184,813,225"/>
+<area shape="rect" id="node8" href="$top__window_8cpp.html" title=" " alt="" coords="837,184,1021,225"/>
+<area shape="rect" id="node9" href="$treaty_8cpp.html" title=" " alt="" coords="1045,184,1229,225"/>
+<area shape="rect" id="node10" href="$war_8cpp.html" title=" " alt="" coords="1253,184,1437,225"/>
+</map>

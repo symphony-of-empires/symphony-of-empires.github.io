@@ -1,0 +1,4 @@
+<map id="UI::Image" name="UI::Image">
+<area shape="rect" id="node1" title="Image widget." alt="" coords="8,80,93,107"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html" title="The master widget all the other widgets inherit from." alt="" coords="5,5,96,32"/>
+</map>

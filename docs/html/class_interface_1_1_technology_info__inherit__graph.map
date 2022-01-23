@@ -1,0 +1,5 @@
+<map id="Interface::TechnologyInfo" name="Interface::TechnologyInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,155,192,181"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_group.html" title="Grouping to keep widgets together without triggering events." alt="" coords="57,80,140,107"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_widget.html" title="The master widget all the other widgets inherit from." alt="" coords="53,5,144,32"/>
+</map>

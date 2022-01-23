@@ -1,0 +1,8 @@
+<map id="UI::Button" name="UI::Button">
+<area shape="rect" id="node1" title=" " alt="" coords="144,81,231,108"/>
+<area shape="rect" id="node3" href="$class_interface_1_1_building_type_button.html" title=" " alt="" coords="279,5,493,32"/>
+<area shape="rect" id="node4" href="$class_interface_1_1_descision_button.html" title=" " alt="" coords="289,56,483,83"/>
+<area shape="rect" id="node5" href="$class_interface_1_1_province_button.html" title=" " alt="" coords="293,107,479,133"/>
+<area shape="rect" id="node6" href="$class_interface_1_1_unit_button.html" title=" " alt="" coords="307,157,465,184"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html" title="The master widget all the other widgets inherit from." alt="" coords="5,81,96,108"/>
+</map>

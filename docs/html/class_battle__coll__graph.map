@@ -1,0 +1,16 @@
+<map id="Battle" name="Battle">
+<area shape="rect" id="node1" title=" " alt="" coords="61,439,123,465"/>
+<area shape="rect" id="node2" href="$class_id_entity.html" title=" " alt="" coords="15,157,169,184"/>
+<area shape="rect" id="node4" href="$class_war.html" title=" " alt="" coords="5,284,53,311"/>
+<area shape="rect" id="node6" href="$class_refname_entity.html" title=" " alt="" coords="129,233,332,260"/>
+<area shape="rect" id="node3" href="$class_entity.html" title=" " alt="" coords="21,81,163,108"/>
+<area shape="rect" id="node5" href="$class_province.html" title=" " alt="" coords="346,335,425,361"/>
+<area shape="rect" id="node7" href="$class_nation.html" title=" " alt="" coords="393,439,458,465"/>
+<area shape="rect" id="node8" href="$class_technology.html" title=" " alt="" coords="183,335,278,361"/>
+<area shape="rect" id="node9" href="$class_ideology.html" title=" " alt="" coords="674,335,753,361"/>
+<area shape="rect" id="node10" href="$class_refname_entity.html" title=" " alt="" coords="543,157,737,184"/>
+<area shape="rect" id="node14" href="$class_terrain_type.html" title=" " alt="" coords="408,233,504,260"/>
+<area shape="rect" id="node11" href="$class_id_entity.html" title=" " alt="" coords="567,81,713,108"/>
+<area shape="rect" id="node12" href="$class_entity.html" title=" " alt="" coords="573,5,707,32"/>
+<area shape="rect" id="node13" href="$class_policies.html" title=" " alt="" coords="555,233,627,260"/>
+</map>

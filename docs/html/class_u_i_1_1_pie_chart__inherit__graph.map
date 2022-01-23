@@ -1,0 +1,4 @@
+<map id="UI::PieChart" name="UI::PieChart">
+<area shape="rect" id="node1" title="Piechart widget." alt="" coords="5,80,104,107"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html" title="The master widget all the other widgets inherit from." alt="" coords="9,5,100,32"/>
+</map>

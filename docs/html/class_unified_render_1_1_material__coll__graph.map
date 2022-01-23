@@ -1,0 +1,5 @@
+<map id="UnifiedRender::Material" name="UnifiedRender::Material">
+<area shape="rect" id="node1" title="A definition for a surface/color/texture to be applied to a model." alt="" coords="5,288,183,315"/>
+<area shape="rect" id="node2" href="$class_unified_render_1_1_texture.html" title=" " alt="" coords="9,81,179,108"/>
+<area shape="rect" id="node3" href="$class_binary_image.html" title=" " alt="" coords="41,5,147,32"/>
+</map>

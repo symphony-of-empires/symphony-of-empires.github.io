@@ -1,0 +1,12 @@
+<map id="MapRender::update_mapmode" name="MapRender::update_mapmode">
+<area shape="rect" id="node1" title=" " alt="" coords="1071,56,1293,83"/>
+<area shape="rect" id="node2" href="$class_map.html#a34655aa02bf6b95e7866b3c3960e4095" title=" " alt="" coords="847,56,1023,83"/>
+<area shape="rect" id="node3" href="$class_map.html#acdd29931931c1aba8e1d08b75cfb49df" title=" " alt="" coords="650,5,789,32"/>
+<area shape="rect" id="node8" href="$class_map.html#a6595282a7a20750b75a2d3430e89a331" title=" " alt="" coords="640,56,799,83"/>
+<area shape="rect" id="node10" href="$class_game_state.html#a696f084426ef196f3743469567c6b1a6" title=" " alt="" coords="389,107,592,133"/>
+<area shape="rect" id="node4" href="$game__state_8cpp.html#a27ad5e7e8784808c40e03d7676308f7a" title=" " alt="" coords="435,5,546,32"/>
+<area shape="rect" id="node5" href="$game__state_8cpp.html#ae390ae4f9633cefd9eac7c364bddb6f7" title=" " alt="" coords="251,56,341,83"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a87242d4aceba48fd71c1fb2a0b64754d" title=" " alt="" coords="108,56,203,83"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,56,60,83"/>
+<area shape="rect" id="node9" href="$class_map.html#a281bafa9437e50f4a5dd22739ebe9f07" title=" " alt="" coords="447,56,534,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="UI::Context::do_tick" name="UI::Context::do_tick">
+<area shape="rect" id="node1" title="Will call on_tick on all widgets." alt="" coords="640,5,791,32"/>
+<area shape="rect" id="node2" href="$class_game_state.html#a696f084426ef196f3743469567c6b1a6" title=" " alt="" coords="389,5,592,32"/>
+<area shape="rect" id="node3" href="$game__state_8cpp.html#ae390ae4f9633cefd9eac7c364bddb6f7" title=" " alt="" coords="251,5,341,32"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a87242d4aceba48fd71c1fb2a0b64754d" title=" " alt="" coords="108,5,203,32"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,5,60,32"/>
+</map>

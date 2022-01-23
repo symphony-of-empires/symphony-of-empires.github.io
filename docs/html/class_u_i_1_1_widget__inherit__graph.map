@@ -1,0 +1,51 @@
+<map id="UI::Widget" name="UI::Widget">
+<area shape="rect" id="node1" title="The master widget all the other widgets inherit from." alt="" coords="5,979,96,1005"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_bar_chart.html" title="Bar chart that draws horizontal bar chart." alt="" coords="155,81,256,108"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_button.html" title=" " alt="" coords="162,132,249,159"/>
+<area shape="rect" id="node8" href="$class_u_i_1_1_chart.html" title="A graph chart." alt="" coords="166,725,245,752"/>
+<area shape="rect" id="node9" href="$class_u_i_1_1_checkbox.html" title="Checkbox widget." alt="" coords="151,776,259,803"/>
+<area shape="rect" id="node10" href="$class_u_i_1_1_close_button.html" title="Button which kills the parent on click." alt="" coords="144,827,267,853"/>
+<area shape="rect" id="node11" href="$class_u_i_1_1_div.html" title="A basic widget without any presets." alt="" coords="172,877,239,904"/>
+<area shape="rect" id="node12" href="$class_u_i_1_1_group.html" title="Grouping to keep widgets together without triggering events." alt="" coords="164,928,247,955"/>
+<area shape="rect" id="node42" href="$class_u_i_1_1_image.html" title="Image widget." alt="" coords="163,979,248,1005"/>
+<area shape="rect" id="node43" href="$class_u_i_1_1_input.html" title="Input widget for keyboard inputs." alt="" coords="167,1029,244,1056"/>
+<area shape="rect" id="node44" href="$class_u_i_1_1_label.html" title="Simple widget for drawing text on the screen." alt="" coords="166,1080,245,1107"/>
+<area shape="rect" id="node45" href="$class_u_i_1_1_pie_chart.html" title="Piechart widget." alt="" coords="156,1131,255,1157"/>
+<area shape="rect" id="node46" href="$class_u_i_1_1_progress_bar.html" title="Progressbar widget." alt="" coords="144,1181,267,1208"/>
+<area shape="rect" id="node47" href="$class_u_i_1_1_text.html" title="Multiline textbox." alt="" coords="170,1232,241,1259"/>
+<area shape="rect" id="node48" href="$class_u_i_1_1_tooltip.html" title="Tooltip widget." alt="" coords="162,1283,249,1309"/>
+<area shape="rect" id="node49" href="$class_u_i_1_1_window.html" title="Window widget." alt="" coords="157,1333,253,1360"/>
+<area shape="rect" id="node4" href="$class_interface_1_1_building_type_button.html" title=" " alt="" coords="327,5,541,32"/>
+<area shape="rect" id="node5" href="$class_interface_1_1_descision_button.html" title=" " alt="" coords="337,56,531,83"/>
+<area shape="rect" id="node6" href="$class_interface_1_1_province_button.html" title=" " alt="" coords="341,107,527,133"/>
+<area shape="rect" id="node7" href="$class_interface_1_1_unit_button.html" title=" " alt="" coords="355,157,513,184"/>
+<area shape="rect" id="node13" href="$class_interface_1_1_army_airforce_tab.html" title=" " alt="" coords="336,208,532,235"/>
+<area shape="rect" id="node14" href="$class_interface_1_1_army_army_tab.html" title=" " alt="" coords="344,259,524,285"/>
+<area shape="rect" id="node15" href="$class_interface_1_1_army_navy_tab.html" title=" " alt="" coords="345,309,523,336"/>
+<area shape="rect" id="node16" href="$class_interface_1_1_army_new_unit_tab.html" title=" " alt="" coords="333,360,535,387"/>
+<area shape="rect" id="node17" href="$class_interface_1_1_army_production_tab.html" title=" " alt="" coords="327,411,541,437"/>
+<area shape="rect" id="node18" href="$class_interface_1_1_army_production_unit_info.html" title=" " alt="" coords="338,462,530,503"/>
+<area shape="rect" id="node19" href="$class_interface_1_1_army_select_unit_tab.html" title=" " alt="" coords="328,528,540,555"/>
+<area shape="rect" id="node20" href="$class_interface_1_1_building_info.html" title=" " alt="" coords="351,579,517,605"/>
+<area shape="rect" id="node21" href="$class_interface_1_1_building_select_nation_tab.html" title=" " alt="" coords="343,630,525,671"/>
+<area shape="rect" id="node22" href="$class_interface_1_1_building_select_province_tab.html" title=" " alt="" coords="343,695,525,737"/>
+<area shape="rect" id="node23" href="$class_interface_1_1_building_select_type_tab.html" title=" " alt="" coords="343,761,525,802"/>
+<area shape="rect" id="node24" href="$class_interface_1_1_nation_button.html" title=" " alt="" coords="347,827,521,853"/>
+<area shape="rect" id="node25" href="$class_interface_1_1_pop_info.html" title=" " alt="" coords="365,877,503,904"/>
+<area shape="rect" id="node26" href="$class_interface_1_1_product_info.html" title=" " alt="" coords="353,928,515,955"/>
+<area shape="rect" id="node27" href="$class_interface_1_1_profiler_task_view.html" title=" " alt="" coords="336,979,532,1005"/>
+<area shape="rect" id="node28" href="$class_interface_1_1_province_building_tab.html" title=" " alt="" coords="325,1029,543,1056"/>
+<area shape="rect" id="node29" href="$class_interface_1_1_province_economy_tab.html" title=" " alt="" coords="321,1080,547,1107"/>
+<area shape="rect" id="node30" href="$class_interface_1_1_province_edit_culture_tab.html" title=" " alt="" coords="315,1131,553,1157"/>
+<area shape="rect" id="node31" href="$class_interface_1_1_province_edit_terrain_tab.html" title=" " alt="" coords="317,1181,551,1208"/>
+<area shape="rect" id="node32" href="$class_interface_1_1_province_population_tab.html" title=" " alt="" coords="317,1232,551,1259"/>
+<area shape="rect" id="node33" href="$class_interface_1_1_technology_info.html" title=" " alt="" coords="341,1283,527,1309"/>
+<area shape="rect" id="node34" href="$class_interface_1_1_tech_tree_economic_tab.html" title=" " alt="" coords="319,1333,549,1360"/>
+<area shape="rect" id="node35" href="$class_interface_1_1_tech_tree_military_tab.html" title=" " alt="" coords="326,1384,542,1411"/>
+<area shape="rect" id="node36" href="$class_interface_1_1_tech_tree_navy_tab.html" title=" " alt="" coords="334,1435,534,1461"/>
+<area shape="rect" id="node37" href="$class_interface_1_1_tech_tree_politics_tab.html" title=" " alt="" coords="327,1485,541,1512"/>
+<area shape="rect" id="node38" href="$class_interface_1_1_tech_tree_social_tab.html" title=" " alt="" coords="331,1536,537,1563"/>
+<area shape="rect" id="node39" href="$class_interface_1_1_tech_tree_strategic_tab.html" title=" " alt="" coords="322,1587,546,1613"/>
+<area shape="rect" id="node40" href="$class_interface_1_1_time_control_view.html" title=" " alt="" coords="335,1637,533,1664"/>
+<area shape="rect" id="node41" href="$class_interface_1_1_top_window.html" title=" " alt="" coords="353,1688,515,1715"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="GameState::play_nation" name="GameState::play_nation">
+<area shape="rect" id="node1" title=" " alt="" coords="5,185,184,211"/>
+<area shape="rect" id="node2" href="$class_action_1_1_select_nation.html#ab0459cc59de8e1daa231742c10e34800" title=" " alt="" coords="254,89,409,131"/>
+<area shape="rect" id="node8" href="$print_8hpp.html#a4d6d61888d367fc052c4491545bd0560" title=" " alt="" coords="289,155,373,182"/>
+<area shape="rect" id="node9" href="$class_unified_render_1_1_networking_1_1_client.html#ab2e5141ae3e63af1474ac9df4d41b741" title=" " alt="" coords="232,207,431,248"/>
+<area shape="rect" id="node10" href="$class_camera.html#a643ffad89f1214b9b018404a2cc8f94b" title=" " alt="" coords="266,273,397,299"/>
+<area shape="rect" id="node3" href="$class_unified_render_1_1_networking_1_1_packet.html#a572c99ae39603961d621eef977312fbe" title=" " alt="" coords="479,5,677,47"/>
+<area shape="rect" id="node4" href="$class_archive.html#a4058a4361793f2214b9ca27f4f4d6b74" title=" " alt="" coords="505,71,651,98"/>
+<area shape="rect" id="node5" href="$serializer_8hpp.html#a0de36c411404bc17fd91b94b25823552" title=" " alt="" coords="539,122,617,149"/>
+<area shape="rect" id="node7" href="$class_archive.html#a83d3cc33add24511ced9c7e7d467a09c" title=" " alt="" coords="525,173,631,199"/>
+<area shape="rect" id="node6" href="$class_serializer.html#ad54aeb5821966c601bf12f7cc3ddd13f" title=" " alt="" coords="725,122,872,149"/>
+</map>

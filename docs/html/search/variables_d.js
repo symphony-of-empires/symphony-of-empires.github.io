@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['n_5fclients_3582',['n_clients',['../class_unified_render_1_1_networking_1_1_server.html#ab5c099c6cd1887e1b2ff1cc236af149a',1,'UnifiedRender::Networking::Server']]],
+  ['n_5ftiles_3583',['n_tiles',['../class_province.html#adb02e6acec2d2eaa9d05ade3503147e2',1,'Province']]],
+  ['name_3584',['name',['../class_treaty.html#adb2d82809f6aab208523b9372fb3a1df',1,'Treaty::name()'],['../class_battle.html#aff955d62e04340c7da65f871d6c65101',1,'Battle::name()'],['../class_war.html#a702e9a4b00a7fae0db200d4622ea51f6',1,'War::name()'],['../class_refname_entity.html#a2ab42e3bd76c58fb07dcc97290fb680b',1,'RefnameEntity::name()'],['../class_unified_render_1_1_open_g_l_1_1_g_l_s_l___variable.html#a4dd826947e28c06f7007a8925abd763e',1,'UnifiedRender::OpenGL::GLSL_Variable::name()'],['../class_unified_render_1_1_open_g_l_1_1_g_l_s_l___function.html#a0a28fc4b5e68c83c8abec707300bf60e',1,'UnifiedRender::OpenGL::GLSL_Function::name()'],['../class_unified_render_1_1_open_g_l_1_1_g_l_s_l___define.html#ac3b91251d776281cf9314a8902131d4d',1,'UnifiedRender::OpenGL::GLSL_Define::name()'],['../class_unified_render_1_1_i_o_1_1_package.html#aea2904e8d405e998559bc9a39679be2a',1,'UnifiedRender::IO::Package::name()'],['../class_unified_render_1_1_benchmark_task.html#a28362b0763ddd2368f314338328cd9e4',1,'UnifiedRender::BenchmarkTask::name()']]],
+  ['nation_3585',['nation',['../class_interface_1_1_building_build_view.html#a3b255e187665082e125b0b3b988f92e3',1,'Interface::BuildingBuildView::nation()'],['../class_interface_1_1_nation_button.html#a32c4eedb909b5dc14566047ae5e2db6e',1,'Interface::NationButton::nation()']]],
+  ['nation_5fflags_3586',['nation_flags',['../class_game_state.html#a75ee60aeada530cc67bc09c5d7709c36',1,'GameState::nation_flags()'],['../class_map.html#af621e7a78902986ba9d9bb48b4b2022b',1,'Map::nation_flags()']]],
+  ['nation_5ftab_3587',['nation_tab',['../class_interface_1_1_building_build_view.html#a70dc0d01cfbc561f692dff732e863d3f',1,'Interface::BuildingBuildView']]],
+  ['national_5fid_3588',['national_id',['../class_policies.html#aeb07cb52fe84760e107cfff5ee5aba5c',1,'Policies']]],
+  ['naval_5fscore_3589',['naval_score',['../class_nation.html#af8da5dddfc4c9a04e03969e1cdd03df8',1,'Nation']]],
+  ['navy_5ftab_3590',['navy_tab',['../class_interface_1_1_army_view.html#ae7c8ed8e1eaed0166f1dd6bc29734576',1,'Interface::ArmyView::navy_tab()'],['../class_interface_1_1_tech_tree_view.html#a65ded2c3cc209f17fb6c0f965c90a4b9',1,'Interface::TechTreeView::navy_tab()']]],
+  ['near_5fplane_3591',['near_plane',['../class_camera.html#a430f769a9227b6cd41fe336122fbb9dc',1,'Camera']]],
+  ['needs_5fto_5fsync_3592',['needs_to_sync',['../class_world.html#a2110729d331840b6264373b4bcfac2b8',1,'World']]],
+  ['neighbors_3593',['neighbors',['../struct_floor1.html#a468a990afb1f3735d90992ec66a959d5',1,'Floor1']]],
+  ['neighbours_3594',['neighbours',['../class_nation.html#a9991dfd87111163dbbdd6cb99026b77a',1,'Nation::neighbours()'],['../class_province.html#ae5034711b03d6d8c5e5f233c78e3b174',1,'Province::neighbours()']]],
+  ['new_5funit_5ftab_3595',['new_unit_tab',['../class_interface_1_1_army_view.html#a5cecb055b8c042956f14181a776ee02a',1,'Interface::ArmyView']]],
+  ['next_5fseg_3596',['next_seg',['../structstb__vorbis.html#adce7311d3a011237e89487b8ffd3be1c',1,'stb_vorbis']]],
+  ['noise_3597',['noise',['../class_map_options.html#a0799b11d9c77c1d0c27e6f3366a3c870',1,'MapOptions']]],
+  ['normal_5fmap_3598',['normal_map',['../class_unified_render_1_1_material.html#a5c3dc942f086790ff29045d284588818',1,'UnifiedRender::Material']]],
+  ['noun_3599',['noun',['../class_culture.html#a82a13fcc4f4425ecc4cfb8d666a263f9',1,'Culture']]],
+  ['nuclei_3600',['nuclei',['../class_province.html#a2250d19a814663e5a9e76c6a105f56c4',1,'Province']]],
+  ['num_3601',['num',['../class_u_i_1_1_chart_data.html#a683f5e9b6d684ce7d77ab393f598c79a',1,'UI::ChartData']]],
+  ['number_5fof_5fbooks_3602',['number_of_books',['../struct_floor0.html#ab72ef807e63af61f9e473752753b135a',1,'Floor0']]]
+];

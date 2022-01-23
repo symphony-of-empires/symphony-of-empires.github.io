@@ -1,0 +1,5 @@
+<map id="Map::update_mapmode" name="Map::update_mapmode">
+<area shape="rect" id="node1" title=" " alt="" coords="5,13,181,39"/>
+<area shape="rect" id="node2" href="$class_map_render.html#af057c612d2ccae0650d6dfd0341922ba" title=" " alt="" coords="229,13,452,39"/>
+<area shape="rect" id="node3" href="$class_unified_render_1_1_texture.html#a75dcb99342ea207731dbeb0b43fae1cb" title=" " alt="" coords="500,5,671,47"/>
+</map>

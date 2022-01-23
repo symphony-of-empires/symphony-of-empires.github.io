@@ -1,0 +1,7 @@
+<map id="game/src/client/interface/lobby.hpp" name="game/src/client/interface/lobby.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="296,5,480,47"/>
+<area shape="rect" id="node2" href="$game__state_8cpp.html" title=" " alt="" coords="5,95,168,136"/>
+<area shape="rect" id="node3" href="$lobby_8cpp.html" title=" " alt="" coords="192,95,376,136"/>
+<area shape="rect" id="node4" href="$main__menu_8cpp.html" title=" " alt="" coords="400,95,584,136"/>
+<area shape="rect" id="node5" href="$map_8cpp.html" title=" " alt="" coords="609,102,791,129"/>
+</map>

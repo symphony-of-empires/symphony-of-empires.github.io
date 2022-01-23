@@ -1,0 +1,10 @@
+<map id="Province::get_pos" name="Province::get_pos">
+<area shape="rect" id="node1" title=" " alt="" coords="960,31,1097,57"/>
+<area shape="rect" id="node2" href="$class_unit.html#ad5bdf5130dc666567ed51441be1f6d88" title=" " alt="" coords="796,5,904,32"/>
+<area shape="rect" id="node3" href="$class_unit.html#ab4e806696d1a6d2f0e0cbac4ea6caa7a" title=" " alt="" coords="788,56,912,83"/>
+<area shape="rect" id="node4" href="$class_world.html#a3cc980bc234924f2b7fa2d1d72b93a63" title=" " alt="" coords="625,56,740,83"/>
+<area shape="rect" id="node5" href="$class_game_state.html#ad915ff17045c6e4a9d9c2638bb65740d" title=" " alt="" coords="389,56,577,83"/>
+<area shape="rect" id="node6" href="$game__state_8cpp.html#ae390ae4f9633cefd9eac7c364bddb6f7" title=" " alt="" coords="251,56,341,83"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a87242d4aceba48fd71c1fb2a0b64754d" title=" " alt="" coords="108,56,203,83"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,56,60,83"/>
+</map>

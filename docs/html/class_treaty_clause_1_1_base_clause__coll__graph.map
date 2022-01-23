@@ -1,0 +1,15 @@
+<map id="TreatyClause::BaseClause" name="TreatyClause::BaseClause">
+<area shape="rect" id="node1" title=" " alt="" coords="318,452,509,479"/>
+<area shape="rect" id="node2" href="$class_nation.html" title=" " alt="" coords="283,348,349,375"/>
+<area shape="rect" id="node7" href="$class_province.html" title=" " alt="" coords="206,452,285,479"/>
+<area shape="rect" id="node3" href="$class_refname_entity.html" title=" " alt="" coords="419,157,621,184"/>
+<area shape="rect" id="node6" href="$class_technology.html" title=" " alt="" coords="387,247,482,273"/>
+<area shape="rect" id="node4" href="$class_id_entity.html" title=" " alt="" coords="443,81,597,108"/>
+<area shape="rect" id="node5" href="$class_entity.html" title=" " alt="" coords="449,5,591,32"/>
+<area shape="rect" id="node8" href="$class_terrain_type.html" title=" " alt="" coords="53,297,149,324"/>
+<area shape="rect" id="node9" href="$class_refname_entity.html" title=" " alt="" coords="5,157,200,184"/>
+<area shape="rect" id="node12" href="$class_ideology.html" title=" " alt="" coords="138,247,217,273"/>
+<area shape="rect" id="node10" href="$class_id_entity.html" title=" " alt="" coords="29,81,176,108"/>
+<area shape="rect" id="node11" href="$class_entity.html" title=" " alt="" coords="35,5,170,32"/>
+<area shape="rect" id="node13" href="$class_policies.html" title=" " alt="" coords="225,157,297,184"/>
+</map>

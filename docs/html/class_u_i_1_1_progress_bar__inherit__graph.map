@@ -1,0 +1,5 @@
+<map id="UI::ProgressBar" name="UI::ProgressBar">
+<area shape="rect" id="node1" title="Progressbar widget." alt="" coords="5,80,128,107"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_slider.html" title="Slider widget." alt="" coords="26,155,107,181"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html" title="The master widget all the other widgets inherit from." alt="" coords="21,5,112,32"/>
+</map>

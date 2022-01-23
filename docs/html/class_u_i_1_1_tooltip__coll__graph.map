@@ -1,0 +1,8 @@
+<map id="UI::Tooltip" name="UI::Tooltip">
+<area shape="rect" id="node1" title="Tooltip widget." alt="" coords="5,172,92,199"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html" title="The master widget all the other widgets inherit from." alt="" coords="150,277,241,304"/>
+<area shape="rect" id="node3" href="$class_unified_render_1_1_color.html" title=" " alt="" coords="117,172,274,199"/>
+<area shape="rect" id="node4" href="$class_unified_render_1_1_texture.html" title=" " alt="" coords="258,81,429,108"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_border.html" title=" " alt="" coords="448,172,535,199"/>
+<area shape="rect" id="node5" href="$class_binary_image.html" title=" " alt="" coords="291,5,396,32"/>
+</map>

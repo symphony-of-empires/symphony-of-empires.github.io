@@ -1,0 +1,5 @@
+<map id="Interface::TimeControlView" name="Interface::TimeControlView">
+<area shape="rect" id="node1" title=" " alt="" coords="5,155,204,181"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_group.html" title="Grouping to keep widgets together without triggering events." alt="" coords="63,80,146,107"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_widget.html" title="The master widget all the other widgets inherit from." alt="" coords="59,5,150,32"/>
+</map>

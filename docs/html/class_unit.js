@@ -1,0 +1,25 @@
+var class_unit =
+[
+    [ "attack", "class_unit.html#acc5b937946baf54630966abe0d7afcf9", null ],
+    [ "can_move", "class_unit.html#aee94c18e6dc77f9647dbab91131e4d91", null ],
+    [ "get_pos", "class_unit.html#ad5bdf5130dc666567ed51441be1f6d88", null ],
+    [ "get_speed", "class_unit.html#ab4e806696d1a6d2f0e0cbac4ea6caa7a", null ],
+    [ "get_speed", "class_unit.html#a33d83345128f019ffdd44caf23b5f7a3", null ],
+    [ "set_province", "class_unit.html#a459c322351b83aeb29a33f3a5e192bda", null ],
+    [ "set_target", "class_unit.html#a4d3515b5f0ff2ad5567b7a65305d4ca6", null ],
+    [ "base", "class_unit.html#ade569a5a70e47be8c0b98b2c27eb0dc5", null ],
+    [ "budget", "class_unit.html#af0fc19a0b834d99a79e320bbb323f1a7", null ],
+    [ "defensive_ticks", "class_unit.html#a2ed994b8257c603d540e2f08b1fe0f57", null ],
+    [ "experience", "class_unit.html#aa1ba06b112a04b64523abe7ae9033c23", null ],
+    [ "ignore_tag", "class_unit.html#a8a1d0f6a29b2b70829638cb0eaf6caf1", null ],
+    [ "morale", "class_unit.html#a39f6e9f21ee9a4ec4f54a8eb39745c26", null ],
+    [ "move_progress", "class_unit.html#a4f686f10bafbd27323d43399d6e2295e", null ],
+    [ "on_battle", "class_unit.html#a00ab123d443954b2e269e323fdcb9983", null ],
+    [ "owner", "class_unit.html#a7fecad7239d042c63f6fb35654bc6228", null ],
+    [ "province", "class_unit.html#ab4eb72cacefbfc02bb7eadecbd7c905d", null ],
+    [ "size", "class_unit.html#a4ab07faf29a245f3ac4a5ee2215c7e36", null ],
+    [ "supply", "class_unit.html#a92c7132df3c497b8a1d970e10ec0da58", null ],
+    [ "target", "class_unit.html#af6f27695f362c43c0f500197c157c622", null ],
+    [ "traits", "class_unit.html#aa5d14e3835d8059e6a861db8939ddbc2", null ],
+    [ "type", "class_unit.html#ab0f889c1dcbe02864fad1fa6af62aa37", null ]
+];

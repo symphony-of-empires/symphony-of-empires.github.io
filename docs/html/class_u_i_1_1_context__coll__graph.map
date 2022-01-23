@@ -1,0 +1,5 @@
+<map id="UI::Context" name="UI::Context">
+<area shape="rect" id="node1" title="The ui context that handles all the ui widgets." alt="" coords="43,259,138,285"/>
+<area shape="rect" id="node2" href="$class_unified_render_1_1_texture.html" title=" " alt="" coords="5,81,176,108"/>
+<area shape="rect" id="node3" href="$class_binary_image.html" title=" " alt="" coords="38,5,143,32"/>
+</map>

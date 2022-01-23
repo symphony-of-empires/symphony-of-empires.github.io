@@ -1,0 +1,8 @@
+<map id="UI::Widget::move_by" name="UI::Widget::move_by">
+<area shape="rect" id="node1" title=" " alt="" coords="737,13,896,39"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_context.html#a97350c04f069212efbb474d8d3dbfcaf" title="Check for on_hover events If the mouse is above a widget call the widgets on_hover or show its toolti..." alt="" coords="548,5,689,47"/>
+<area shape="rect" id="node3" href="$game__state_8cpp.html#a27ad5e7e8784808c40e03d7676308f7a" title=" " alt="" coords="389,13,500,39"/>
+<area shape="rect" id="node4" href="$game__state_8cpp.html#ae390ae4f9633cefd9eac7c364bddb6f7" title=" " alt="" coords="251,13,341,39"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a87242d4aceba48fd71c1fb2a0b64754d" title=" " alt="" coords="108,13,203,39"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,13,60,39"/>
+</map>

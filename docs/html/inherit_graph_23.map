@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_entity.html" title=" " alt="" coords="5,183,140,209"/>
+<area shape="rect" id="node2" href="$class_id_entity.html" title=" " alt="" coords="188,183,335,209"/>
+<area shape="rect" id="node3" href="$class_refname_entity.html" title=" " alt="" coords="383,183,577,209"/>
+<area shape="rect" id="node4" href="$class_building_type.html" title=" " alt="" coords="625,5,731,32"/>
+<area shape="rect" id="node5" href="$class_descision.html" title=" " alt="" coords="635,56,721,83"/>
+<area shape="rect" id="node6" href="$class_ideology.html" title=" " alt="" coords="639,107,717,133"/>
+<area shape="rect" id="node7" href="$class_pop_type.html" title=" " alt="" coords="640,157,716,184"/>
+<area shape="rect" id="node8" href="$class_religion.html" title=" " alt="" coords="641,208,715,235"/>
+<area shape="rect" id="node9" href="$class_terrain_type.html" title=" " alt="" coords="630,259,726,285"/>
+<area shape="rect" id="node10" href="$class_unit_trait.html" title=" " alt="" coords="639,309,717,336"/>
+<area shape="rect" id="node11" href="$class_unit_type.html" title=" " alt="" coords="639,360,717,387"/>
+</map>
