@@ -1,8 +1,0 @@
-<map id="UI::Widget::on_render" name="UI::Widget::on_render">
-<area shape="rect" id="node1" title=" " alt="" coords="799,13,961,39"/>
-<area shape="rect" id="node2" href="$class_u_i_1_1_context.html#a946961c3240c547e1a8fd0e844f84338" title=" " alt="" coords="605,5,751,47"/>
-<area shape="rect" id="node3" href="$class_u_i_1_1_context.html#ad06645b714e8a4b83c870aec3ea0e5c7" title=" " alt="" coords="389,13,557,39"/>
-<area shape="rect" id="node4" href="$game__state_8cpp.html#ae390ae4f9633cefd9eac7c364bddb6f7" title=" " alt="" coords="251,13,341,39"/>
-<area shape="rect" id="node5" href="$main_8cpp.html#a87242d4aceba48fd71c1fb2a0b64754d" title=" " alt="" coords="108,13,203,39"/>
-<area shape="rect" id="node6" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,13,60,39"/>
-</map>
