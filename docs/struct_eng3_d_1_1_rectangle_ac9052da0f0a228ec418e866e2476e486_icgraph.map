@@ -1,0 +1,8 @@
+<map id="Eng3D::Rectangle::scale" name="Eng3D::Rectangle::scale">
+<area shape="rect" id="node1" title="Scales the rectangle by factor." alt="" coords="781,31,960,57"/>
+<area shape="rect" id="node2" href="$struct_eng3_d_1_1_rectangle.html#a15a100f527e0882c2089573e96ab705d" title=" " alt="" coords="531,5,710,32"/>
+<area shape="rect" id="node3" href="$class_map_render.html#ab490f60d45b158b3a4d7c88dc88aa64f" title="Creates the &quot;waving&quot; border around the continent to give it a 19th century map feel Generate a distan..." alt="" coords="508,56,733,83"/>
+<area shape="rect" id="node4" href="$class_map_render.html#ad4b88031a78b74e014635624420b4758" title=" " alt="" coords="283,31,433,57"/>
+<area shape="rect" id="node5" href="$class_map_render.html#a9f770e76c701a8ce00daf57924a27633" title=" " alt="" coords="256,81,460,108"/>
+<area shape="rect" id="node6" href="$class_map_render.html#a6aedf1f66b245750840db0195be1a1d1" title=" " alt="" coords="5,81,208,108"/>
+</map>

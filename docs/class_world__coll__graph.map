@@ -1,5 +1,10 @@
 <map id="World" name="World">
-<area shape="rect" id="node1" title=" " alt="" coords="126,95,186,121"/>
-<area shape="rect" id="node2" href="$class_unified_render_1_1_profiler.html" title=" " alt="" coords="5,5,176,32"/>
-<area shape="rect" id="node3" href="$class_tile.html" title=" " alt="" coords="200,5,245,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="405,184,465,211"/>
+<area shape="rect" id="node2" href="$struct_economy_1_1_economy_state.html" title=" " alt="" coords="5,95,188,121"/>
+<area shape="rect" id="node3" href="$struct_economy_1_1_trade.html" title=" " alt="" coords="34,5,159,32"/>
+<area shape="rect" id="node4" href="$class_province_manager.html" title=" " alt="" coords="212,95,347,121"/>
+<area shape="rect" id="node5" href="$struct_eng3_d_1_1_profiler.html" title=" " alt="" coords="373,95,492,121"/>
+<area shape="rect" id="node6" href="$struct_eng3_d_1_1_lua_v_m.html" title=" " alt="" coords="516,95,632,121"/>
+<area shape="rect" id="node7" href="$class_unit_manager.html" title=" " alt="" coords="657,95,763,121"/>
+<area shape="rect" id="node8" href="$struct_eng3_d_1_1_freelist.html" title=" " alt="" coords="621,5,799,32"/>
 </map>

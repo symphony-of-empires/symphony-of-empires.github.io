@@ -1,4 +1,5 @@
 <map id="UI::Image" name="UI::Image">
-<area shape="rect" id="node1" title="Image widget." alt="" coords="8,80,93,107"/>
-<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html" title="The master widget all the other widgets inherit from." alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node1" title="Image widget, can display pictures or effects on the screen." alt="" coords="27,80,113,107"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_aspect_image.html" title="A version of the Image widget that keeps aspect ratio of the image (useful for flags)" alt="" coords="5,155,135,181"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html" title="The master widget all the other widgets inherit from, do not use directly instead use one of the many..." alt="" coords="25,5,115,32"/>
 </map>

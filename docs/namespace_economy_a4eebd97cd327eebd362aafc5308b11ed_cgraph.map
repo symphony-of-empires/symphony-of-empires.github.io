@@ -1,0 +1,12 @@
+<map id="Economy::do_tick" name="Economy::do_tick">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,141,159"/>
+<area shape="rect" id="node2" href="$economy_8cpp.html#a343166e1586aab13adecfed0ac77b302" title=" " alt="" coords="241,5,343,32"/>
+<area shape="rect" id="node3" href="$namespacetbb.html#af2d7671a9179fe8baa004ac84e88854d" title=" " alt="" coords="467,81,593,108"/>
+<area shape="rect" id="node4" href="$struct_economy_1_1_trade.html#aa543a4063f78b2f34d04a5bf3f3389cc" title=" " alt="" coords="189,107,395,133"/>
+<area shape="rect" id="node5" href="$struct_eng3_d_1_1_profiler.html#acbca63fa1f82bbc2e9ac38166093ad83" title=" " alt="" coords="213,208,371,235"/>
+<area shape="rect" id="node7" href="$struct_eng3_d_1_1_profiler.html#a5a79a3ce830a3707cddda7e51a6faceb" title=" " alt="" coords="215,260,369,287"/>
+<area shape="rect" id="node10" href="$economy_8cpp.html#a2b8f262f168f64ce6a107660f3c753b1" title=" " alt="" coords="229,157,355,184"/>
+<area shape="rect" id="node6" href="$class_eng3_d_1_1_benchmark_task.html#a657fbc43141d60b274ce04c3a727398c" title=" " alt="" coords="443,198,617,239"/>
+<area shape="rect" id="node8" href="$namespace_eng3_d_1_1_log.html#a01b504eaf92484d8ce7adca6838f7e54" title=" " alt="" coords="463,264,597,291"/>
+<area shape="rect" id="node9" href="$namespace_eng3_d_1_1_log.html#a3e23c7cd8e6a525628ef052a65d5efd6" title="Logs data to a file or console." alt="" coords="665,264,788,291"/>
+</map>

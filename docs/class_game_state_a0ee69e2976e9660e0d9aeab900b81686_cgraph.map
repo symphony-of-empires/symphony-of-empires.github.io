@@ -1,12 +1,16 @@
 <map id="GameState::play_nation" name="GameState::play_nation">
-<area shape="rect" id="node1" title=" " alt="" coords="5,185,184,211"/>
-<area shape="rect" id="node2" href="$class_action_1_1_select_nation.html#ab0459cc59de8e1daa231742c10e34800" title=" " alt="" coords="254,89,409,131"/>
-<area shape="rect" id="node8" href="$print_8hpp.html#a4d6d61888d367fc052c4491545bd0560" title=" " alt="" coords="289,155,373,182"/>
-<area shape="rect" id="node9" href="$class_unified_render_1_1_networking_1_1_client.html#ab2e5141ae3e63af1474ac9df4d41b741" title=" " alt="" coords="232,207,431,248"/>
-<area shape="rect" id="node10" href="$class_camera.html#a643ffad89f1214b9b018404a2cc8f94b" title=" " alt="" coords="266,273,397,299"/>
-<area shape="rect" id="node3" href="$class_unified_render_1_1_networking_1_1_packet.html#a572c99ae39603961d621eef977312fbe" title=" " alt="" coords="479,5,677,47"/>
-<area shape="rect" id="node4" href="$class_archive.html#a4058a4361793f2214b9ca27f4f4d6b74" title=" " alt="" coords="505,71,651,98"/>
-<area shape="rect" id="node5" href="$serializer_8hpp.html#a0de36c411404bc17fd91b94b25823552" title=" " alt="" coords="539,122,617,149"/>
-<area shape="rect" id="node7" href="$class_archive.html#a83d3cc33add24511ced9c7e7d467a09c" title=" " alt="" coords="525,173,631,199"/>
-<area shape="rect" id="node6" href="$class_serializer.html#ad54aeb5821966c601bf12f7cc3ddd13f" title=" " alt="" coords="725,122,872,149"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,133,184,159"/>
+<area shape="rect" id="node2" href="$struct_eng3_d_1_1_string_ref.html#a465fd911cb1fdf06801f7507fa974a29" title=" " alt="" coords="237,49,408,75"/>
+<area shape="rect" id="node7" href="$namespace_eng3_d_1_1_log.html#a0f6f8acba80c9ea27d3e82efa4aa2b88" title=" " alt="" coords="251,103,394,130"/>
+<area shape="rect" id="node9" href="$struct_action_1_1_select_nation.html#ae0776681b7216d0b0719312a2ca0d7ed" title=" " alt="" coords="245,155,400,196"/>
+<area shape="rect" id="node12" href="$namespace_eng3_d.html#aa559d3847f8c8cd69775bf7bb7e76ecc" title="String formatter, with translation." alt="" coords="232,255,413,282"/>
+<area shape="rect" id="node3" href="$struct_eng3_d_1_1_string_ref.html#a8778d980a4762c9ab87a638e2e2db996" title=" " alt="" coords="471,37,631,79"/>
+<area shape="rect" id="node4" href="$class_eng3_d_1_1_string_manager.html#a0bfd4f1e71d93fbda3a9cd6a09ea5549" title=" " alt="" coords="689,5,856,47"/>
+<area shape="rect" id="node6" href="$class_eng3_d_1_1_string_manager.html#a9303a7c99715e8535ceb2758aa3f3ac9" title=" " alt="" coords="689,71,856,112"/>
+<area shape="rect" id="node5" href="$struct_eng3_d_1_1_string_ref.html#a76f583fc1cf257249012f5654282870b" title=" " alt="" coords="904,13,1083,39"/>
+<area shape="rect" id="node8" href="$namespace_eng3_d_1_1_log.html#a3e23c7cd8e6a525628ef052a65d5efd6" title="Logs data to a file or console." alt="" coords="490,103,613,130"/>
+<area shape="rect" id="node10" href="$struct_entity.html#a64dd7416c7b112fb6b86150858b17028" title=" " alt="" coords="498,154,605,181"/>
+<area shape="rect" id="node11" href="$namespace_eng3_d_1_1_deser.html#afd2ea5ea41cc89088144428830e7f9c1" title=" " alt="" coords="465,205,638,231"/>
+<area shape="rect" id="node13" href="$namespace_eng3_d.html#a2daac0a3df154cd4d5c44da06e430ee9" title="String formatter." alt="" coords="471,255,631,282"/>
+<area shape="rect" id="node14" href="$namespace_eng3_d_1_1_locale.html#a9c2effc733964ffd9d135001e6fc036b" title=" " alt="" coords="461,306,641,333"/>
 </map>

@@ -1,0 +1,5 @@
+<map id="UI::Widget::get_y_bounds" name="UI::Widget::get_y_bounds">
+<area shape="rect" id="node1" title="Obtains the height of the top and bottom overflow in widget That is the space that the children of th..." alt="" coords="220,35,408,61"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_scrollbar.html#a8f6d232de29370440a4ab20b4a1923de" title=" " alt="" coords="5,5,172,32"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_scrollbar_thumb.html#a6fe735cdfe6a9373a8e095e3ebd1bd5b" title=" " alt="" coords="15,57,162,98"/>
+</map>

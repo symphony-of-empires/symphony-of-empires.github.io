@@ -1,0 +1,8 @@
+<map id="Eng3D::Camera::get_view" name="Eng3D::Camera::get_view">
+<area shape="rect" id="node1" title="Get the view matrix." alt="" coords="219,107,409,133"/>
+<area shape="rect" id="node2" href="$class_eng3_d_1_1_borders.html#aa9a41ac2c021d3e9c2758c5b761560c7" title=" " alt="" coords="7,5,169,32"/>
+<area shape="rect" id="node3" href="$class_eng3_d_1_1_rivers.html#a502059501172515f4bda567e63ae7277" title=" " alt="" coords="11,56,165,83"/>
+<area shape="rect" id="node4" href="$class_map_render.html#add91217b1a7f6c40c91e283ea5c3f41f" title=" " alt="" coords="20,107,156,133"/>
+<area shape="rect" id="node5" href="$struct_eng3_d_1_1_font_s_d_f.html#a0428cc3349900d14a3b9b2c62aa284d6" title=" " alt="" coords="5,157,171,184"/>
+<area shape="rect" id="node6" href="$class_eng3_d_1_1_camera.html#ab387fa58e66d3355148366461e27575a" title="Get the tiles position on the screen." alt="" coords="12,209,164,250"/>
+</map>

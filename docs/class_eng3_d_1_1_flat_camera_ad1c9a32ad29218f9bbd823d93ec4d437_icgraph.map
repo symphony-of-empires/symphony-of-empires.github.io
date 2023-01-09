@@ -1,0 +1,4 @@
+<map id="Eng3D::FlatCamera::get_view" name="Eng3D::FlatCamera::get_view">
+<area shape="rect" id="node1" title="Get the view matrix." alt="" coords="209,5,365,47"/>
+<area shape="rect" id="node2" href="$class_eng3_d_1_1_flat_camera.html#a9808ad009a74ba632da68a130d980503" title="Get the cursors position on the map." alt="" coords="5,5,161,47"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="MapRender::update" name="MapRender::update">
+<area shape="rect" id="node1" title=" " alt="" coords="5,143,155,170"/>
+<area shape="rect" id="node2" href="$class_province_manager.html#a05f96e0f8736570432177e54e1794a09" title=" " alt="" coords="212,5,419,47"/>
+<area shape="rect" id="node3" href="$class_province_manager.html#a15f33bc142b48df100b3a985c36b4b65" title=" " alt="" coords="215,71,416,112"/>
+<area shape="rect" id="node4" href="$class_province_manager.html#a2b859db79eac01cf46f16a412e012785" title=" " alt="" coords="238,136,393,177"/>
+<area shape="rect" id="node5" href="$class_map_render.html#ab490f60d45b158b3a4d7c88dc88aa64f" title="Creates the &quot;waving&quot; border around the continent to give it a 19th century map feel Generate a distan..." alt="" coords="203,202,428,229"/>
+<area shape="rect" id="node14" href="$class_map_render.html#a9e12024d514997b1469234f169de5414" title=" " alt="" coords="213,307,417,334"/>
+<area shape="rect" id="node6" href="$namespace_eng3_d_1_1_log.html#a0f6f8acba80c9ea27d3e82efa4aa2b88" title=" " alt="" coords="526,9,669,35"/>
+<area shape="rect" id="node8" href="$class_eng3_d_1_1_texture.html#afe71975f5e796fac7544367f70985439" title=" " alt="" coords="521,60,673,101"/>
+<area shape="rect" id="node9" href="$struct_eng3_d_1_1_rectangle.html#a47cb3d482b7510c1a16613073a083bff" title="Obtains the height." alt="" coords="504,126,691,153"/>
+<area shape="rect" id="node10" href="$struct_eng3_d_1_1_rectangle.html#ac9052da0f0a228ec418e866e2476e486" title="Scales the rectangle by factor." alt="" coords="508,177,687,203"/>
+<area shape="rect" id="node11" href="$class_eng3_d_1_1_texture.html#a642c98a137703f01f8f6f9155569f879" title="Frontend for uploading (schedules or instantly uploads)" alt="" coords="511,227,683,254"/>
+<area shape="rect" id="node12" href="$class_eng3_d_1_1_open_g_l_1_1_framebuffer.html#aa9c4a730742df123ca2ad4b6c5c9e381" title=" " alt="" coords="476,278,719,305"/>
+<area shape="rect" id="node13" href="$struct_eng3_d_1_1_rectangle.html#add9cd811f54f2ef36a04c8812804f84d" title="Obtains the width." alt="" coords="507,329,688,355"/>
+<area shape="rect" id="node7" href="$namespace_eng3_d_1_1_log.html#a3e23c7cd8e6a525628ef052a65d5efd6" title="Logs data to a file or console." alt="" coords="804,9,927,35"/>
+<area shape="rect" id="node15" href="$class_map.html#ab6a24f4e8c75ea007142486b161950de" title=" " alt="" coords="522,380,673,421"/>
+<area shape="rect" id="node16" href="$struct_eng3_d_1_1_rectangle.html#ae5b123a7b26a396b04eb622a7f62dc54" title="Obtains the current position of the rectangle." alt="" coords="767,362,964,389"/>
+<area shape="rect" id="node17" href="$struct_eng3_d_1_1_rectangle.html#a0ca5a95c589331a5a9431c047bc7cfcb" title="Obtains the current size of the rectangle." alt="" coords="780,413,951,439"/>
+</map>

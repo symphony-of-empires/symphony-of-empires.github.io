@@ -1,0 +1,11 @@
+<map id="UI::Input::on_click_outside_default" name="UI::Input::on_click_outside_default">
+<area shape="rect" id="node1" title=" " alt="" coords="5,53,144,94"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html#adbd9b5ed5bbf24f7f6f58efecb604127" title="Generates text for the widget and overrides the current text texture." alt="" coords="192,60,343,87"/>
+<area shape="rect" id="node3" href="$class_eng3_d_1_1_texture_manager.html#af9cf19cb0bd906b47dec14c57d5b2352" title=" " alt="" coords="401,23,578,65"/>
+<area shape="rect" id="node9" href="$class_eng3_d_1_1_state.html#aa56bcd817186a82da2b53f34f8c4d680" title=" " alt="" coords="391,89,588,116"/>
+<area shape="rect" id="node4" href="$namespace_eng3_d_1_1_log.html#a0f6f8acba80c9ea27d3e82efa4aa2b88" title=" " alt="" coords="655,5,798,32"/>
+<area shape="rect" id="node6" href="$namespace_eng3_d.html#aa559d3847f8c8cd69775bf7bb7e76ecc" title="String formatter, with translation." alt="" coords="636,56,817,83"/>
+<area shape="rect" id="node5" href="$namespace_eng3_d_1_1_log.html#a3e23c7cd8e6a525628ef052a65d5efd6" title="Logs data to a file or console." alt="" coords="894,5,1017,32"/>
+<area shape="rect" id="node7" href="$namespace_eng3_d.html#a2daac0a3df154cd4d5c44da06e430ee9" title="String formatter." alt="" coords="875,56,1035,83"/>
+<area shape="rect" id="node8" href="$namespace_eng3_d_1_1_locale.html#a9c2effc733964ffd9d135001e6fc036b" title=" " alt="" coords="865,107,1045,133"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="game/src/client/interface/unit_widget.hpp" name="game/src/client/interface/unit_widget.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="146,5,330,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,135,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="159,95,317,121"/>
+<area shape="rect" id="node4" href="$unit_8hpp.html" title=" " alt="" coords="342,95,417,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="27,169,86,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="111,169,173,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="379,244,446,271"/>
+<area shape="rect" id="node8" title=" " alt="" coords="249,169,320,196"/>
+<area shape="rect" id="node9" title=" " alt="" coords="345,169,414,196"/>
+<area shape="rect" id="node10" title=" " alt="" coords="439,169,531,196"/>
+<area shape="rect" id="node11" title=" " alt="" coords="555,169,665,196"/>
+<area shape="rect" id="node12" href="$objects_8hpp.html" title=" " alt="" coords="689,169,787,196"/>
+<area shape="rect" id="node15" title=" " alt="" coords="811,169,951,196"/>
+<area shape="rect" id="node13" title=" " alt="" coords="589,244,719,271"/>
+<area shape="rect" id="node14" title=" " alt="" coords="743,244,898,271"/>
+</map>

@@ -1,6 +1,0 @@
-<map id="LuaAPI::add_province_industry" name="LuaAPI::add_province_industry">
-<area shape="rect" id="node1" title=" " alt="" coords="5,23,167,65"/>
-<area shape="rect" id="node2" href="$class_building.html#aba46ddf3ebfb41eaad95c0f1be83f892" title=" " alt="" coords="215,5,392,32"/>
-<area shape="rect" id="node4" href="$class_world.html#a414eabf82ea5586d568450c46e55a53a" title=" " alt="" coords="463,56,568,83"/>
-<area shape="rect" id="node3" href="$class_world.html#a7d0d96c8ffadbda070169caa4099e3c2" title=" " alt="" coords="440,5,591,32"/>
-</map>

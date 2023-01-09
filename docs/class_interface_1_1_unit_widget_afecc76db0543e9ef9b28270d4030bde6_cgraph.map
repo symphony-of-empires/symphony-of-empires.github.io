@@ -1,0 +1,8 @@
+<map id="Interface::UnitWidget::UnitWidget" name="Interface::UnitWidget::UnitWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,167,149"/>
+<area shape="rect" id="node2" href="$class_eng3_d_1_1_state.html#aa56bcd817186a82da2b53f34f8c4d680" title=" " alt="" coords="219,5,417,32"/>
+<area shape="rect" id="node3" href="$struct_entity.html#ae29eb80d463717dce25b8d3abfd423df" title="Returns an invalid id." alt="" coords="227,56,409,83"/>
+<area shape="rect" id="node4" href="$struct_entity.html#a02214d6b14f904ab9693ba9a05c5476a" title="Checks if the current id is invalid." alt="" coords="244,107,392,149"/>
+<area shape="rect" id="node5" href="$class_client_state.html#a50aa55fc62a5a8095d64991764d66220" title=" " alt="" coords="215,173,421,200"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_widget.html#a45bee51280aa2ddb823ae5cc18ae1004" title="Sets the on_click function of this widget." alt="" coords="247,225,389,266"/>
+</map>

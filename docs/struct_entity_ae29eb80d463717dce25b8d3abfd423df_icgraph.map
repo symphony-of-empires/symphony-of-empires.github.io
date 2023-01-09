@@ -1,0 +1,8 @@
+<map id="Entity::invalid" name="Entity::invalid">
+<area shape="rect" id="node1" title="Returns an invalid id." alt="" coords="404,85,515,112"/>
+<area shape="rect" id="node2" href="$namespace_lua_a_p_i.html#ac6b2759cb4aa4d35fd418a21a751ab23" title=" " alt="" coords="216,35,356,61"/>
+<area shape="rect" id="node5" href="$struct_entity.html#a99b000db3ab615ec113c4fbb793e0de3" title="Checks if the id is not valid." alt="" coords="221,85,351,112"/>
+<area shape="rect" id="node6" href="$struct_entity.html#a1175e01ddf9e3e12d74aa55394b2066d" title="Checks if the id is valid." alt="" coords="227,136,345,163"/>
+<area shape="rect" id="node3" href="$namespace_lua_a_p_i.html#afc2df2e273d58ce3eed9d9bd1882acca" title=" " alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node4" href="$class_world.html#a859db18c5d63eca0888cc65dd4142474" title=" " alt="" coords="15,57,158,98"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="Interface::Minimap::Minimap" name="Interface::Minimap::Minimap">
+<area shape="rect" id="node1" title=" " alt="" coords="5,333,151,374"/>
+<area shape="rect" id="node2" href="$struct_eng3_d_1_1_color.html#a748f4d9b8725289323666fd4c2b553fb" title=" " alt="" coords="435,147,586,173"/>
+<area shape="rect" id="node5" href="$game_2src_2client_2map_8cpp.html#a245bf4e6842e81cffe2f62143a866636" title=" " alt="" coords="199,45,375,72"/>
+<area shape="rect" id="node6" href="$struct_entity.html#a64dd7416c7b112fb6b86150858b17028" title=" " alt="" coords="233,96,340,123"/>
+<area shape="rect" id="node7" href="$game_2src_2client_2map_8cpp.html#afe109a7c80fa044b4287d9d84920a580" title=" " alt="" coords="209,147,364,173"/>
+<area shape="rect" id="node8" href="$game_2src_2client_2map_8cpp.html#a7496496ca9f5122af2ce16b0d76231ad" title=" " alt="" coords="218,198,355,239"/>
+<area shape="rect" id="node9" href="$minimap_8cpp.html#abe098f4409a1dca433af4f94a87647d0" title=" " alt="" coords="201,264,372,291"/>
+<area shape="rect" id="node13" href="$minimap_8cpp.html#af45f958d4964ec02a23c698eb7410e5b" title=" " alt="" coords="217,315,357,341"/>
+<area shape="rect" id="node14" href="$minimap_8cpp.html#a04ea4c4b874e7a23150cf2708d2ad07f" title=" " alt="" coords="207,365,366,392"/>
+<area shape="rect" id="node15" href="$minimap_8cpp.html#a6642e8de7163b104d5033afd7a3752e5" title=" " alt="" coords="223,416,351,443"/>
+<area shape="rect" id="node16" href="$class_map.html#a6595282a7a20750b75a2d3430e89a331" title=" " alt="" coords="207,467,366,493"/>
+<area shape="rect" id="node18" href="$class_u_i_1_1_widget.html#a45bee51280aa2ddb823ae5cc18ae1004" title="Sets the on_click function of this widget." alt="" coords="216,518,357,559"/>
+<area shape="rect" id="node19" href="$minimap_8cpp.html#a47d5044f4e7259bef6316222f82a3324" title=" " alt="" coords="214,584,359,611"/>
+<area shape="rect" id="node20" href="$minimap_8cpp.html#a397caf93fdb9a96d7d74fad74e6f5f18" title=" " alt="" coords="219,635,355,661"/>
+<area shape="rect" id="node21" href="$minimap_8cpp.html#aa97cdf6089ad7b10e85f1c7da6158ae3" title=" " alt="" coords="234,685,339,712"/>
+<area shape="rect" id="node3" href="$struct_eng3_d_1_1_color.html#a832af67b4ed44c0456424c386df7acf0" title=" " alt="" coords="647,164,805,191"/>
+<area shape="rect" id="node4" href="$struct_eng3_d_1_1_color.html#a4aeb6b7def0b09353d4bcf8d1d3a4eaa" title=" " alt="" coords="853,205,1001,232"/>
+<area shape="rect" id="node10" href="$struct_eng3_d_1_1_color.html#add416f9b7d5301f51fc0c412a09547dd" title="Combine two colors with LERP." alt="" coords="441,213,580,240"/>
+<area shape="rect" id="node11" href="$struct_eng3_d_1_1_color.html#a2456b07065c69769a9a979010144de4d" title="Create a color from RGB components." alt="" coords="439,264,582,291"/>
+<area shape="rect" id="node12" href="$struct_eng3_d_1_1_color.html#a8fd0d3d80fba6dc4b7776691e2d33f58" title="Create a color from RGBA components." alt="" coords="651,231,801,257"/>
+<area shape="rect" id="node17" href="$class_map.html#a34655aa02bf6b95e7866b3c3960e4095" title=" " alt="" coords="423,467,599,493"/>
+</map>

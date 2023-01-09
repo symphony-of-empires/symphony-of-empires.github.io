@@ -1,7 +1,9 @@
-<map id="game/src/disc_dist.hpp" name="game/src/disc_dist.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="112,5,283,32"/>
+<map id="eng3d/src/disc_dist.hpp" name="eng3d/src/disc_dist.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="209,5,383,32"/>
 <area shape="rect" id="node2" title=" " alt="" coords="5,80,80,107"/>
 <area shape="rect" id="node3" title=" " alt="" coords="104,80,189,107"/>
 <area shape="rect" id="node4" title=" " alt="" coords="214,80,285,107"/>
-<area shape="rect" id="node5" title=" " alt="" coords="309,80,371,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="309,80,379,107"/>
+<area shape="rect" id="node6" title=" " alt="" coords="403,80,466,107"/>
+<area shape="rect" id="node7" title=" " alt="" coords="491,80,613,107"/>
 </map>

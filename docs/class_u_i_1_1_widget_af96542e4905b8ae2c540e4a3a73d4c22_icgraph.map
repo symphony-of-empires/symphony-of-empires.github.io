@@ -1,0 +1,19 @@
+<map id="UI::Widget::kill_children" name="UI::Widget::kill_children">
+<area shape="rect" id="node1" title=" " alt="" coords="801,358,979,385"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html#aaf79e92d46cc37f91327d75b42bd2cf6" title="Kills the current widget, setting it up for deletion when dead widgets are cleared by the UI context." alt="" coords="635,358,753,385"/>
+<area shape="rect" id="node3" href="$class_interface_1_1_army_view.html#a8bce154dafa3cd5457afdc1f5866d978" title=" " alt="" coords="148,5,303,47"/>
+<area shape="rect" id="node4" href="$class_interface_1_1_decision_window.html#a624564aa37e398568710b7b6e4673f3a" title=" " alt="" coords="391,561,587,603"/>
+<area shape="rect" id="node5" href="$class_game_state.html#af784f7edf3119c7e523d16c9e0e342bc" title=" " alt="" coords="400,627,577,654"/>
+<area shape="rect" id="node6" href="$game__state_8cpp.html#a77319d55fd309ea6ae5626d3da1624cc" title=" " alt="" coords="429,678,549,705"/>
+<area shape="rect" id="node9" href="$class_interface_1_1_industry_window.html#a49be8e118abaa646cedaf92ed839a632" title=" " alt="" coords="129,71,322,112"/>
+<area shape="rect" id="node10" href="$class_interface_1_1_main_menu_connect_server.html#a9efede33cc57d38d329d37f968a46c91" title=" " alt="" coords="108,136,343,177"/>
+<area shape="rect" id="node11" href="$class_interface_1_1_nation_view.html#ab23381341de6c14baeea2d89a833b6aa" title=" " alt="" coords="144,201,307,243"/>
+<area shape="rect" id="node12" href="$class_interface_1_1_policies_view.html#abc4aa55a9075f5848b44b3211d1f05cf" title=" " alt="" coords="140,267,311,308"/>
+<area shape="rect" id="node13" href="$class_interface_1_1_pop_window.html#a2338c5b60e38a8fe7f8c273a5c8f7193" title=" " alt="" coords="143,332,307,373"/>
+<area shape="rect" id="node14" href="$class_eng3_d_1_1_interface_1_1_profiler_view.html#afe01c1df8ff207da8e196b895c9de028" title=" " alt="" coords="133,397,318,439"/>
+<area shape="rect" id="node15" href="$class_interface_1_1_province_view.html#a745042f6ff29a69abfac932611553107" title=" " alt="" coords="137,463,313,504"/>
+<area shape="rect" id="node16" href="$class_u_i_1_1_window.html#a36a8897a012c8af528c3de1660671fae" title=" " alt="" coords="406,292,571,333"/>
+<area shape="rect" id="node17" href="$class_interface_1_1_unit_view.html#a861ead1d1832df5223c76824b2cfa466" title=" " alt="" coords="152,528,299,569"/>
+<area shape="rect" id="node7" href="$game__state_8cpp.html#a38df56eea7afe52c578c11991df7d541" title=" " alt="" coords="170,678,281,705"/>
+<area shape="rect" id="node8" href="$game__state_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,678,60,705"/>
+</map>

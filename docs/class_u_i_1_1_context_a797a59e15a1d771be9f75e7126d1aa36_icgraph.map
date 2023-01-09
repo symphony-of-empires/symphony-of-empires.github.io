@@ -1,0 +1,4 @@
+<map id="UI::Context::check_mouse_released" name="UI::Context::check_mouse_released">
+<area shape="rect" id="node1" title="Release the dragging of the widget." alt="" coords="280,5,421,47"/>
+<area shape="rect" id="node2" href="$class_game_state.html#a05b174fc9f1d542acd44a2e3c827011b" title=" " alt="" coords="5,13,232,39"/>
+</map>

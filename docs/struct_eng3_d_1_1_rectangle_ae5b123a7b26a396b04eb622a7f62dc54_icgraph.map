@@ -1,0 +1,10 @@
+<map id="Eng3D::Rectangle::position" name="Eng3D::Rectangle::position">
+<area shape="rect" id="node1" title="Obtains the current position of the rectangle." alt="" coords="729,35,927,61"/>
+<area shape="rect" id="node2" href="$struct_eng3_d_1_1_rectangle.html#ae991c752671b47a1182f328f6b06f840" title="Sets the base position of the rectangle, modifying it&#39;s size." alt="" coords="484,5,681,32"/>
+<area shape="rect" id="node3" href="$class_map.html#ab6a24f4e8c75ea007142486b161950de" title=" " alt="" coords="507,57,658,98"/>
+<area shape="rect" id="node4" href="$class_map.html#a1e704b83efd928151073aebcbfb9001e" title=" " alt="" coords="261,39,407,65"/>
+<area shape="rect" id="node6" href="$class_map_render.html#a9e12024d514997b1469234f169de5414" title=" " alt="" coords="232,89,436,116"/>
+<area shape="rect" id="node5" href="$class_map.html#a52ee1dba587cc7666425f96055bae92f" title=" " alt="" coords="51,39,138,65"/>
+<area shape="rect" id="node7" href="$class_map_render.html#ad237baf3582689d3963ac5c6e59aa363" title=" " alt="" coords="5,89,184,116"/>
+<area shape="rect" id="node8" href="$class_map_render.html#ad4b88031a78b74e014635624420b4758" title=" " alt="" coords="20,140,169,167"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="UI::Text::set_text" name="UI::Text::set_text">
+<area shape="rect" id="node1" title="Generates text for the widget and overrides the current text texture." alt="" coords="160,5,292,32"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_text.html#a93cfc5f3fd167c9715719fabc4a825fa" title="Create a new text object from a text string." alt="" coords="5,5,112,32"/>
+</map>

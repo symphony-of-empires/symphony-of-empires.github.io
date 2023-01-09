@@ -1,4 +1,5 @@
 <map id="LuaAPI::add_event" name="LuaAPI::add_event">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,148,32"/>
-<area shape="rect" id="node2" href="$class_world.html#a414eabf82ea5586d568450c46e55a53a" title=" " alt="" coords="196,5,301,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,148,57"/>
+<area shape="rect" id="node2" href="$class_world.html#a7d2c2d20eee7edbae293e41d7c949b14" title="Get the id of an object, this is a template for all types except for tiles and locally&#45;stored types (..." alt="" coords="196,5,304,32"/>
+<area shape="rect" id="node3" href="$class_world.html#a8e57434e0aafd63b8a1ccfd449a4826b" title=" " alt="" coords="197,56,303,83"/>
 </map>

@@ -1,12 +1,9 @@
 <map id="Pop" name="Pop">
-<area shape="rect" id="node1" title=" " alt="" coords="179,323,226,349"/>
-<area shape="rect" id="node2" href="$class_religion.html" title=" " alt="" coords="65,233,140,260"/>
-<area shape="rect" id="node3" href="$class_refname_entity.html" title=" " alt="" coords="5,157,200,184"/>
-<area shape="rect" id="node10" href="$class_pop_type.html" title=" " alt="" coords="165,233,241,260"/>
-<area shape="rect" id="node4" href="$class_id_entity.html" title=" " alt="" coords="29,81,176,108"/>
-<area shape="rect" id="node5" href="$class_entity.html" title=" " alt="" coords="35,5,170,32"/>
-<area shape="rect" id="node6" href="$class_culture.html" title=" " alt="" coords="277,233,347,260"/>
-<area shape="rect" id="node7" href="$class_refname_entity.html" title=" " alt="" coords="224,157,427,184"/>
-<area shape="rect" id="node8" href="$class_id_entity.html" title=" " alt="" coords="248,81,403,108"/>
-<area shape="rect" id="node9" href="$class_entity.html" title=" " alt="" coords="254,5,397,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="215,184,261,211"/>
+<area shape="rect" id="node2" href="$struct_entity.html" title=" " alt="" coords="51,95,177,121"/>
+<area shape="rect" id="node3" href="$struct_policies.html" title=" " alt="" coords="202,95,274,121"/>
+<area shape="rect" id="node4" href="$struct_policies_1_1_economic.html" title=" " alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node5" href="$struct_policies_1_1_political.html" title=" " alt="" coords="172,5,304,32"/>
+<area shape="rect" id="node6" href="$struct_pop_type_id.html" title=" " alt="" coords="353,95,441,121"/>
+<area shape="rect" id="node7" href="$struct_entity_id.html" title=" " alt="" coords="329,5,475,32"/>
 </map>

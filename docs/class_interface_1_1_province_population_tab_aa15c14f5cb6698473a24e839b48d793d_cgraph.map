@@ -1,6 +1,9 @@
 <map id="Interface::ProvincePopulationTab::update_piecharts" name="Interface::ProvincePopulationTab::update_piecharts">
-<area shape="rect" id="node1" title=" " alt="" coords="5,57,219,98"/>
-<area shape="rect" id="node2" href="$class_world.html#ae4bea99395c77d8afcbc54333e7b84a3" title=" " alt="" coords="294,5,402,32"/>
-<area shape="rect" id="node3" href="$class_unified_render_1_1_color.html#aa6694fd5e161847079d97c4e4686fcd6" title=" " alt="" coords="269,57,427,98"/>
-<area shape="rect" id="node4" href="$class_u_i_1_1_pie_chart.html#ae33ce25237e1390092077aa2c8f264fc" title=" " alt="" coords="267,123,429,149"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,74,219,115"/>
+<area shape="rect" id="node2" href="$struct_eng3_d_1_1_color.html#a748f4d9b8725289323666fd4c2b553fb" title=" " alt="" coords="273,5,423,32"/>
+<area shape="rect" id="node5" href="$class_world.html#a7d2c2d20eee7edbae293e41d7c949b14" title="Get the id of an object, this is a template for all types except for tiles and locally&#45;stored types (..." alt="" coords="294,56,402,83"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_pie_chart.html#ae33ce25237e1390092077aa2c8f264fc" title=" " alt="" coords="267,107,429,133"/>
+<area shape="rect" id="node7" href="$class_province.html#ae8a8007259d1a6fd821ad30123956352" title=" " alt="" coords="271,157,425,184"/>
+<area shape="rect" id="node3" href="$struct_eng3_d_1_1_color.html#a832af67b4ed44c0456424c386df7acf0" title=" " alt="" coords="477,5,636,32"/>
+<area shape="rect" id="node4" href="$struct_eng3_d_1_1_color.html#a4aeb6b7def0b09353d4bcf8d1d3a4eaa" title=" " alt="" coords="684,5,832,32"/>
 </map>

@@ -1,0 +1,19 @@
+<map id="Interface::IndustryWindow::IndustryWindow" name="Interface::IndustryWindow::IndustryWindow">
+<area shape="rect" id="node1" title=" " alt="" coords="5,165,199,206"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html#aaf79e92d46cc37f91327d75b42bd2cf6" title="Kills the current widget, setting it up for deletion when dead widgets are cleared by the UI context." alt="" coords="506,55,625,81"/>
+<area shape="rect" id="node4" href="$class_interface_1_1_industry_window.html#add2f549811bc1ea1364b7fa3b65a3783" title=" " alt="" coords="469,165,662,206"/>
+<area shape="rect" id="node10" href="$namespace_eng3_d_1_1_locale.html#a9c2effc733964ffd9d135001e6fc036b" title=" " alt="" coords="952,360,1132,387"/>
+<area shape="rect" id="node11" href="$class_u_i_1_1_window.html#a36a8897a012c8af528c3de1660671fae" title=" " alt="" coords="247,106,412,147"/>
+<area shape="rect" id="node13" href="$class_u_i_1_1_widget.html#adbd9b5ed5bbf24f7f6f58efecb604127" title="Generates text for the widget and overrides the current text texture." alt="" coords="254,251,405,277"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_widget.html#af96542e4905b8ae2c540e4a3a73d4c22" title=" " alt="" coords="723,5,900,32"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_widget.html#a3028717f5a2c3d12dafe5f58b627e41f" title=" " alt="" coords="719,56,904,83"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_table.html#a948a8cb2429d626004b31667283b6917" title=" " alt="" coords="744,107,879,133"/>
+<area shape="rect" id="node7" href="$class_u_i_1_1_widget.html#a59a343757cbb2e67a1d00a142811c2a9" title="Set the tooltip to be shown when this widget is hovered, overrides the previous tooltip." alt="" coords="728,157,895,184"/>
+<area shape="rect" id="node8" href="$namespace_eng3_d.html#a2daac0a3df154cd4d5c44da06e430ee9" title="String formatter." alt="" coords="962,233,1122,260"/>
+<area shape="rect" id="node9" href="$namespace_eng3_d.html#aa559d3847f8c8cd69775bf7bb7e76ecc" title="String formatter, with translation." alt="" coords="721,259,902,285"/>
+<area shape="rect" id="node12" href="$class_u_i_1_1_image.html#a86ff5c76873637d9ca8b0433fbac0b5e" title=" " alt="" coords="460,113,671,140"/>
+<area shape="rect" id="node14" href="$class_eng3_d_1_1_texture_manager.html#af9cf19cb0bd906b47dec14c57d5b2352" title=" " alt="" coords="477,243,654,285"/>
+<area shape="rect" id="node17" href="$class_eng3_d_1_1_state.html#aa56bcd817186a82da2b53f34f8c4d680" title=" " alt="" coords="467,309,664,336"/>
+<area shape="rect" id="node15" href="$namespace_eng3_d_1_1_log.html#a0f6f8acba80c9ea27d3e82efa4aa2b88" title=" " alt="" coords="740,309,883,336"/>
+<area shape="rect" id="node16" href="$namespace_eng3_d_1_1_log.html#a3e23c7cd8e6a525628ef052a65d5efd6" title="Logs data to a file or console." alt="" coords="981,309,1103,336"/>
+</map>

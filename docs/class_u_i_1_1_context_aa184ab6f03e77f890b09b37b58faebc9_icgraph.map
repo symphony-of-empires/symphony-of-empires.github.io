@@ -1,0 +1,15 @@
+<map id="UI::Context::prompt" name="UI::Context::prompt">
+<area shape="rect" id="node1" title=" " alt="" coords="513,202,664,229"/>
+<area shape="rect" id="node2" href="$class_interface_1_1_lobby_select_view.html#a544985f6f6be5c9273969a5ab44a5089" title=" " alt="" coords="249,5,447,47"/>
+<area shape="rect" id="node3" href="$class_game_state.html#a3f2309112b397672cc7fd44e571b49d5" title=" " alt="" coords="259,71,437,98"/>
+<area shape="rect" id="node4" href="$namespace_l_u_a__util.html#ad9d84b6a6e97b3d96e164101e730d870" title=" " alt="" coords="293,122,403,149"/>
+<area shape="rect" id="node7" href="$triangle_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="321,173,375,199"/>
+<area shape="rect" id="node8" href="$class_interface_1_1_main_menu_connect_server.html#a9efede33cc57d38d329d37f968a46c91" title=" " alt="" coords="231,224,465,265"/>
+<area shape="rect" id="node9" href="$class_client.html#a61a8455f192dc28945184d9e78e13a1b" title=" " alt="" coords="289,290,407,317"/>
+<area shape="rect" id="node11" href="$class_interface_1_1_policies_view.html#abc4aa55a9075f5848b44b3211d1f05cf" title=" " alt="" coords="263,341,433,383"/>
+<area shape="rect" id="node12" href="$class_game_state.html#a9770493b5d56697899be44dd01a28e65" title=" " alt="" coords="254,407,442,434"/>
+<area shape="rect" id="node5" href="$class_eng3_d_1_1_model_manager.html#ad5b75e8aeee9ad3347e6f23f149ab254" title=" " alt="" coords="9,83,179,124"/>
+<area shape="rect" id="node6" href="$class_eng3_d_1_1_texture_manager.html#a32d3d994943ec3f75df30f5195bdc0ea" title=" " alt="" coords="5,148,183,189"/>
+<area shape="rect" id="node10" href="$class_client.html#a6ce8dbab20334d3f21ad02cac4368ec6" title=" " alt="" coords="41,290,147,317"/>
+<area shape="rect" id="node13" href="$game__state_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="67,407,121,434"/>
+</map>

@@ -1,5 +1,0 @@
-<map id="Interface::TreatyChooseWindow" name="Interface::TreatyChooseWindow">
-<area shape="rect" id="node1" title=" " alt="" coords="5,155,233,181"/>
-<area shape="rect" id="node2" href="$class_u_i_1_1_window.html" title="Window widget." alt="" coords="71,80,167,107"/>
-<area shape="rect" id="node3" href="$class_u_i_1_1_widget.html" title="The master widget all the other widgets inherit from." alt="" coords="74,5,165,32"/>
-</map>

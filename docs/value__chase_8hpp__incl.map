@@ -1,5 +1,5 @@
-<map id="game/src/client/value_chase.hpp" name="game/src/client/value_chase.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="20,5,183,47"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,95,72,121"/>
-<area shape="rect" id="node3" title=" " alt="" coords="96,95,232,121"/>
+<map id="eng3d/src/value_chase.hpp" name="eng3d/src/value_chase.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,204,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="9,80,75,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="99,80,235,107"/>
 </map>

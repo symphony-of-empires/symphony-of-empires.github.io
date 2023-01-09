@@ -1,0 +1,4 @@
+<map id="UI::Tooltip::set_text" name="UI::Tooltip::set_text">
+<area shape="rect" id="node1" title="Generates text for the widget and overrides the current text texture." alt="" coords="192,5,340,32"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_tooltip.html#a3bf0c9347cca81a0aa759584bb1e0a18" title=" " alt="" coords="5,5,144,32"/>
+</map>

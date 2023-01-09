@@ -1,0 +1,4 @@
+<map id="Eng3D::Rectangle::position" name="Eng3D::Rectangle::position">
+<area shape="rect" id="node1" title="Sets the base position of the rectangle, modifying it&#39;s size." alt="" coords="5,5,203,32"/>
+<area shape="rect" id="node2" href="$struct_eng3_d_1_1_rectangle.html#ae5b123a7b26a396b04eb622a7f62dc54" title="Obtains the current position of the rectangle." alt="" coords="251,5,448,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="PopType" name="PopType">
+<area shape="rect" id="node1" title=" " alt="" coords="223,171,299,197"/>
+<area shape="rect" id="node2" href="$struct_refname_entity.html" title=" " alt="" coords="5,81,220,108"/>
+<area shape="rect" id="node3" href="$struct_entity.html" title="An entity which can only be referenced by an (presumably) unique Id this is the base class for the ot..." alt="" coords="63,5,162,32"/>
+<area shape="rect" id="node4" href="$struct_eng3_d_1_1_string_ref.html" title="A reference to a string on the global string pool." alt="" coords="244,81,376,108"/>
+</map>

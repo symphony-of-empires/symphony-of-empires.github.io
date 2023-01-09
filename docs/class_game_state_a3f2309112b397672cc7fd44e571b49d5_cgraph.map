@@ -1,0 +1,12 @@
+<map id="GameState::handle_key" name="GameState::handle_key">
+<area shape="rect" id="node1" title=" " alt="" coords="5,137,183,163"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_context.html#ab0b954e3469e1277664673202b1807d4" title="Will give keyboard input to Input Widget if one is selected." alt="" coords="243,5,385,47"/>
+<area shape="rect" id="node4" href="$struct_eng3_d_1_1_lua_v_m.html#a135fd19d109a9d69ee3c9d3028a8384a" title="Some UI functions are hardcoded, for example the main menu is hardcoded to appear when the game start..." alt="" coords="231,71,397,112"/>
+<area shape="rect" id="node7" href="$class_u_i_1_1_widget.html#aaf79e92d46cc37f91327d75b42bd2cf6" title="Kills the current widget, setting it up for deletion when dead widgets are cleared by the UI context." alt="" coords="255,137,373,163"/>
+<area shape="rect" id="node9" href="$class_u_i_1_1_context.html#aa184ab6f03e77f890b09b37b58faebc9" title=" " alt="" coords="239,187,389,214"/>
+<area shape="rect" id="node10" href="$class_eng3_d_1_1_state.html#a24e1b67b353c87052720ec37d3298cbd" title=" " alt="" coords="237,239,391,280"/>
+<area shape="rect" id="node3" href="$ui_8cpp.html#a3db65aa12793aa092b1e8b57009963c7" title=" " alt="" coords="445,13,645,39"/>
+<area shape="rect" id="node5" href="$namespace_eng3_d_1_1_log.html#a01b504eaf92484d8ce7adca6838f7e54" title=" " alt="" coords="478,78,613,105"/>
+<area shape="rect" id="node6" href="$namespace_eng3_d_1_1_log.html#a3e23c7cd8e6a525628ef052a65d5efd6" title="Logs data to a file or console." alt="" coords="693,78,816,105"/>
+<area shape="rect" id="node8" href="$class_u_i_1_1_widget.html#af96542e4905b8ae2c540e4a3a73d4c22" title=" " alt="" coords="457,137,634,163"/>
+</map>

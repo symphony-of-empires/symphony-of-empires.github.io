@@ -1,0 +1,6 @@
+<map id="UI::Table::Table" name="UI::Table::Table">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,125,57"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_table.html#abc421c51eebd1202b3d333f919c675b7" title=" " alt="" coords="173,31,284,57"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_table_row.html#a9b4f2b8d3fd5eab5dab9386ee9b77cf3" title=" " alt="" coords="332,5,528,32"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_widget.html#a2a1409987c29aeb516400d38c08ea8bf" title="Sort the children of this widget." alt="" coords="339,56,521,83"/>
+</map>

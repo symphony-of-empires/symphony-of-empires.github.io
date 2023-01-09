@@ -1,0 +1,13 @@
+<map id="Interface::LobbySelectView::LobbySelectView" name="Interface::LobbySelectView::LobbySelectView">
+<area shape="rect" id="node1" title=" " alt="" coords="5,89,204,131"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html#a45bee51280aa2ddb823ae5cc18ae1004" title="Sets the on_click function of this widget." alt="" coords="265,5,406,47"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_widget.html#adbd9b5ed5bbf24f7f6f58efecb604127" title="Generates text for the widget and overrides the current text texture." alt="" coords="260,71,411,98"/>
+<area shape="rect" id="node9" href="$namespace_eng3_d_1_1_locale.html#a9c2effc733964ffd9d135001e6fc036b" title=" " alt="" coords="941,118,1121,145"/>
+<area shape="rect" id="node11" href="$class_u_i_1_1_widget.html#a59a343757cbb2e67a1d00a142811c2a9" title="Set the tooltip to be shown when this widget is hovered, overrides the previous tooltip." alt="" coords="252,173,419,199"/>
+<area shape="rect" id="node4" href="$class_eng3_d_1_1_texture_manager.html#af9cf19cb0bd906b47dec14c57d5b2352" title=" " alt="" coords="477,5,654,47"/>
+<area shape="rect" id="node10" href="$class_eng3_d_1_1_state.html#aa56bcd817186a82da2b53f34f8c4d680" title=" " alt="" coords="467,71,664,98"/>
+<area shape="rect" id="node5" href="$namespace_eng3_d_1_1_log.html#a0f6f8acba80c9ea27d3e82efa4aa2b88" title=" " alt="" coords="731,13,874,39"/>
+<area shape="rect" id="node7" href="$namespace_eng3_d.html#aa559d3847f8c8cd69775bf7bb7e76ecc" title="String formatter, with translation." alt="" coords="712,67,893,94"/>
+<area shape="rect" id="node6" href="$namespace_eng3_d_1_1_log.html#a3e23c7cd8e6a525628ef052a65d5efd6" title="Logs data to a file or console." alt="" coords="970,13,1093,39"/>
+<area shape="rect" id="node8" href="$namespace_eng3_d.html#a2daac0a3df154cd4d5c44da06e430ee9" title="String formatter." alt="" coords="951,67,1111,94"/>
+</map>

@@ -1,6 +1,7 @@
 <map id="population_map_mode" name="population_map_mode">
-<area shape="rect" id="node1" title=" " alt="" coords="5,64,176,91"/>
-<area shape="rect" id="node2" href="$class_world.html#ae4bea99395c77d8afcbc54333e7b84a3" title=" " alt="" coords="249,5,357,32"/>
-<area shape="rect" id="node3" href="$class_unified_render_1_1_color.html#a16b0beb1a45da0f5b19274d1d1b492af" title=" " alt="" coords="224,57,381,98"/>
-<area shape="rect" id="node4" href="$class_unified_render_1_1_color.html#ac039544082933fc6841196e72a452448" title=" " alt="" coords="224,122,381,163"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,176,57"/>
+<area shape="rect" id="node2" href="$struct_eng3_d_1_1_color.html#add416f9b7d5301f51fc0c412a09547dd" title="Combine two colors with LERP." alt="" coords="226,5,365,32"/>
+<area shape="rect" id="node3" href="$struct_eng3_d_1_1_color.html#a2456b07065c69769a9a979010144de4d" title="Create a color from RGB components." alt="" coords="224,56,367,83"/>
+<area shape="rect" id="node4" href="$struct_eng3_d_1_1_color.html#a8fd0d3d80fba6dc4b7776691e2d33f58" title="Create a color from RGBA components." alt="" coords="415,56,565,83"/>
+<area shape="rect" id="node5" href="$struct_eng3_d_1_1_color.html#a4aeb6b7def0b09353d4bcf8d1d3a4eaa" title=" " alt="" coords="613,56,761,83"/>
 </map>

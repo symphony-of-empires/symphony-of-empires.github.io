@@ -1,0 +1,29 @@
+<map id="UI::Widget::set_text" name="UI::Widget::set_text">
+<area shape="rect" id="node1" title="Generates text for the widget and overrides the current text texture." alt="" coords="501,738,652,765"/>
+<area shape="rect" id="node2" href="$class_interface_1_1_army_production_tab.html#a5494128704d496e0afb7616dca470547" title=" " alt="" coords="238,5,430,47"/>
+<area shape="rect" id="node3" href="$class_interface_1_1_army_production_unit_info.html#afe0c394fa5cc3de2b4d50e403e438df3" title=" " alt="" coords="215,71,453,112"/>
+<area shape="rect" id="node4" href="$class_interface_1_1_army_view.html#a8bce154dafa3cd5457afdc1f5866d978" title=" " alt="" coords="257,136,411,177"/>
+<area shape="rect" id="node5" href="$class_interface_1_1_decision_window.html#a624564aa37e398568710b7b6e4673f3a" title=" " alt="" coords="236,201,432,243"/>
+<area shape="rect" id="node6" href="$class_interface_1_1_industry_window.html#a49be8e118abaa646cedaf92ed839a632" title=" " alt="" coords="237,267,431,308"/>
+<area shape="rect" id="node7" href="$class_u_i_1_1_input.html#ab16fe908d042b43b0080455ba88afdaa" title=" " alt="" coords="27,519,145,546"/>
+<area shape="rect" id="node8" href="$class_interface_1_1_lobby_select_view.html#a8ee6c1afc48db5ef481dfa5e97692680" title=" " alt="" coords="235,384,433,425"/>
+<area shape="rect" id="node9" href="$triangle_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="307,450,361,477"/>
+<area shape="rect" id="node10" href="$class_interface_1_1_main_menu_connect_server.html#a9efede33cc57d38d329d37f968a46c91" title=" " alt="" coords="217,501,451,543"/>
+<area shape="rect" id="node11" href="$class_interface_1_1_nation_view.html#ab23381341de6c14baeea2d89a833b6aa" title=" " alt="" coords="253,567,415,608"/>
+<area shape="rect" id="node12" href="$class_u_i_1_1_numeric_input.html#ae2a237e76e8d2fc6c002e3aded5251fe" title=" " alt="" coords="237,632,431,673"/>
+<area shape="rect" id="node13" href="$class_u_i_1_1_input.html#a3713869eee8816250df82299855e6643" title=" " alt="" coords="265,697,403,739"/>
+<area shape="rect" id="node14" href="$class_interface_1_1_policies_view.html#abc4aa55a9075f5848b44b3211d1f05cf" title=" " alt="" coords="249,763,419,804"/>
+<area shape="rect" id="node15" href="$class_interface_1_1_pop_window.html#a2338c5b60e38a8fe7f8c273a5c8f7193" title=" " alt="" coords="252,828,416,869"/>
+<area shape="rect" id="node16" href="$class_eng3_d_1_1_interface_1_1_profiler_view.html#afe01c1df8ff207da8e196b895c9de028" title=" " alt="" coords="241,893,427,935"/>
+<area shape="rect" id="node17" href="$struct_interface_1_1_province_economy_tab.html#ac5b9868dd857d80681f74b5b8dfb4ab0" title=" " alt="" coords="232,959,436,1000"/>
+<area shape="rect" id="node18" href="$class_interface_1_1_province_population_tab.html#ad7345995e07569fa1ab963ba00cc9e30" title=" " alt="" coords="227,1024,441,1065"/>
+<area shape="rect" id="node19" href="$class_interface_1_1_province_view.html#a745042f6ff29a69abfac932611553107" title=" " alt="" coords="246,1089,422,1131"/>
+<area shape="rect" id="node20" href="$class_interface_1_1_unit_widget.html#ae95d68931d8f2eb011ea1064dad85e8b" title=" " alt="" coords="253,1155,415,1196"/>
+<area shape="rect" id="node22" href="$class_u_i_1_1_label.html#a16ddc17c335063c251a0ad6a3a65a077" title="Generates text for the widget and overrides the current text texture." alt="" coords="264,1221,404,1247"/>
+<area shape="rect" id="node24" href="$struct_u_i_1_1_checkbox.html#a748de4e80d87e92a6ee90f98a312c582" title="Generates text for the widget and overrides the current text texture." alt="" coords="249,1271,419,1298"/>
+<area shape="rect" id="node25" href="$class_interface_1_1_time_control_view.html#a4aacb9bb058f70369834927ff742ebba" title=" " alt="" coords="235,1323,433,1364"/>
+<area shape="rect" id="node26" href="$class_interface_1_1_top_window.html#ae97a7f3b8e2e23776ae65c4d8b9915b1" title=" " alt="" coords="253,1388,415,1429"/>
+<area shape="rect" id="node27" href="$class_interface_1_1_unit_view.html#a861ead1d1832df5223c76824b2cfa466" title=" " alt="" coords="261,1453,407,1495"/>
+<area shape="rect" id="node21" href="$class_interface_1_1_unit_widget.html#aff2c52f5deb70b537aa08d958c403003" title=" " alt="" coords="5,1155,167,1196"/>
+<area shape="rect" id="node23" href="$class_u_i_1_1_label.html#a2bf3696ec7dcd4e3b76c5e6a4d4f71fa" title=" " alt="" coords="25,1221,147,1247"/>
+</map>

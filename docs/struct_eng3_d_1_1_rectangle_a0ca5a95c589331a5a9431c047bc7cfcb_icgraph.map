@@ -1,0 +1,15 @@
+<map id="Eng3D::Rectangle::size" name="Eng3D::Rectangle::size">
+<area shape="rect" id="node1" title="Obtains the current size of the rectangle." alt="" coords="703,107,873,133"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html#a59600fe0f98d1893bf9a380960753104" title=" " alt="" coords="488,56,651,83"/>
+<area shape="rect" id="node7" href="$struct_eng3_d_1_1_rectangle.html#a5132ffdd1f3b601b97075608227a024f" title="Sets the size of the rectangle." alt="" coords="484,107,655,133"/>
+<area shape="rect" id="node8" href="$class_map.html#ab6a24f4e8c75ea007142486b161950de" title=" " alt="" coords="494,158,645,199"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_widget.html#a2aa25ffb436e6f77f69e50073aa21440" title=" " alt="" coords="235,56,433,83"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_widget.html#aa804ad9bec633fc30fc97103f26923ba" title=" " alt="" coords="13,5,176,32"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_bar_chart.html#a2fae1cd21996814cde5f715035222d58" title=" " alt="" coords="247,107,421,133"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_progress_bar.html#a1a7a5c87017f478f4a3de7b6c56eb2c6" title=" " alt="" coords="21,57,168,98"/>
+<area shape="rect" id="node9" href="$class_map.html#a1e704b83efd928151073aebcbfb9001e" title=" " alt="" coords="261,161,407,188"/>
+<area shape="rect" id="node11" href="$class_map_render.html#a9e12024d514997b1469234f169de5414" title=" " alt="" coords="232,212,436,239"/>
+<area shape="rect" id="node10" href="$class_map.html#a52ee1dba587cc7666425f96055bae92f" title=" " alt="" coords="51,161,138,188"/>
+<area shape="rect" id="node12" href="$class_map_render.html#ad237baf3582689d3963ac5c6e59aa363" title=" " alt="" coords="5,212,184,239"/>
+<area shape="rect" id="node13" href="$class_map_render.html#ad4b88031a78b74e014635624420b4758" title=" " alt="" coords="20,263,169,289"/>
+</map>

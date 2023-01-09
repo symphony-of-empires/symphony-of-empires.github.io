@@ -1,0 +1,6 @@
+<map id="Eng3D::Camera::get_tile_screen_pos" name="Eng3D::Camera::get_tile_screen_pos">
+<area shape="rect" id="node1" title="Get the tiles position on the screen." alt="" coords="5,71,157,112"/>
+<area shape="rect" id="node2" href="$class_eng3_d_1_1_camera.html#a6dd153e1adafd9b48a758697160f4615" title="Get the projection matrix." alt="" coords="225,5,377,47"/>
+<area shape="rect" id="node3" href="$class_eng3_d_1_1_camera.html#acc853377f008f5800d094574763e1b54" title="Get the tiles world position." alt="" coords="225,71,377,112"/>
+<area shape="rect" id="node4" href="$class_eng3_d_1_1_camera.html#a533a8f1850657c0fa86493af8dd5b4c9" title="Get the view matrix." alt="" coords="205,137,396,163"/>
+</map>

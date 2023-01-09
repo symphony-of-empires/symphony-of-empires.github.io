@@ -1,0 +1,22 @@
+<map id="Eng3D::Log::error" name="Eng3D::Log::error">
+<area shape="rect" id="node1" title=" " alt="" coords="1016,261,1151,287"/>
+<area shape="rect" id="node2" href="$class_eng3_d_1_1_networking_1_1_client.html#a46092ba5f13ace7905372a445e77d7dc" title=" " alt="" coords="785,5,940,47"/>
+<area shape="rect" id="node3" href="$namespace_lua_a_p_i.html#ac6b2759cb4aa4d35fd418a21a751ab23" title=" " alt="" coords="793,71,933,98"/>
+<area shape="rect" id="node6" href="$struct_eng3_d_1_1_lua_v_m.html#a135fd19d109a9d69ee3c9d3028a8384a" title="Some UI functions are hardcoded, for example the main menu is hardcoded to appear when the game start..." alt="" coords="779,123,946,164"/>
+<area shape="rect" id="node9" href="$class_eng3_d_1_1_material_manager.html#a079ff5429d3c988c1afa8ac89c797074" title=" " alt="" coords="771,188,954,229"/>
+<area shape="rect" id="node10" href="$class_eng3_d_1_1_open_g_l_1_1_framebuffer.html#ae9f20f23d290117d147112637aee2a31" title=" " alt="" coords="757,253,968,295"/>
+<area shape="rect" id="node11" href="$class_eng3_d_1_1_state.html#a716d8197eaf6bf2edfaefe76488847a3" title=" " alt="" coords="789,319,937,346"/>
+<area shape="rect" id="node12" href="$class_eng3_d_1_1_benchmark_task.html#ae72b2868227d4f3c272ab80969affcb1" title=" " alt="" coords="775,371,950,412"/>
+<area shape="rect" id="node13" href="$struct_eng3_d_1_1_profiler.html#a5a79a3ce830a3707cddda7e51a6faceb" title=" " alt="" coords="785,437,940,463"/>
+<area shape="rect" id="node15" href="$class_game_state.html#a9770493b5d56697899be44dd01a28e65" title=" " alt="" coords="108,430,296,457"/>
+<area shape="rect" id="node4" href="$namespace_lua_a_p_i.html#afc2df2e273d58ce3eed9d9bd1882acca" title=" " alt="" coords="527,71,689,98"/>
+<area shape="rect" id="node5" href="$class_world.html#a859db18c5d63eca0888cc65dd4142474" title=" " alt="" coords="537,5,679,47"/>
+<area shape="rect" id="node7" href="$class_game_state.html#a3f2309112b397672cc7fd44e571b49d5" title=" " alt="" coords="519,189,697,215"/>
+<area shape="rect" id="node8" href="$class_interface_1_1_main_menu.html#ada04d9cba58cf15b68710179ebac7852" title=" " alt="" coords="530,123,686,164"/>
+<area shape="rect" id="node14" href="$class_world.html#a8947c73e2fb5ddc4546e47e5dc3944f2" title=" " alt="" coords="344,430,459,457"/>
+<area shape="rect" id="node17" href="$namespace_economy.html#a4eebd97cd327eebd362aafc5308b11ed" title=" " alt="" coords="540,437,676,463"/>
+<area shape="rect" id="node18" href="$pyscript_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="581,487,635,514"/>
+<area shape="rect" id="node19" href="$class_game_state.html#aa3d21e13cc57de6074f6907f216bd811" title=" " alt="" coords="507,335,709,362"/>
+<area shape="rect" id="node16" href="$game__state_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,405,60,431"/>
+<area shape="rect" id="node20" href="$game__state_8cpp.html#a38df56eea7afe52c578c11991df7d541" title=" " alt="" coords="147,367,257,394"/>
+</map>

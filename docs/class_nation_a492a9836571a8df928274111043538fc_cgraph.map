@@ -1,6 +1,7 @@
 <map id="Nation::give_province" name="Nation::give_province">
-<area shape="rect" id="node1" title=" " alt="" coords="5,56,169,83"/>
-<area shape="rect" id="node2" href="$class_world.html#ae4bea99395c77d8afcbc54333e7b84a3" title=" " alt="" coords="239,5,347,32"/>
-<area shape="rect" id="node3" href="$class_world.html#a7d0d96c8ffadbda070169caa4099e3c2" title=" " alt="" coords="217,56,368,83"/>
-<area shape="rect" id="node4" href="$class_world.html#a414eabf82ea5586d568450c46e55a53a" title=" " alt="" coords="240,107,345,133"/>
+<area shape="rect" id="node1" title="Gives this nation a specified province (for example on a treaty)" alt="" coords="5,64,169,91"/>
+<area shape="rect" id="node2" href="$class_nation.html#a8a7f2ead74602b355ca64a010e99fdc9" title=" " alt="" coords="217,64,399,91"/>
+<area shape="rect" id="node4" href="$struct_entity.html#a64dd7416c7b112fb6b86150858b17028" title=" " alt="" coords="501,5,607,32"/>
+<area shape="rect" id="node5" href="$class_world.html#acad108b2795ca5bc71c378a5d716fa2e" title=" " alt="" coords="479,123,629,149"/>
+<area shape="rect" id="node3" href="$class_province.html#a45e467144ec1e9ef033e49c1ddd09c6a" title=" " alt="" coords="447,57,661,98"/>
 </map>

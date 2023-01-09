@@ -1,0 +1,5 @@
+<map id="GameState::handle_key" name="GameState::handle_key">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,183,32"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html#aaf79e92d46cc37f91327d75b42bd2cf6" title="Kills the current widget, setting it up for deletion when dead widgets are cleared by the UI context." alt="" coords="231,5,349,32"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_widget.html#af96542e4905b8ae2c540e4a3a73d4c22" title=" " alt="" coords="397,5,575,32"/>
+</map>

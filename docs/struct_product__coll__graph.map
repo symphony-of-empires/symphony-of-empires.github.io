@@ -1,0 +1,4 @@
+<map id="Product" name="Product">
+<area shape="rect" id="node1" title="A product (based off a Commodity) which can be bought by POPs, converted by factories and transported..." alt="" coords="45,80,116,107"/>
+<area shape="rect" id="node2" href="$struct_entity.html" title=" " alt="" coords="5,5,156,32"/>
+</map>

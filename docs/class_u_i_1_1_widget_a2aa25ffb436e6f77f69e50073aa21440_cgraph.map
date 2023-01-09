@@ -1,0 +1,13 @@
+<map id="UI::Widget::draw_rectangle" name="UI::Widget::draw_rectangle">
+<area shape="rect" id="node1" title=" " alt="" coords="5,122,204,149"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html#a59600fe0f98d1893bf9a380960753104" title=" " alt="" coords="252,122,415,149"/>
+<area shape="rect" id="node3" href="$struct_eng3_d_1_1_mesh_static.html#a1a034e2808b8cccdf61d94ae13c782ac" title=" " alt="" coords="469,42,653,69"/>
+<area shape="rect" id="node9" href="$class_eng3_d_1_1_state.html#aa56bcd817186a82da2b53f34f8c4d680" title=" " alt="" coords="463,93,660,119"/>
+<area shape="rect" id="node10" href="$class_eng3_d_1_1_texture_manager.html#a9a117d5e9bc42eb0570dc64e7f7d7962" title=" " alt="" coords="473,144,650,185"/>
+<area shape="rect" id="node11" href="$struct_eng3_d_1_1_rectangle.html#a0ca5a95c589331a5a9431c047bc7cfcb" title="Obtains the current size of the rectangle." alt="" coords="476,210,647,237"/>
+<area shape="rect" id="node4" href="$namespace_eng3_d.html#a506768c8e5fe0e96ff5aa8e0e2353241" title=" " alt="" coords="708,42,812,69"/>
+<area shape="rect" id="node5" href="$class_eng3_d_1_1_open_g_l_1_1_v_a_o.html#a370637ab50bc65c64f69788b0d575fd4" title=" " alt="" coords="871,5,1030,47"/>
+<area shape="rect" id="node6" href="$namespace_eng3_d.html#aa559d3847f8c8cd69775bf7bb7e76ecc" title="String formatter, with translation." alt="" coords="860,71,1041,98"/>
+<area shape="rect" id="node7" href="$namespace_eng3_d.html#a2daac0a3df154cd4d5c44da06e430ee9" title="String formatter." alt="" coords="1099,46,1259,73"/>
+<area shape="rect" id="node8" href="$namespace_eng3_d_1_1_locale.html#a9c2effc733964ffd9d135001e6fc036b" title=" " alt="" coords="1089,97,1269,123"/>
+</map>

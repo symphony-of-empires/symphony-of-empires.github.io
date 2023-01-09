@@ -1,22 +1,12 @@
 var searchData=
 [
-  ['war_3835',['war',['../class_battle.html#a53565b1c104f0b6e095f3c2598155b6c',1,'Battle']]],
-  ['wargoals_3836',['wargoals',['../class_war.html#a6a1e8d32d85e6dd53d16c9dbea841f30',1,'War']]],
-  ['water_3837',['water',['../class_map_options.html#a998c73fbf47c1291b21ff6f205b538c9',1,'MapOptions']]],
-  ['width_3838',['width',['../class_u_i_1_1_widget.html#a8a2d9848900bd823a45b82accba01db5',1,'UI::Widget::width()'],['../class_world.html#a5fa68b11804459ba3679b5cc429600ff',1,'World::width()'],['../class_binary_image.html#a370a7058e242924b24ab1b01d836781d',1,'BinaryImage::width()'],['../class_unified_render_1_1_state.html#a3ea5963532d22ba2f8e2b642323651e4',1,'UnifiedRender::State::width()']]],
-  ['willing_5fpayment_3839',['willing_payment',['../class_building.html#a667f82bbfacc3e503b240c8a5a84451d',1,'Building']]],
-  ['wind_5fosc_3840',['wind_osc',['../class_map.html#adbc03e177f66668f26c94557e5ce27cf',1,'Map']]],
-  ['window_3841',['window',['../class_unified_render_1_1_state.html#a9f92e2ad84ca35ff46a4d546ecc004ce',1,'UnifiedRender::State::window()'],['../structstb__vorbis.html#a4437be2f348106017c23ffc1ebc57980',1,'stb_vorbis::window()']]],
-  ['window_5ftop_3842',['window_top',['../class_u_i_1_1_context.html#ad5175ae33665ee0e6b32e47173d4dbca',1,'UI::Context']]],
-  ['windowtype_3843',['windowtype',['../struct_mode.html#a000084125ae3760f66182ab4adae705e',1,'Mode']]],
-  ['women_5flabour_3844',['women_labour',['../class_policies.html#ab84a860e5d0337ce479528a3fee2a3c8',1,'Policies']]],
-  ['women_5fsuffrage_3845',['women_suffrage',['../class_policies.html#afd24e4deb22c822f42653ef5b0df7fff',1,'Policies']]],
-  ['workers_3846',['workers',['../class_building.html#ac5e1d490c66c4796d266bf1fcea054de',1,'Building']]],
-  ['workers_5fneeded_5fmod_3847',['workers_needed_mod',['../class_nation_modifier.html#acd46bdde9b3dbad7a37fdd05e0cd9024',1,'NationModifier']]],
-  ['working_5funit_5ftype_3848',['working_unit_type',['../class_building.html#ab9a4daf37d9b7363b38596f76d51243b',1,'Building']]],
-  ['world_3849',['world',['../class_game_state.html#adef777833a93c20723ea69da956fc108',1,'GameState::world()'],['../class_map.html#a640e2748471df53263fc92c99a861629',1,'Map::world()']]],
-  ['world_5fmutex_3850',['world_mutex',['../class_world.html#a97d6e50cce53cfc6bbf2b87e4cd7ac48',1,'World']]],
-  ['world_5fposition_3851',['world_position',['../class_camera.html#a2692763ee988311444ae202c42d49807',1,'Camera']]],
-  ['wrap_5fs_3852',['wrap_s',['../class_unified_render_1_1_texture_options.html#aecd76da52e499a4c4fca8c7201816d98',1,'UnifiedRender::TextureOptions']]],
-  ['wrap_5ft_3853',['wrap_t',['../class_unified_render_1_1_texture_options.html#a4e967cd7f3f0a4350346e740cb57faba',1,'UnifiedRender::TextureOptions']]]
+  ['valid_5fbits_4471',['valid_bits',['../structstb__vorbis.html#a4aa9d73a234428a6194cd37b8c0be4e0',1,'stb_vorbis']]],
+  ['value_4472',['value',['../class_eng3_d_1_1_g_l_s_l_1_1_define.html#a3db081679d749cdbac41bf2cecca247a',1,'Eng3D::GLSL::Define::value()'],['../class_u_i_1_1_slider.html#ab1184ba2e3c423719d74e3c9ff84dbbf',1,'UI::Slider::value()'],['../structtbb_1_1combinable.html#a2871a7fd56c9ebb18f3df7b4f62f1dd9',1,'tbb::combinable::value()']]],
+  ['value_5fbits_4473',['value_bits',['../struct_codebook.html#a229d0699f42bd26a99b37845aaab75eb',1,'Codebook']]],
+  ['values_4474',['values',['../struct_floor1.html#a9a426cc6574076ad9e5d969a56af41f4',1,'Floor1']]],
+  ['vars_4475',['vars',['../class_eng3_d_1_1_g_l_s_l_1_1_context.html#a76fce0914576fc30ce5a331e1f5fadd0',1,'Eng3D::GLSL::Context']]],
+  ['vendor_4476',['vendor',['../structstb__vorbis__comment.html#a2d39c24fbb2ff48034f2c7b0be2b3a0e',1,'stb_vorbis_comment::vendor()'],['../structstb__vorbis.html#a34ef41a9d003edf14762835badef21d5',1,'stb_vorbis::vendor()']]],
+  ['vert_4477',['vert',['../struct_eng3_d_1_1_mesh_data.html#a26d65bbbefcf4dd4a1599affecb148df',1,'Eng3D::MeshData::vert()'],['../struct_eng3_d_1_1_mesh_data_3_01_v_00_01_t_00_01void_01_4.html#a172782eb8e23d210b48333b076d43d45',1,'Eng3D::MeshData&lt; V, T, void &gt;::vert()']]],
+  ['view_4478',['view',['../class_u_i_1_1_context.html#a459da66ccfe859c6a033de04853380a1',1,'UI::Context']]],
+  ['view_5fmode_4479',['view_mode',['../class_map.html#a1df214b57a4a86420567a8de243f2fa0',1,'Map']]]
 ];

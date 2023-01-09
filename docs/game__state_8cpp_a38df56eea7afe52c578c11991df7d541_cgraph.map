@@ -1,0 +1,29 @@
+<map id="client_update" name="client_update">
+<area shape="rect" id="node1" title=" " alt="" coords="5,297,116,324"/>
+<area shape="rect" id="node2" href="$class_eng3_d_1_1_state.html#a3124e3ffc881734b250b2e2589f90f94" title=" " alt="" coords="179,35,354,61"/>
+<area shape="rect" id="node4" href="$game__state_8cpp.html#a77319d55fd309ea6ae5626d3da1624cc" title=" " alt="" coords="207,144,327,171"/>
+<area shape="rect" id="node9" href="$class_game_state.html#a7505def227b1609ddc50a4544afed320" title=" " alt="" coords="164,297,369,324"/>
+<area shape="rect" id="node17" href="$class_game_state.html#aa3d21e13cc57de6074f6907f216bd811" title=" " alt="" coords="165,432,368,459"/>
+<area shape="rect" id="node24" href="$game__state_8cpp.html#a45a410eb36ffe68b4ee3f85e457fc08c" title=" " alt="" coords="171,537,362,564"/>
+<area shape="rect" id="node3" href="$namespace_eng3_d_1_1_event.html#ade99fc004777d46fedba131aa73ca1c5" title=" " alt="" coords="417,5,636,32"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_widget.html#aaf79e92d46cc37f91327d75b42bd2cf6" title="Kills the current widget, setting it up for deletion when dead widgets are cleared by the UI context." alt="" coords="467,173,586,200"/>
+<area shape="rect" id="node7" href="$class_u_i_1_1_widget.html#a3028717f5a2c3d12dafe5f58b627e41f" title=" " alt="" coords="434,56,619,83"/>
+<area shape="rect" id="node8" href="$class_u_i_1_1_widget.html#a45bee51280aa2ddb823ae5cc18ae1004" title="Sets the on_click function of this widget." alt="" coords="456,107,597,149"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_widget.html#af96542e4905b8ae2c540e4a3a73d4c22" title=" " alt="" coords="686,173,863,200"/>
+<area shape="rect" id="node10" href="$namespace_eng3_d_1_1_log.html#a0f6f8acba80c9ea27d3e82efa4aa2b88" title=" " alt="" coords="703,341,846,368"/>
+<area shape="rect" id="node12" href="$class_eng3_d_1_1_i_o_1_1_package_manager.html#a8eddd07ccee7b928fd16e37885287789" title="Obtains all assets starting with a given prefix." alt="" coords="423,225,630,266"/>
+<area shape="rect" id="node13" href="$class_eng3_d_1_1_audio_manager.html#a09b8676d35325374b3d3b7bb9f5e308d" title=" " alt="" coords="443,290,610,331"/>
+<area shape="rect" id="node11" href="$namespace_eng3_d_1_1_log.html#a3e23c7cd8e6a525628ef052a65d5efd6" title="Logs data to a file or console." alt="" coords="942,400,1065,427"/>
+<area shape="rect" id="node14" href="$namespace_eng3_d.html#aa559d3847f8c8cd69775bf7bb7e76ecc" title="String formatter, with translation." alt="" coords="684,291,865,317"/>
+<area shape="rect" id="node15" href="$namespace_eng3_d.html#a2daac0a3df154cd4d5c44da06e430ee9" title="String formatter." alt="" coords="923,316,1083,343"/>
+<area shape="rect" id="node16" href="$namespace_eng3_d_1_1_locale.html#a9c2effc733964ffd9d135001e6fc036b" title=" " alt="" coords="913,265,1093,292"/>
+<area shape="rect" id="node18" href="$class_u_i_1_1_context.html#a5f925c8e01208184ceeec39ee3479fb1" title="Will call on_tick on all widgets." alt="" coords="451,508,602,535"/>
+<area shape="rect" id="node20" href="$struct_eng3_d_1_1_profiler.html#acbca63fa1f82bbc2e9ac38166093ad83" title=" " alt="" coords="448,407,605,433"/>
+<area shape="rect" id="node22" href="$struct_eng3_d_1_1_profiler.html#a5a79a3ce830a3707cddda7e51a6faceb" title=" " alt="" coords="449,457,604,484"/>
+<area shape="rect" id="node19" href="$utils_8hpp.html#a691f74f2d0064525e91034400241a280" title=" " alt="" coords="739,509,810,536"/>
+<area shape="rect" id="node21" href="$class_eng3_d_1_1_benchmark_task.html#a657fbc43141d60b274ce04c3a727398c" title=" " alt="" coords="687,393,862,434"/>
+<area shape="rect" id="node23" href="$namespace_eng3_d_1_1_log.html#a01b504eaf92484d8ce7adca6838f7e54" title=" " alt="" coords="707,459,842,485"/>
+<area shape="rect" id="node25" href="$struct_action_1_1_building_start_producing_unit.html#a1efa0fe62faf9213fbd5251469a91f19" title=" " alt="" coords="417,559,636,601"/>
+<area shape="rect" id="node26" href="$struct_entity.html#a64dd7416c7b112fb6b86150858b17028" title=" " alt="" coords="721,564,828,591"/>
+<area shape="rect" id="node27" href="$namespace_eng3_d_1_1_deser.html#afd2ea5ea41cc89088144428830e7f9c1" title=" " alt="" coords="688,615,861,641"/>
+</map>

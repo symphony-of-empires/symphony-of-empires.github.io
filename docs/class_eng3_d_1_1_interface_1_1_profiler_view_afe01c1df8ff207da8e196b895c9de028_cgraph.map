@@ -1,0 +1,17 @@
+<map id="Eng3D::Interface::ProfilerView::ProfilerView" name="Eng3D::Interface::ProfilerView::ProfilerView">
+<area shape="rect" id="node1" title=" " alt="" coords="5,174,191,215"/>
+<area shape="rect" id="node2" href="$struct_eng3_d_1_1_profiler.html#a6a76de7529fb302944354f1e660c8bec" title=" " alt="" coords="239,5,413,32"/>
+<area shape="rect" id="node3" href="$struct_eng3_d_1_1_profiler.html#af47fe39c87930db82ab4e76a47de13f1" title=" " alt="" coords="252,57,400,98"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_widget.html#aaf79e92d46cc37f91327d75b42bd2cf6" title="Kills the current widget, setting it up for deletion when dead widgets are cleared by the UI context." alt="" coords="507,123,626,149"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_window.html#a36a8897a012c8af528c3de1660671fae" title=" " alt="" coords="243,174,409,215"/>
+<area shape="rect" id="node8" href="$class_u_i_1_1_widget.html#adbd9b5ed5bbf24f7f6f58efecb604127" title="Generates text for the widget and overrides the current text texture." alt="" coords="251,240,401,267"/>
+<area shape="rect" id="node12" href="$namespace_eng3_d.html#aa559d3847f8c8cd69775bf7bb7e76ecc" title="String formatter, with translation." alt="" coords="720,341,901,368"/>
+<area shape="rect" id="node14" href="$namespace_eng3_d_1_1_locale.html#a9c2effc733964ffd9d135001e6fc036b" title=" " alt="" coords="949,392,1129,419"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_widget.html#af96542e4905b8ae2c540e4a3a73d4c22" title=" " alt="" coords="722,123,899,149"/>
+<area shape="rect" id="node7" href="$class_u_i_1_1_image.html#a86ff5c76873637d9ca8b0433fbac0b5e" title=" " alt="" coords="461,173,672,200"/>
+<area shape="rect" id="node9" href="$class_eng3_d_1_1_texture_manager.html#af9cf19cb0bd906b47dec14c57d5b2352" title=" " alt="" coords="478,225,655,266"/>
+<area shape="rect" id="node15" href="$class_eng3_d_1_1_state.html#aa56bcd817186a82da2b53f34f8c4d680" title=" " alt="" coords="468,291,665,317"/>
+<area shape="rect" id="node10" href="$namespace_eng3_d_1_1_log.html#a0f6f8acba80c9ea27d3e82efa4aa2b88" title=" " alt="" coords="739,232,882,259"/>
+<area shape="rect" id="node11" href="$namespace_eng3_d_1_1_log.html#a3e23c7cd8e6a525628ef052a65d5efd6" title="Logs data to a file or console." alt="" coords="978,232,1101,259"/>
+<area shape="rect" id="node13" href="$namespace_eng3_d.html#a2daac0a3df154cd4d5c44da06e430ee9" title="String formatter." alt="" coords="959,341,1119,368"/>
+</map>

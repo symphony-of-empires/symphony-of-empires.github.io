@@ -1,0 +1,6 @@
+<map id="MapRender::update_nations" name="MapRender::update_nations">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,209,57"/>
+<area shape="rect" id="node2" href="$class_map.html#ab6a24f4e8c75ea007142486b161950de" title=" " alt="" coords="257,23,408,65"/>
+<area shape="rect" id="node3" href="$struct_eng3_d_1_1_rectangle.html#ae5b123a7b26a396b04eb622a7f62dc54" title="Obtains the current position of the rectangle." alt="" coords="456,5,653,32"/>
+<area shape="rect" id="node4" href="$struct_eng3_d_1_1_rectangle.html#a0ca5a95c589331a5a9431c047bc7cfcb" title="Obtains the current size of the rectangle." alt="" coords="469,56,640,83"/>
+</map>

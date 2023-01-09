@@ -1,12 +1,10 @@
 <map id="Interface::MainMenuConnectServer" name="Interface::MainMenuConnectServer">
-<area shape="rect" id="node1" title=" " alt="" coords="175,471,385,512"/>
-<area shape="rect" id="node2" href="$class_u_i_1_1_window.html" title="Window widget." alt="" coords="5,367,101,393"/>
-<area shape="rect" id="node3" href="$class_u_i_1_1_widget.html" title="The master widget all the other widgets inherit from." alt="" coords="168,277,259,304"/>
-<area shape="rect" id="node4" href="$class_u_i_1_1_tooltip.html" title="Tooltip widget." alt="" coords="126,367,213,393"/>
-<area shape="rect" id="node9" href="$class_u_i_1_1_button.html" title=" " alt="" coords="237,367,323,393"/>
-<area shape="rect" id="node10" href="$class_u_i_1_1_input.html" title="Input widget for keyboard inputs." alt="" coords="348,367,425,393"/>
-<area shape="rect" id="node5" href="$class_unified_render_1_1_color.html" title=" " alt="" coords="8,172,165,199"/>
-<area shape="rect" id="node6" href="$class_unified_render_1_1_texture.html" title=" " alt="" coords="149,81,320,108"/>
-<area shape="rect" id="node8" href="$class_u_i_1_1_border.html" title=" " alt="" coords="339,172,426,199"/>
-<area shape="rect" id="node7" href="$class_binary_image.html" title=" " alt="" coords="182,5,287,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="175,303,385,344"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_window.html" title="Window widget, this widget is similar to a Group widget, the key difference is that this one can be m..." alt="" coords="5,199,101,225"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_widget.html" title="The master widget all the other widgets inherit from, do not use directly instead use one of the many..." alt="" coords="168,109,259,136"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_tooltip.html" title="Tooltip widget, used entirely for hovering purpouses, don&#39;t use any other widget for hovering unless ..." alt="" coords="126,199,213,225"/>
+<area shape="rect" id="node7" href="$class_u_i_1_1_button.html" title="Button widget." alt="" coords="237,199,323,225"/>
+<area shape="rect" id="node8" href="$class_u_i_1_1_input.html" title="Input widget for keyboard inputs." alt="" coords="348,199,425,225"/>
+<area shape="rect" id="node5" href="$struct_eng3_d_1_1_color.html" title="Primitive color type used through the engine." alt="" coords="85,5,192,32"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_border.html" title="Border class that defines the texture and size of borders of the widgets." alt="" coords="246,5,333,32"/>
 </map>

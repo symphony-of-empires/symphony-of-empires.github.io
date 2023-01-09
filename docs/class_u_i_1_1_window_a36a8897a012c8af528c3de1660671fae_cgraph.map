@@ -1,0 +1,6 @@
+<map id="UI::Window::set_close_btn_function" name="UI::Window::set_close_btn_function">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,171,65"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html#aaf79e92d46cc37f91327d75b42bd2cf6" title="Kills the current widget, setting it up for deletion when dead widgets are cleared by the UI context." alt="" coords="265,5,383,32"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_image.html#a86ff5c76873637d9ca8b0433fbac0b5e" title=" " alt="" coords="219,56,429,83"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_widget.html#af96542e4905b8ae2c540e4a3a73d4c22" title=" " alt="" coords="477,5,655,32"/>
+</map>

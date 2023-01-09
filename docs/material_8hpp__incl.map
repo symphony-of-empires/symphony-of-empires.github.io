@@ -1,7 +1,9 @@
-<map id="unified_render/include/unified_render/material.hpp" name="unified_render/include/unified_render/material.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="50,5,257,47"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,95,64,121"/>
-<area shape="rect" id="node3" title=" " alt="" coords="88,95,139,121"/>
-<area shape="rect" id="node4" title=" " alt="" coords="163,95,226,121"/>
-<area shape="rect" id="node5" title=" " alt="" coords="250,95,361,121"/>
+<map id="eng3d/src/material.hpp" name="eng3d/src/material.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="155,5,327,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,64,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="88,80,139,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="163,80,226,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="251,80,328,107"/>
+<area shape="rect" id="node6" title=" " alt="" coords="353,80,463,107"/>
+<area shape="rect" id="node7" title=" " alt="" coords="487,80,598,107"/>
 </map>

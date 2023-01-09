@@ -1,0 +1,43 @@
+<map id="World::get_instance" name="World::get_instance">
+<area shape="rect" id="node1" title=" " alt="" coords="1117,783,1268,810"/>
+<area shape="rect" id="node2" href="$class_nation.html#af48eaa4edfd2160cda49a71fd5e03405" title="Automatically relocates the capital of a nation to another province Use this when a treaty makes a na..." alt="" coords="882,5,1045,47"/>
+<area shape="rect" id="node3" href="$struct_building.html#af7059fcfa242dd9abb4a733d6d8f092a" title="Checks if the building can produce output (if it has enough input)" alt="" coords="874,71,1053,98"/>
+<area shape="rect" id="node4" href="$class_nation.html#a8a7f2ead74602b355ca64a010e99fdc9" title=" " alt="" coords="873,122,1054,149"/>
+<area shape="rect" id="node5" href="$class_nation.html#a492a9836571a8df928274111043538fc" title="Gives this nation a specified province (for example on a treaty)" alt="" coords="641,147,805,174"/>
+<area shape="rect" id="node6" href="$class_treaty_clause_1_1_humiliate.html#a5ee125f4e738f70c5f32013d31339ce1" title=" " alt="" coords="874,224,1053,265"/>
+<area shape="rect" id="node7" href="$class_treaty_clause_1_1_impose_policies.html#a07691b6894e1f3f1003d4c326f387e1b" title=" " alt="" coords="857,289,1069,331"/>
+<area shape="rect" id="node8" href="$class_unit.html#a2037f1b14878055ac97b14db7e2d3bf9" title=" " alt="" coords="637,1326,809,1353"/>
+<area shape="rect" id="node10" href="$class_unit.html#aedef8eb724d0d7a5d22cbefa9e97d52f" title=" " alt="" coords="200,1225,313,1251"/>
+<area shape="rect" id="node11" href="$class_unit.html#af432499ffe9747b0ddb2f87173f860d0" title=" " alt="" coords="167,1402,347,1429"/>
+<area shape="rect" id="node12" href="$class_nation.html#aee916fd782acb865a81a66f22659b587" title="Declare war." alt="" coords="887,813,1039,839"/>
+<area shape="rect" id="node14" href="$class_treaty_clause_1_1_payment.html#a041a6ba83177cf1536fcbb407c91f882" title=" " alt="" coords="877,485,1049,527"/>
+<area shape="rect" id="node18" href="$class_treaty_clause_1_1_humiliate.html#a45acbea059dda1b87f3071c18932e3ab" title=" " alt="" coords="874,551,1053,592"/>
+<area shape="rect" id="node19" href="$class_treaty_clause_1_1_liberate_nation.html#aae8debfa8b80d4f263591730d57b6445" title=" " alt="" coords="858,616,1069,657"/>
+<area shape="rect" id="node20" href="$class_treaty_clause_1_1_impose_policies.html#ab663304eda43bad8b945fc944e6b7a0f" title=" " alt="" coords="857,681,1069,723"/>
+<area shape="rect" id="node21" href="$class_treaty_clause_1_1_annex_province.html#a60dadbfded7cf6b1fb642ebb71e77275" title=" " alt="" coords="858,355,1069,396"/>
+<area shape="rect" id="node22" href="$class_treaty_clause_1_1_puppet.html#a24f54124ca44e0941c9467878a193da1" title=" " alt="" coords="884,420,1043,461"/>
+<area shape="rect" id="node23" href="$class_nation.html#ac3d7130bbe039993a19fba130359c74f" title=" " alt="" coords="655,998,791,1025"/>
+<area shape="rect" id="node24" href="$class_unit.html#ae8d3c79383141e3c4a0f65f65509ae73" title=" " alt="" coords="669,1149,777,1175"/>
+<area shape="rect" id="node26" href="$class_nation.html#aa6c4397b07399147b593bf97dfc7260c" title=" " alt="" coords="885,1067,1042,1108"/>
+<area shape="rect" id="node27" href="$class_nation.html#a87216320a7c2230c1ee3417512732aa7" title=" " alt="" coords="873,914,1053,941"/>
+<area shape="rect" id="node30" href="$struct_economy_1_1_trade.html#a0a50d72bfb79559150ddcf92d6c74946" title=" " alt="" coords="886,1184,1041,1225"/>
+<area shape="rect" id="node31" href="$class_nation.html#a1b6aaa3a1c163f6589f81f28b803cc09" title=" " alt="" coords="906,1015,1021,1042"/>
+<area shape="rect" id="node32" href="$class_nation.html#aec914931f87b37b92b983c2c83a5fc4e" title=" " alt="" coords="895,1301,1031,1327"/>
+<area shape="rect" id="node33" href="$class_game_state.html#a0dfffdcfd20fba3cc84679aa452709b1" title=" " alt="" coords="876,747,1051,788"/>
+<area shape="rect" id="node35" href="$class_unit_manager.html#ad0b0155221a5124ae18916d1fb223657" title=" " alt="" coords="404,1453,587,1479"/>
+<area shape="rect" id="node38" href="$class_unit.html#ad0980094852043c524e173502b1d70ff" title=" " alt="" coords="897,1250,1029,1277"/>
+<area shape="rect" id="node9" href="$class_unit.html#a5f5b956b191fc18235fb430154cb6b55" title=" " alt="" coords="434,1301,557,1327"/>
+<area shape="rect" id="node13" href="$class_server.html#a674438f876331108967f3e29be41b402" title=" " alt="" coords="666,813,781,839"/>
+<area shape="rect" id="node15" href="$class_world.html#a8947c73e2fb5ddc4546e47e5dc3944f2" title=" " alt="" coords="666,558,781,585"/>
+<area shape="rect" id="node16" href="$class_game_state.html#a9770493b5d56697899be44dd01a28e65" title=" " alt="" coords="401,577,589,603"/>
+<area shape="rect" id="node17" href="$game__state_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="229,638,284,665"/>
+<area shape="rect" id="node25" href="$class_interface_1_1_unit_widget.html#aff2c52f5deb70b537aa08d958c403003" title=" " alt="" coords="415,1141,576,1183"/>
+<area shape="rect" id="node28" href="$class_nation.html#a6af93d86c9e60001de5d2fe14ee4fcf1" title=" " alt="" coords="647,915,799,956"/>
+<area shape="rect" id="node29" href="$class_interface_1_1_policies_view.html#abc4aa55a9075f5848b44b3211d1f05cf" title=" " alt="" coords="410,915,581,956"/>
+<area shape="rect" id="node34" href="$game__state_8cpp.html#afb78ab0b8df118ee978c76dee0155440" title=" " alt="" coords="461,699,529,726"/>
+<area shape="rect" id="node36" href="$class_client.html#a61a8455f192dc28945184d9e78e13a1b" title=" " alt="" coords="198,1454,315,1481"/>
+<area shape="rect" id="node37" href="$class_client.html#a6ce8dbab20334d3f21ad02cac4368ec6" title=" " alt="" coords="5,1454,112,1481"/>
+<area shape="rect" id="node39" href="$struct_action_1_1_unit_add.html#adda23d0134dd6088d2b880231211ffa3" title=" " alt="" coords="642,1504,805,1545"/>
+<area shape="rect" id="node40" href="$class_unit_manager.html#a020927f88da613eea6f1571e57723570" title=" " alt="" coords="410,1509,581,1535"/>
+<area shape="rect" id="node41" href="$namespace_lua_a_p_i.html#a02c92af4946c2c3685cc3e5b2c1ccc37" title=" " alt="" coords="160,1509,353,1535"/>
+</map>

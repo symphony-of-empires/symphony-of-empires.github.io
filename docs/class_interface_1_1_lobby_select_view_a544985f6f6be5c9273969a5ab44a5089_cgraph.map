@@ -1,7 +1,4 @@
 <map id="Interface::LobbySelectView::change_nation" name="Interface::LobbySelectView::change_nation">
-<area shape="rect" id="node1" title=" " alt="" coords="5,74,204,115"/>
-<area shape="rect" id="node2" href="$class_nation.html#a3321a20b776debb9843c918673a69c75" title=" " alt="" coords="271,5,383,32"/>
-<area shape="rect" id="node3" href="$class_u_i_1_1_context.html#ae488617d38b9f28988b84971346afcc8" title=" " alt="" coords="252,56,403,83"/>
-<area shape="rect" id="node4" href="$class_camera.html#a643ffad89f1214b9b018404a2cc8f94b" title=" " alt="" coords="262,107,393,133"/>
-<area shape="rect" id="node5" href="$class_u_i_1_1_widget.html#aa7fdad3c0ca081ba9b5408dc7f53cc58" title=" " alt="" coords="265,157,389,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_context.html#aa184ab6f03e77f890b09b37b58faebc9" title=" " alt="" coords="252,13,403,39"/>
 </map>

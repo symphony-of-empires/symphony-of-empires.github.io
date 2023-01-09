@@ -1,0 +1,9 @@
+<map id="Input" name="Input">
+<area shape="rect" id="node1" title=" " alt="" coords="257,304,312,331"/>
+<area shape="rect" id="node2" href="$struct_religion.html" title=" " alt="" coords="174,215,249,241"/>
+<area shape="rect" id="node3" href="$struct_refname_entity.html" title=" " alt="" coords="5,81,220,108"/>
+<area shape="rect" id="node4" href="$struct_entity.html" title="An entity which can only be referenced by an (presumably) unique Id this is the base class for the ot..." alt="" coords="262,5,361,32"/>
+<area shape="rect" id="node7" href="$struct_refname_entity.html" title=" " alt="" coords="401,81,625,108"/>
+<area shape="rect" id="node5" href="$struct_eng3_d_1_1_string_ref.html" title="A reference to a string on the global string pool." alt="" coords="244,81,376,108"/>
+<area shape="rect" id="node6" href="$struct_language.html" title=" " alt="" coords="315,215,401,241"/>
+</map>

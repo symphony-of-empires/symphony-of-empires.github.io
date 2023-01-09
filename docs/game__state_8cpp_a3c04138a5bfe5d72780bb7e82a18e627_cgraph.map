@@ -1,0 +1,52 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1417,60,1443"/>
+<area shape="rect" id="node2" href="$game__state_8cpp.html#a9908bcfd5c34b074bbf32469faa952e6" title=" " alt="" coords="149,1365,255,1391"/>
+<area shape="rect" id="node4" href="$game__state_8cpp.html#a38df56eea7afe52c578c11991df7d541" title=" " alt="" coords="147,622,257,649"/>
+<area shape="rect" id="node23" href="$class_eng3_d_1_1_state.html#a84c926c4bec96d81f350d19fa895c729" title="Perform the main game loop." alt="" coords="369,1681,527,1707"/>
+<area shape="rect" id="node24" href="$game__state_8cpp.html#a9e6273591beeec52d324c3c4c61e52b5" title=" " alt="" coords="135,1705,269,1731"/>
+<area shape="rect" id="node26" href="$game__state_8cpp.html#afb78ab0b8df118ee978c76dee0155440" title=" " alt="" coords="168,1446,236,1473"/>
+<area shape="rect" id="node38" href="$class_game_state.html#a9770493b5d56697899be44dd01a28e65" title=" " alt="" coords="108,1106,296,1133"/>
+<area shape="rect" id="node3" href="$struct_eng3_d_1_1_profiler.html#ab1db755f3b0a1ecf819b205dd23e14b8" title=" " alt="" coords="344,1361,552,1387"/>
+<area shape="rect" id="node5" href="$class_eng3_d_1_1_state.html#a3124e3ffc881734b250b2e2589f90f94" title=" " alt="" coords="361,1207,535,1234"/>
+<area shape="rect" id="node7" href="$game__state_8cpp.html#a77319d55fd309ea6ae5626d3da1624cc" title=" " alt="" coords="388,134,508,161"/>
+<area shape="rect" id="node11" href="$class_game_state.html#a7505def227b1609ddc50a4544afed320" title=" " alt="" coords="345,1274,551,1301"/>
+<area shape="rect" id="node16" href="$class_game_state.html#aa3d21e13cc57de6074f6907f216bd811" title=" " alt="" coords="608,290,811,317"/>
+<area shape="rect" id="node21" href="$game__state_8cpp.html#a45a410eb36ffe68b4ee3f85e457fc08c" title=" " alt="" coords="353,49,543,75"/>
+<area shape="rect" id="node6" href="$namespace_eng3_d_1_1_event.html#ade99fc004777d46fedba131aa73ca1c5" title=" " alt="" coords="600,1157,819,1183"/>
+<area shape="rect" id="node8" href="$class_u_i_1_1_widget.html#aaf79e92d46cc37f91327d75b42bd2cf6" title="Kills the current widget, setting it up for deletion when dead widgets are cleared by the UI context." alt="" coords="650,189,769,215"/>
+<area shape="rect" id="node9" href="$class_u_i_1_1_widget.html#a3028717f5a2c3d12dafe5f58b627e41f" title=" " alt="" coords="617,71,802,98"/>
+<area shape="rect" id="node10" href="$class_u_i_1_1_widget.html#a45bee51280aa2ddb823ae5cc18ae1004" title="Sets the on_click function of this widget." alt="" coords="639,123,780,164"/>
+<area shape="rect" id="node12" href="$namespace_eng3_d_1_1_log.html#a0f6f8acba80c9ea27d3e82efa4aa2b88" title=" " alt="" coords="874,1161,1017,1187"/>
+<area shape="rect" id="node14" href="$class_eng3_d_1_1_i_o_1_1_package_manager.html#a8eddd07ccee7b928fd16e37885287789" title="Obtains all assets starting with a given prefix." alt="" coords="606,1528,813,1569"/>
+<area shape="rect" id="node15" href="$class_eng3_d_1_1_audio_manager.html#a09b8676d35325374b3d3b7bb9f5e308d" title=" " alt="" coords="626,1208,793,1249"/>
+<area shape="rect" id="node13" href="$namespace_eng3_d_1_1_log.html#a3e23c7cd8e6a525628ef052a65d5efd6" title="Logs data to a file or console." alt="" coords="1255,723,1377,750"/>
+<area shape="rect" id="node17" href="$class_u_i_1_1_context.html#a5f925c8e01208184ceeec39ee3479fb1" title="Will call on_tick on all widgets." alt="" coords="870,290,1021,317"/>
+<area shape="rect" id="node18" href="$struct_eng3_d_1_1_profiler.html#acbca63fa1f82bbc2e9ac38166093ad83" title=" " alt="" coords="867,391,1024,418"/>
+<area shape="rect" id="node19" href="$struct_eng3_d_1_1_profiler.html#a5a79a3ce830a3707cddda7e51a6faceb" title=" " alt="" coords="868,341,1023,367"/>
+<area shape="rect" id="node20" href="$namespace_eng3_d_1_1_log.html#a01b504eaf92484d8ce7adca6838f7e54" title=" " alt="" coords="1072,341,1207,367"/>
+<area shape="rect" id="node22" href="$struct_action_1_1_building_start_producing_unit.html#a1efa0fe62faf9213fbd5251469a91f19" title=" " alt="" coords="600,5,819,47"/>
+<area shape="rect" id="node25" href="$namespace_eng3_d_1_1_locale.html#a9c2effc733964ffd9d135001e6fc036b" title=" " alt="" coords="619,1725,799,1751"/>
+<area shape="rect" id="node27" href="$class_u_i_1_1_context.html#ae5da542bd3c60d1a706adf356e882986" title="Removes all widgets." alt="" coords="381,1478,515,1505"/>
+<area shape="rect" id="node28" href="$class_eng3_d_1_1_state.html#af2fbf6d7978c21da729d822a680b2548" title=" " alt="" coords="375,1630,521,1657"/>
+<area shape="rect" id="node29" href="$game__state_8cpp.html#a44443fa0d39957c0f83ea33288a5fab8" title=" " alt="" coords="381,1529,515,1555"/>
+<area shape="rect" id="node32" href="$class_game_state.html#a0dfffdcfd20fba3cc84679aa452709b1" title=" " alt="" coords="361,1412,535,1453"/>
+<area shape="rect" id="node37" href="$class_u_i_1_1_context.html#a568377a856376b9ccfa710c25a1d13e1" title="Render all widgets." alt="" coords="364,1579,532,1606"/>
+<area shape="rect" id="node30" href="$class_eng3_d_1_1_i_o_1_1_package_manager.html#afa214f9fc4831eea1a0533861a843f46" title="Obtaining an unique asset means the &quot;first&#45;found&quot; policy applies." alt="" coords="606,1659,813,1700"/>
+<area shape="rect" id="node31" href="$class_eng3_d_1_1_texture_manager.html#a88ed4d9fb34ad82011eb0a337f72a665" title="Finds a texture in the list of a texture manager if the texture is already in the list we load the sa..." alt="" coords="621,1593,798,1635"/>
+<area shape="rect" id="node33" href="$class_world.html#acad108b2795ca5bc71c378a5d716fa2e" title=" " alt="" coords="870,866,1021,893"/>
+<area shape="rect" id="node34" href="$class_world.html#a8b82aa865cb7bede7bca12ab017e2343" title=" " alt="" coords="651,1375,767,1402"/>
+<area shape="rect" id="node35" href="$class_world.html#a61454ae9d3c0d03695bce87d612bbb66" title=" " alt="" coords="639,1426,779,1453"/>
+<area shape="rect" id="node36" href="$class_world.html#a09e6f8c783811e87b62734ec3ef6ebb4" title=" " alt="" coords="643,1477,775,1503"/>
+<area shape="rect" id="node39" href="$class_world.html#a8947c73e2fb5ddc4546e47e5dc3944f2" title=" " alt="" coords="391,706,505,733"/>
+<area shape="rect" id="node50" href="$class_u_i_1_1_context.html#aa184ab6f03e77f890b09b37b58faebc9" title=" " alt="" coords="373,1157,523,1183"/>
+<area shape="rect" id="node40" href="$class_eng3_d_1_1_networking_1_1_server.html#acce55a08225b74396f29eaa2f33ebf41" title="This will broadcast the given packet to all clients currently on the server." alt="" coords="632,443,787,484"/>
+<area shape="rect" id="node41" href="$class_province_manager.html#a4fc0bb0e495e45abd85a3bcce9ea2369" title=" " alt="" coords="622,509,797,535"/>
+<area shape="rect" id="node42" href="$namespace_a_i.html#aaecca1c0478a22679c6b2c64a096efb0" title=" " alt="" coords="664,677,755,703"/>
+<area shape="rect" id="node43" href="$namespace_economy.html#a4eebd97cd327eebd362aafc5308b11ed" title=" " alt="" coords="641,391,777,418"/>
+<area shape="rect" id="node44" href="$class_treaty_clause_1_1_payment.html#a041a6ba83177cf1536fcbb407c91f882" title=" " alt="" coords="623,793,795,835"/>
+<area shape="rect" id="node45" href="$class_treaty_clause_1_1_humiliate.html#a45acbea059dda1b87f3071c18932e3ab" title=" " alt="" coords="620,611,799,652"/>
+<area shape="rect" id="node46" href="$class_treaty_clause_1_1_liberate_nation.html#aae8debfa8b80d4f263591730d57b6445" title=" " alt="" coords="604,859,815,900"/>
+<area shape="rect" id="node47" href="$class_treaty_clause_1_1_impose_policies.html#ab663304eda43bad8b945fc944e6b7a0f" title=" " alt="" coords="603,924,815,965"/>
+<area shape="rect" id="node48" href="$class_treaty_clause_1_1_annex_province.html#a60dadbfded7cf6b1fb642ebb71e77275" title=" " alt="" coords="604,989,815,1031"/>
+<area shape="rect" id="node49" href="$class_treaty_clause_1_1_puppet.html#a24f54124ca44e0941c9467878a193da1" title=" " alt="" coords="630,728,789,769"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="GameState::world_thread" name="GameState::world_thread">
+<area shape="rect" id="node1" title=" " alt="" coords="5,783,193,809"/>
+<area shape="rect" id="node2" href="$namespace_eng3_d_1_1_log.html#a0f6f8acba80c9ea27d3e82efa4aa2b88" title=" " alt="" coords="475,5,617,32"/>
+<area shape="rect" id="node4" href="$class_world.html#a8947c73e2fb5ddc4546e47e5dc3944f2" title=" " alt="" coords="259,509,374,536"/>
+<area shape="rect" id="node16" href="$namespace_eng3_d_1_1_log.html#a01b504eaf92484d8ce7adca6838f7e54" title=" " alt="" coords="973,615,1108,641"/>
+<area shape="rect" id="node31" href="$class_u_i_1_1_context.html#aa184ab6f03e77f890b09b37b58faebc9" title=" " alt="" coords="241,1105,392,1132"/>
+<area shape="rect" id="node3" href="$namespace_eng3_d_1_1_log.html#a3e23c7cd8e6a525628ef052a65d5efd6" title="Logs data to a file or console." alt="" coords="1176,371,1299,397"/>
+<area shape="rect" id="node5" href="$class_eng3_d_1_1_networking_1_1_server.html#acce55a08225b74396f29eaa2f33ebf41" title="This will broadcast the given packet to all clients currently on the server." alt="" coords="469,393,623,434"/>
+<area shape="rect" id="node6" href="$class_province_manager.html#a4fc0bb0e495e45abd85a3bcce9ea2369" title=" " alt="" coords="459,459,633,485"/>
+<area shape="rect" id="node7" href="$namespace_a_i.html#aaecca1c0478a22679c6b2c64a096efb0" title=" " alt="" coords="501,240,591,267"/>
+<area shape="rect" id="node10" href="$namespace_economy.html#a4eebd97cd327eebd362aafc5308b11ed" title=" " alt="" coords="478,509,614,536"/>
+<area shape="rect" id="node13" href="$struct_eng3_d_1_1_profiler.html#acbca63fa1f82bbc2e9ac38166093ad83" title=" " alt="" coords="724,560,881,587"/>
+<area shape="rect" id="node15" href="$struct_eng3_d_1_1_profiler.html#a5a79a3ce830a3707cddda7e51a6faceb" title=" " alt="" coords="725,611,880,637"/>
+<area shape="rect" id="node18" href="$class_treaty_clause_1_1_payment.html#a041a6ba83177cf1536fcbb407c91f882" title=" " alt="" coords="460,989,632,1030"/>
+<area shape="rect" id="node20" href="$class_treaty_clause_1_1_humiliate.html#a45acbea059dda1b87f3071c18932e3ab" title=" " alt="" coords="457,662,635,703"/>
+<area shape="rect" id="node21" href="$class_treaty_clause_1_1_liberate_nation.html#aae8debfa8b80d4f263591730d57b6445" title=" " alt="" coords="441,793,651,834"/>
+<area shape="rect" id="node22" href="$class_treaty_clause_1_1_impose_policies.html#ab663304eda43bad8b945fc944e6b7a0f" title=" " alt="" coords="440,727,652,769"/>
+<area shape="rect" id="node23" href="$class_treaty_clause_1_1_annex_province.html#a60dadbfded7cf6b1fb642ebb71e77275" title=" " alt="" coords="441,858,651,899"/>
+<area shape="rect" id="node24" href="$class_treaty_clause_1_1_puppet.html#a24f54124ca44e0941c9467878a193da1" title=" " alt="" coords="467,923,625,965"/>
+<area shape="rect" id="node25" href="$struct_eng3_d_1_1_freelist.html#a1f7d86b1f2817bcbe89a5dd45493053a" title=" " alt="" coords="454,123,638,149"/>
+<area shape="rect" id="node26" href="$struct_action_1_1_nation_update.html#ae452cde3e5f4b70ab1ec480bf938ce7e" title=" " alt="" coords="465,174,627,215"/>
+<area shape="rect" id="node28" href="$struct_action_1_1_province_update.html#aea68741f7e04654bc0d4526bcb07d57b" title=" " alt="" coords="459,57,633,98"/>
+<area shape="rect" id="node29" href="$class_world.html#a5a0ed21c8dc0b66b5367848339deac35" title=" " alt="" coords="473,291,619,317"/>
+<area shape="rect" id="node30" href="$namespace_eng3_d.html#a2daac0a3df154cd4d5c44da06e430ee9" title="String formatter." alt="" coords="466,341,626,368"/>
+<area shape="rect" id="node8" href="$class_unit_manager.html#afafa9636c76329b2d4b11415ac408a86" title=" " alt="" coords="703,233,902,274"/>
+<area shape="rect" id="node9" href="$namespacetbb.html#af2d7671a9179fe8baa004ac84e88854d" title=" " alt="" coords="978,408,1103,435"/>
+<area shape="rect" id="node11" href="$economy_8cpp.html#a343166e1586aab13adecfed0ac77b302" title=" " alt="" coords="751,459,854,485"/>
+<area shape="rect" id="node12" href="$struct_economy_1_1_trade.html#aa543a4063f78b2f34d04a5bf3f3389cc" title=" " alt="" coords="700,509,905,536"/>
+<area shape="rect" id="node17" href="$economy_8cpp.html#a2b8f262f168f64ce6a107660f3c753b1" title=" " alt="" coords="739,357,866,384"/>
+<area shape="rect" id="node14" href="$class_eng3_d_1_1_benchmark_task.html#a657fbc43141d60b274ce04c3a727398c" title=" " alt="" coords="953,549,1128,590"/>
+<area shape="rect" id="node19" href="$class_world.html#acad108b2795ca5bc71c378a5d716fa2e" title=" " alt="" coords="727,833,878,860"/>
+<area shape="rect" id="node27" href="$namespace_eng3_d_1_1_deser.html#afd2ea5ea41cc89088144428830e7f9c1" title=" " alt="" coords="716,151,889,177"/>
+</map>

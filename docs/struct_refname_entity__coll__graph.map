@@ -1,0 +1,5 @@
+<map id="RefnameEntity&lt; T &gt;" name="RefnameEntity&lt; T &gt;">
+<area shape="rect" id="node1" title="An entity which can be referenced via a ref_name and also via id." alt="" coords="45,95,203,121"/>
+<area shape="rect" id="node2" href="$struct_entity.html" title="An entity which can only be referenced by an (presumably) unique Id this is the base class for the ot..." alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node3" href="$struct_eng3_d_1_1_string_ref.html" title="A reference to a string on the global string pool." alt="" coords="129,5,261,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Nation::control_province" name="Nation::control_province">
+<area shape="rect" id="node1" title=" " alt="" coords="217,5,399,32"/>
+<area shape="rect" id="node2" href="$class_nation.html#a492a9836571a8df928274111043538fc" title="Gives this nation a specified province (for example on a treaty)" alt="" coords="5,5,169,32"/>
+</map>

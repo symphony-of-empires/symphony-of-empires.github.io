@@ -1,0 +1,30 @@
+<map id="Interface::PoliciesView::PoliciesView" name="Interface::PoliciesView::PoliciesView">
+<area shape="rect" id="node1" title=" " alt="" coords="5,475,176,516"/>
+<area shape="rect" id="node2" href="$class_nation.html#a6af93d86c9e60001de5d2fe14ee4fcf1" title=" " alt="" coords="251,5,403,47"/>
+<area shape="rect" id="node5" href="$class_eng3_d_1_1_i_o_1_1_package_manager.html#afa214f9fc4831eea1a0533861a843f46" title="Obtaining an unique asset means the &quot;first&#45;found&quot; policy applies." alt="" coords="224,71,431,112"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_widget.html#aaf79e92d46cc37f91327d75b42bd2cf6" title="Kills the current widget, setting it up for deletion when dead widgets are cleared by the UI context." alt="" coords="525,141,643,167"/>
+<area shape="rect" id="node8" href="$class_eng3_d_1_1_texture_manager.html#a88ed4d9fb34ad82011eb0a337f72a665" title="Finds a texture in the list of a texture manager if the texture is already in the list we load the sa..." alt="" coords="495,497,673,539"/>
+<area shape="rect" id="node11" href="$class_u_i_1_1_widget.html#a3028717f5a2c3d12dafe5f58b627e41f" title=" " alt="" coords="235,254,420,281"/>
+<area shape="rect" id="node12" href="$class_u_i_1_1_context.html#aa184ab6f03e77f890b09b37b58faebc9" title=" " alt="" coords="252,305,403,331"/>
+<area shape="rect" id="node13" href="$class_u_i_1_1_table.html#a948a8cb2429d626004b31667283b6917" title=" " alt="" coords="260,355,395,382"/>
+<area shape="rect" id="node14" href="$namespace_eng3_d_1_1_deser.html#afd2ea5ea41cc89088144428830e7f9c1" title=" " alt="" coords="241,406,414,433"/>
+<area shape="rect" id="node15" href="$class_u_i_1_1_window.html#a36a8897a012c8af528c3de1660671fae" title=" " alt="" coords="245,188,410,229"/>
+<area shape="rect" id="node17" href="$class_u_i_1_1_pie_chart.html#ae33ce25237e1390092077aa2c8f264fc" title=" " alt="" coords="246,507,409,534"/>
+<area shape="rect" id="node18" href="$class_u_i_1_1_widget.html#a45bee51280aa2ddb823ae5cc18ae1004" title="Sets the on_click function of this widget." alt="" coords="257,559,398,600"/>
+<area shape="rect" id="node19" href="$class_nation.html#a3e0ce8def33de49baf71a0ad8858e41a" title="Enacts a policy on a nation." alt="" coords="258,625,397,651"/>
+<area shape="rect" id="node20" href="$class_u_i_1_1_widget.html#adbd9b5ed5bbf24f7f6f58efecb604127" title="Generates text for the widget and overrides the current text texture." alt="" coords="252,675,403,702"/>
+<area shape="rect" id="node22" href="$namespace_eng3_d.html#aa559d3847f8c8cd69775bf7bb7e76ecc" title="String formatter, with translation." alt="" coords="737,726,919,753"/>
+<area shape="rect" id="node23" href="$namespace_eng3_d.html#a2daac0a3df154cd4d5c44da06e430ee9" title="String formatter." alt="" coords="977,777,1137,803"/>
+<area shape="rect" id="node26" href="$class_u_i_1_1_widget.html#a59a343757cbb2e67a1d00a142811c2a9" title="Set the tooltip to be shown when this widget is hovered, overrides the previous tooltip." alt="" coords="244,827,411,854"/>
+<area shape="rect" id="node27" href="$class_u_i_1_1_progress_bar.html#acc4d8f61c3df870dcb473a4ccc526d43" title=" " alt="" coords="252,879,403,920"/>
+<area shape="rect" id="node28" href="$class_u_i_1_1_widget.html#acebb8b96ff34667e66fd2d98519dbb09" title=" " alt="" coords="255,945,399,971"/>
+<area shape="rect" id="node3" href="$class_nation.html#a87216320a7c2230c1ee3417512732aa7" title=" " alt="" coords="494,13,674,39"/>
+<area shape="rect" id="node4" href="$class_world.html#acad108b2795ca5bc71c378a5d716fa2e" title=" " alt="" coords="753,13,903,39"/>
+<area shape="rect" id="node7" href="$class_u_i_1_1_widget.html#af96542e4905b8ae2c540e4a3a73d4c22" title=" " alt="" coords="739,141,917,167"/>
+<area shape="rect" id="node9" href="$namespace_eng3_d_1_1_log.html#a0f6f8acba80c9ea27d3e82efa4aa2b88" title=" " alt="" coords="757,561,899,587"/>
+<area shape="rect" id="node10" href="$namespace_eng3_d_1_1_log.html#a3e23c7cd8e6a525628ef052a65d5efd6" title="Logs data to a file or console." alt="" coords="995,561,1118,587"/>
+<area shape="rect" id="node16" href="$class_u_i_1_1_image.html#a86ff5c76873637d9ca8b0433fbac0b5e" title=" " alt="" coords="479,195,689,222"/>
+<area shape="rect" id="node21" href="$class_eng3_d_1_1_texture_manager.html#af9cf19cb0bd906b47dec14c57d5b2352" title=" " alt="" coords="495,609,673,651"/>
+<area shape="rect" id="node25" href="$class_eng3_d_1_1_state.html#aa56bcd817186a82da2b53f34f8c4d680" title=" " alt="" coords="485,675,683,702"/>
+<area shape="rect" id="node24" href="$namespace_eng3_d_1_1_locale.html#a9c2effc733964ffd9d135001e6fc036b" title=" " alt="" coords="967,726,1147,753"/>
+</map>

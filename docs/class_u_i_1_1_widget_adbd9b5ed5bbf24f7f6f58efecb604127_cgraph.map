@@ -1,0 +1,10 @@
+<map id="UI::Widget::set_text" name="UI::Widget::set_text">
+<area shape="rect" id="node1" title="Generates text for the widget and overrides the current text texture." alt="" coords="5,60,156,87"/>
+<area shape="rect" id="node2" href="$class_eng3_d_1_1_texture_manager.html#af9cf19cb0bd906b47dec14c57d5b2352" title=" " alt="" coords="214,23,391,65"/>
+<area shape="rect" id="node8" href="$class_eng3_d_1_1_state.html#aa56bcd817186a82da2b53f34f8c4d680" title=" " alt="" coords="204,89,401,116"/>
+<area shape="rect" id="node3" href="$namespace_eng3_d_1_1_log.html#a0f6f8acba80c9ea27d3e82efa4aa2b88" title=" " alt="" coords="469,5,611,32"/>
+<area shape="rect" id="node5" href="$namespace_eng3_d.html#aa559d3847f8c8cd69775bf7bb7e76ecc" title="String formatter, with translation." alt="" coords="449,56,631,83"/>
+<area shape="rect" id="node4" href="$namespace_eng3_d_1_1_log.html#a3e23c7cd8e6a525628ef052a65d5efd6" title="Logs data to a file or console." alt="" coords="707,5,830,32"/>
+<area shape="rect" id="node6" href="$namespace_eng3_d.html#a2daac0a3df154cd4d5c44da06e430ee9" title="String formatter." alt="" coords="689,56,849,83"/>
+<area shape="rect" id="node7" href="$namespace_eng3_d_1_1_locale.html#a9c2effc733964ffd9d135001e6fc036b" title=" " alt="" coords="679,107,859,133"/>
+</map>

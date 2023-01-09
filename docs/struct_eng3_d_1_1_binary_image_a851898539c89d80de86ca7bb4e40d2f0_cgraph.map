@@ -1,0 +1,5 @@
+<map id="Eng3D::BinaryImage::get_pixel" name="Eng3D::BinaryImage::get_pixel">
+<area shape="rect" id="node1" title="Obtains a pixel from the binary image." alt="" coords="5,5,160,47"/>
+<area shape="rect" id="node2" href="$struct_eng3_d_1_1_color.html#aa7c863a1ffe0e168c2fbbede1728224b" title="Create a color from RGBA32 components." alt="" coords="208,13,367,39"/>
+<area shape="rect" id="node3" href="$struct_eng3_d_1_1_color.html#a4aeb6b7def0b09353d4bcf8d1d3a4eaa" title=" " alt="" coords="415,13,563,39"/>
+</map>

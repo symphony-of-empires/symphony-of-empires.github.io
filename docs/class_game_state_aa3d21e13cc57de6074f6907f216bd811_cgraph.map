@@ -1,0 +1,10 @@
+<map id="GameState::update_on_tick" name="GameState::update_on_tick">
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,208,91"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_context.html#a5f925c8e01208184ceeec39ee3479fb1" title="Will call on_tick on all widgets." alt="" coords="259,9,410,36"/>
+<area shape="rect" id="node4" href="$struct_eng3_d_1_1_profiler.html#acbca63fa1f82bbc2e9ac38166093ad83" title=" " alt="" coords="256,64,413,91"/>
+<area shape="rect" id="node6" href="$struct_eng3_d_1_1_profiler.html#a5a79a3ce830a3707cddda7e51a6faceb" title=" " alt="" coords="257,119,412,145"/>
+<area shape="rect" id="node3" href="$utils_8hpp.html#a691f74f2d0064525e91034400241a280" title=" " alt="" coords="513,5,584,32"/>
+<area shape="rect" id="node5" href="$class_eng3_d_1_1_benchmark_task.html#a657fbc43141d60b274ce04c3a727398c" title=" " alt="" coords="461,57,636,98"/>
+<area shape="rect" id="node7" href="$namespace_eng3_d_1_1_log.html#a01b504eaf92484d8ce7adca6838f7e54" title=" " alt="" coords="481,123,616,149"/>
+<area shape="rect" id="node8" href="$namespace_eng3_d_1_1_log.html#a3e23c7cd8e6a525628ef052a65d5efd6" title="Logs data to a file or console." alt="" coords="684,123,807,149"/>
+</map>

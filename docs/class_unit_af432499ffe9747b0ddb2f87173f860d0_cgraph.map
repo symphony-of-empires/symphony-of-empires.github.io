@@ -1,0 +1,18 @@
+<map id="Unit::update_movement" name="Unit::update_movement">
+<area shape="rect" id="node1" title=" " alt="" coords="5,414,185,440"/>
+<area shape="rect" id="node2" href="$struct_entity.html#a64dd7416c7b112fb6b86150858b17028" title=" " alt="" coords="692,35,869,62"/>
+<area shape="rect" id="node3" href="$class_world.html#acad108b2795ca5bc71c378a5d716fa2e" title=" " alt="" coords="935,388,1086,415"/>
+<area shape="rect" id="node4" href="$class_unit.html#ad39b30822765228ad0877b461d0bb603" title=" " alt="" coords="233,515,423,542"/>
+<area shape="rect" id="node5" href="$class_unit_manager.html#ad0b0155221a5124ae18916d1fb223657" title=" " alt="" coords="237,152,419,179"/>
+<area shape="rect" id="node9" href="$class_unit.html#a5f5b956b191fc18235fb430154cb6b55" title=" " alt="" coords="267,363,389,390"/>
+<area shape="rect" id="node16" href="$class_unit.html#a6ff3b67441f819268a2d2eb9416c977a" title=" " alt="" coords="247,566,409,592"/>
+<area shape="rect" id="node6" href="$class_eng3_d_1_1_networking_1_1_server.html#acce55a08225b74396f29eaa2f33ebf41" title="This will broadcast the given packet to all clients currently on the server." alt="" coords="480,145,635,186"/>
+<area shape="rect" id="node7" href="$namespace_eng3_d.html#a89d0d41e0057679500a51c869292f2cf" title=" " alt="" coords="487,94,627,120"/>
+<area shape="rect" id="node8" href="$struct_action_1_1_unit_move.html#a903899430f081995c91dcf75f5145219" title=" " alt="" coords="471,28,644,69"/>
+<area shape="rect" id="node10" href="$class_unit.html#a748eee4465dc62fafe0359a6ad3df19a" title="Checks if the unit can move (if it can set_province)" alt="" coords="495,312,619,339"/>
+<area shape="rect" id="node11" href="$class_unit.html#a2037f1b14878055ac97b14db7e2d3bf9" title=" " alt="" coords="471,363,643,390"/>
+<area shape="rect" id="node15" href="$class_unit.html#ad0980094852043c524e173502b1d70ff" title=" " alt="" coords="715,414,847,440"/>
+<area shape="rect" id="node12" href="$class_province.html#ad80dcd8a237993ee135202085845821e" title=" " alt="" coords="706,145,855,186"/>
+<area shape="rect" id="node13" href="$class_province.html#a121c075bb578428210058b061347a3a8" title=" " alt="" coords="942,127,1079,154"/>
+<area shape="rect" id="node14" href="$namespace_eng3_d.html#acbd9e82ee92fede0e0472deda097ef7c" title=" " alt="" coords="917,178,1104,204"/>
+</map>

@@ -1,4 +1,7 @@
 <map id="UI::PieChart::set_data" name="UI::PieChart::set_data">
-<area shape="rect" id="node1" title=" " alt="" coords="267,13,429,39"/>
-<area shape="rect" id="node2" href="$class_interface_1_1_province_population_tab.html#aa15c14f5cb6698473a24e839b48d793d" title=" " alt="" coords="5,5,219,47"/>
+<area shape="rect" id="node1" title=" " alt="" coords="528,64,691,91"/>
+<area shape="rect" id="node2" href="$triangle_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="346,5,401,32"/>
+<area shape="rect" id="node3" href="$class_interface_1_1_policies_view.html#abc4aa55a9075f5848b44b3211d1f05cf" title=" " alt="" coords="288,57,459,98"/>
+<area shape="rect" id="node4" href="$class_interface_1_1_province_population_tab.html#aa15c14f5cb6698473a24e839b48d793d" title=" " alt="" coords="267,122,480,163"/>
+<area shape="rect" id="node5" href="$class_interface_1_1_province_population_tab.html#ad7345995e07569fa1ab963ba00cc9e30" title=" " alt="" coords="5,122,219,163"/>
 </map>

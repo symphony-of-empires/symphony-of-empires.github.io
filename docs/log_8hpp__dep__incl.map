@@ -1,9 +1,4 @@
-<map id="unified_render/include/unified_render/log.hpp" name="unified_render/include/unified_render/log.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="459,5,631,47"/>
-<area shape="rect" id="node2" href="$diplomacy_8cpp.html" title=" " alt="" coords="5,102,184,129"/>
-<area shape="rect" id="node3" href="$nation_8cpp.html" title=" " alt="" coords="208,102,363,129"/>
-<area shape="rect" id="node4" href="$world_8cpp.html" title=" " alt="" coords="387,102,536,129"/>
-<area shape="rect" id="node5" href="$glsl__trans_8cpp.html" title=" " alt="" coords="560,95,699,136"/>
-<area shape="rect" id="node6" href="$log_8cpp.html" title=" " alt="" coords="723,95,861,136"/>
-<area shape="rect" id="node7" href="$profiler_8cpp.html" title=" " alt="" coords="885,95,1024,136"/>
+<map id="eng3d/src/log.hpp" name="eng3d/src/log.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,143,32"/>
+<area shape="rect" id="node2" href="$log_8cpp.html" title=" " alt="" coords="6,80,142,107"/>
 </map>

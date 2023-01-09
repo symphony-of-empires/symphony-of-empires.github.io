@@ -1,4 +1,0 @@
-<map id="UI::Context::check_hover" name="UI::Context::check_hover">
-<area shape="rect" id="node1" title="Check for on_hover events If the mouse is above a widget call the widgets on_hover or show its toolti..." alt="" coords="5,5,147,47"/>
-<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html#a92fbf44eb59c31fbcb71f5bee090f612" title=" " alt="" coords="195,13,353,39"/>
-</map>

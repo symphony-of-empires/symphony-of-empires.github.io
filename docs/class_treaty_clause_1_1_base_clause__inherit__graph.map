@@ -1,9 +1,9 @@
 <map id="TreatyClause::BaseClause" name="TreatyClause::BaseClause">
 <area shape="rect" id="node1" title=" " alt="" coords="5,132,196,159"/>
-<area shape="rect" id="node2" href="$class_treaty_clause_1_1_anexx_province.html" title=" " alt="" coords="248,5,459,32"/>
-<area shape="rect" id="node3" href="$class_treaty_clause_1_1_ceasefire.html" title=" " alt="" coords="265,56,441,83"/>
-<area shape="rect" id="node4" href="$class_treaty_clause_1_1_humiliate.html" title=" " alt="" coords="264,107,443,133"/>
-<area shape="rect" id="node5" href="$class_treaty_clause_1_1_impose_policies.html" title=" " alt="" coords="247,157,459,184"/>
-<area shape="rect" id="node6" href="$class_treaty_clause_1_1_liberate_nation.html" title=" " alt="" coords="248,208,459,235"/>
-<area shape="rect" id="node7" href="$class_treaty_clause_1_1_war_reparations.html" title=" " alt="" coords="244,259,463,285"/>
+<area shape="rect" id="node2" href="$class_treaty_clause_1_1_annex_province.html" title=" " alt="" coords="245,5,455,32"/>
+<area shape="rect" id="node3" href="$class_treaty_clause_1_1_humiliate.html" title=" " alt="" coords="261,56,439,83"/>
+<area shape="rect" id="node4" href="$class_treaty_clause_1_1_impose_policies.html" title=" " alt="" coords="244,107,456,133"/>
+<area shape="rect" id="node5" href="$class_treaty_clause_1_1_liberate_nation.html" title=" " alt="" coords="245,157,455,184"/>
+<area shape="rect" id="node6" href="$class_treaty_clause_1_1_payment.html" title=" " alt="" coords="264,208,436,235"/>
+<area shape="rect" id="node7" href="$class_treaty_clause_1_1_puppet.html" title=" " alt="" coords="271,259,429,285"/>
 </map>

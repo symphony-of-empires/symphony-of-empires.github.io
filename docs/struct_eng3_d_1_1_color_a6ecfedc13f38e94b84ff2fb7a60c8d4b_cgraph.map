@@ -1,0 +1,6 @@
+<map id="Eng3D::Color::get_random" name="Eng3D::Color::get_random">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,197,32"/>
+<area shape="rect" id="node2" href="$struct_eng3_d_1_1_color.html#ac7480723962832b0bfc9f2a537c3b32c" title="Create a color from RGB32 components." alt="" coords="245,5,396,32"/>
+<area shape="rect" id="node3" href="$struct_eng3_d_1_1_color.html#aa7c863a1ffe0e168c2fbbede1728224b" title="Create a color from RGBA32 components." alt="" coords="444,5,603,32"/>
+<area shape="rect" id="node4" href="$struct_eng3_d_1_1_color.html#a4aeb6b7def0b09353d4bcf8d1d3a4eaa" title=" " alt="" coords="651,5,799,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Interface::IndustryWindow::new_table" name="Interface::IndustryWindow::new_table">
+<area shape="rect" id="node1" title=" " alt="" coords="5,99,199,141"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html#a3028717f5a2c3d12dafe5f58b627e41f" title=" " alt="" coords="247,5,432,32"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_table.html#a948a8cb2429d626004b31667283b6917" title=" " alt="" coords="272,56,407,83"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_widget.html#a59a343757cbb2e67a1d00a142811c2a9" title="Set the tooltip to be shown when this widget is hovered, overrides the previous tooltip." alt="" coords="256,107,423,133"/>
+<area shape="rect" id="node5" href="$namespace_eng3_d.html#a2daac0a3df154cd4d5c44da06e430ee9" title="String formatter." alt="" coords="490,157,650,184"/>
+<area shape="rect" id="node6" href="$namespace_eng3_d.html#aa559d3847f8c8cd69775bf7bb7e76ecc" title="String formatter, with translation." alt="" coords="249,208,430,235"/>
+<area shape="rect" id="node7" href="$namespace_eng3_d_1_1_locale.html#a9c2effc733964ffd9d135001e6fc036b" title=" " alt="" coords="480,208,660,235"/>
+</map>

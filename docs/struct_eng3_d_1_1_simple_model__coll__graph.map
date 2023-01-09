@@ -1,0 +1,4 @@
+<map id="Eng3D::SimpleModel" name="Eng3D::SimpleModel">
+<area shape="rect" id="node1" title="A simple object &#45; use these to store &quot;simple&quot; objects that MAY repeat." alt="" coords="22,95,179,121"/>
+<area shape="rect" id="node2" href="$struct_eng3_d_1_1_mesh.html" title=" " alt="" coords="5,5,196,47"/>
+</map>

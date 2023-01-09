@@ -1,5 +1,5 @@
-<map id="game/src/client/camera.hpp" name="game/src/client/camera.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="277,5,479,32"/>
+<map id="eng3d/src/camera.hpp" name="eng3d/src/camera.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="295,5,461,32"/>
 <area shape="rect" id="node2" title=" " alt="" coords="5,80,116,107"/>
 <area shape="rect" id="node3" title=" " alt="" coords="141,80,245,107"/>
 <area shape="rect" id="node4" title=" " alt="" coords="269,80,487,107"/>

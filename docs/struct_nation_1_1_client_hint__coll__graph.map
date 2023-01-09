@@ -1,0 +1,6 @@
+<map id="Nation::ClientHint" name="Nation::ClientHint">
+<area shape="rect" id="node1" title="Hints for the client on how to display the nation." alt="" coords="38,171,177,197"/>
+<area shape="rect" id="node2" href="$struct_eng3_d_1_1_string_ref.html" title="A reference to a string on the global string pool." alt="" coords="5,81,137,108"/>
+<area shape="rect" id="node3" href="$struct_ideology_id.html" title=" " alt="" coords="162,81,253,108"/>
+<area shape="rect" id="node4" href="$struct_entity_id.html" title=" " alt="" coords="134,5,281,32"/>
+</map>

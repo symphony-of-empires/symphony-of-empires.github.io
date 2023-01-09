@@ -1,0 +1,4 @@
+<map id="Entity::is_invalid" name="Entity::is_invalid">
+<area shape="rect" id="node1" title="Checks if the current id is invalid." alt="" coords="171,5,300,32"/>
+<area shape="rect" id="node2" href="$struct_entity.html#a06525e014c789936391a1b63efafc419" title="Checks if the current id is valid." alt="" coords="5,5,123,32"/>
+</map>

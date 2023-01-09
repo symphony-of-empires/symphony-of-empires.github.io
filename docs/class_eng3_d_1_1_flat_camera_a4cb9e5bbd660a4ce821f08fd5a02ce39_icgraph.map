@@ -1,0 +1,4 @@
+<map id="Eng3D::FlatCamera::update" name="Eng3D::FlatCamera::update">
+<area shape="rect" id="node1" title="Update the movement of the camera. Used for smooth camera movement." alt="" coords="209,5,365,47"/>
+<area shape="rect" id="node2" href="$class_eng3_d_1_1_flat_camera.html#ab24baafd5fa9d90c5495dc0e0eb5c198" title="Set the map position of the camera." alt="" coords="5,5,161,47"/>
+</map>

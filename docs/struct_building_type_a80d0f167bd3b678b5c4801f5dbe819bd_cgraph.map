@@ -1,0 +1,6 @@
+<map id="BuildingType::can_build_military" name="BuildingType::can_build_military">
+<area shape="rect" id="node1" title="Can this building type build a military unit." alt="" coords="5,71,180,112"/>
+<area shape="rect" id="node2" href="$struct_building_type.html#ab51e807d034f5225a76196c09acb7fcd" title=" " alt="" coords="228,5,403,47"/>
+<area shape="rect" id="node3" href="$struct_building_type.html#a7de661f2a9134a3608a8926be1f66ad3" title=" " alt="" coords="228,71,403,112"/>
+<area shape="rect" id="node4" href="$struct_building_type.html#a580945adb117bbbf59294e865996aa5c" title=" " alt="" coords="228,136,403,177"/>
+</map>

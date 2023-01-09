@@ -1,0 +1,7 @@
+<map id="handle_popups" name="handle_popups">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,125,83"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html#aaf79e92d46cc37f91327d75b42bd2cf6" title="Kills the current widget, setting it up for deletion when dead widgets are cleared by the UI context." alt="" coords="207,5,325,32"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_widget.html#a3028717f5a2c3d12dafe5f58b627e41f" title=" " alt="" coords="173,56,359,83"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_widget.html#a45bee51280aa2ddb823ae5cc18ae1004" title="Sets the on_click function of this widget." alt="" coords="195,107,337,149"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_widget.html#af96542e4905b8ae2c540e4a3a73d4c22" title=" " alt="" coords="407,5,584,32"/>
+</map>

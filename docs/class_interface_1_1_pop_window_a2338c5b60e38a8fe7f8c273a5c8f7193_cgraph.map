@@ -1,0 +1,16 @@
+<map id="Interface::PopWindow::PopWindow" name="Interface::PopWindow::PopWindow">
+<area shape="rect" id="node1" title=" " alt="" coords="5,137,169,178"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html#aaf79e92d46cc37f91327d75b42bd2cf6" title="Kills the current widget, setting it up for deletion when dead widgets are cleared by the UI context." alt="" coords="477,5,595,32"/>
+<area shape="rect" id="node4" href="$pop__window_8cpp.html#afe76edad39468e6536ff6d766c96450d" title=" " alt="" coords="223,220,377,247"/>
+<area shape="rect" id="node5" href="$namespace_eng3_d.html#aa559d3847f8c8cd69775bf7bb7e76ecc" title="String formatter, with translation." alt="" coords="689,195,871,221"/>
+<area shape="rect" id="node6" href="$namespace_eng3_d.html#a2daac0a3df154cd4d5c44da06e430ee9" title="String formatter." alt="" coords="929,131,1089,157"/>
+<area shape="rect" id="node8" href="$class_u_i_1_1_window.html#a36a8897a012c8af528c3de1660671fae" title=" " alt="" coords="217,53,383,94"/>
+<area shape="rect" id="node10" href="$class_u_i_1_1_widget.html#adbd9b5ed5bbf24f7f6f58efecb604127" title="Generates text for the widget and overrides the current text texture." alt="" coords="225,279,375,305"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_widget.html#af96542e4905b8ae2c540e4a3a73d4c22" title=" " alt="" coords="691,5,869,32"/>
+<area shape="rect" id="node7" href="$namespace_eng3_d_1_1_locale.html#a9c2effc733964ffd9d135001e6fc036b" title=" " alt="" coords="919,195,1099,221"/>
+<area shape="rect" id="node9" href="$class_u_i_1_1_image.html#a86ff5c76873637d9ca8b0433fbac0b5e" title=" " alt="" coords="431,60,641,87"/>
+<area shape="rect" id="node11" href="$class_eng3_d_1_1_texture_manager.html#af9cf19cb0bd906b47dec14c57d5b2352" title=" " alt="" coords="447,271,625,313"/>
+<area shape="rect" id="node14" href="$class_eng3_d_1_1_state.html#aa56bcd817186a82da2b53f34f8c4d680" title=" " alt="" coords="437,337,635,364"/>
+<area shape="rect" id="node12" href="$namespace_eng3_d_1_1_log.html#a0f6f8acba80c9ea27d3e82efa4aa2b88" title=" " alt="" coords="709,279,851,305"/>
+<area shape="rect" id="node13" href="$namespace_eng3_d_1_1_log.html#a3e23c7cd8e6a525628ef052a65d5efd6" title="Logs data to a file or console." alt="" coords="947,279,1070,305"/>
+</map>

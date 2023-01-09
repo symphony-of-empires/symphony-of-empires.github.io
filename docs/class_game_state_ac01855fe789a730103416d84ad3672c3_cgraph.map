@@ -1,0 +1,13 @@
+<map id="GameState::get_nation_flag" name="GameState::get_nation_flag">
+<area shape="rect" id="node1" title=" " alt="" coords="5,138,209,165"/>
+<area shape="rect" id="node2" href="$struct_eng3_d_1_1_string_ref.html#a465fd911cb1fdf06801f7507fa974a29" title=" " alt="" coords="275,46,446,73"/>
+<area shape="rect" id="node7" href="$class_eng3_d_1_1_i_o_1_1_package_manager.html#afa214f9fc4831eea1a0533861a843f46" title="Obtaining an unique asset means the &quot;first&#45;found&quot; policy applies." alt="" coords="257,97,464,139"/>
+<area shape="rect" id="node8" href="$class_eng3_d_1_1_texture_manager.html#a88ed4d9fb34ad82011eb0a337f72a665" title="Finds a texture in the list of a texture manager if the texture is already in the list we load the sa..." alt="" coords="272,163,449,204"/>
+<area shape="rect" id="node11" href="$namespace_eng3_d.html#a2daac0a3df154cd4d5c44da06e430ee9" title="String formatter." alt="" coords="281,229,441,255"/>
+<area shape="rect" id="node3" href="$struct_eng3_d_1_1_string_ref.html#a8778d980a4762c9ab87a638e2e2db996" title=" " alt="" coords="512,39,672,80"/>
+<area shape="rect" id="node4" href="$class_eng3_d_1_1_string_manager.html#a0bfd4f1e71d93fbda3a9cd6a09ea5549" title=" " alt="" coords="720,5,887,47"/>
+<area shape="rect" id="node6" href="$class_eng3_d_1_1_string_manager.html#a9303a7c99715e8535ceb2758aa3f3ac9" title=" " alt="" coords="720,71,887,112"/>
+<area shape="rect" id="node5" href="$struct_eng3_d_1_1_string_ref.html#a76f583fc1cf257249012f5654282870b" title=" " alt="" coords="935,13,1113,39"/>
+<area shape="rect" id="node9" href="$namespace_eng3_d_1_1_log.html#a0f6f8acba80c9ea27d3e82efa4aa2b88" title=" " alt="" coords="521,170,663,197"/>
+<area shape="rect" id="node10" href="$namespace_eng3_d_1_1_log.html#a3e23c7cd8e6a525628ef052a65d5efd6" title="Logs data to a file or console." alt="" coords="742,170,865,197"/>
+</map>

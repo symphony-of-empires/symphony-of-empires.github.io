@@ -1,0 +1,8 @@
+<map id="GameState::get_nation_flag" name="GameState::get_nation_flag">
+<area shape="rect" id="node1" title=" " alt="" coords="267,143,471,170"/>
+<area shape="rect" id="node2" href="$class_interface_1_1_nation_view.html#ab23381341de6c14baeea2d89a833b6aa" title=" " alt="" coords="31,5,193,47"/>
+<area shape="rect" id="node3" href="$class_interface_1_1_province_population_tab.html#ad7345995e07569fa1ab963ba00cc9e30" title=" " alt="" coords="5,71,219,112"/>
+<area shape="rect" id="node4" href="$class_interface_1_1_battle_widget.html#a283d81c1a11650a5732f0e5e981056e6" title=" " alt="" coords="25,136,199,177"/>
+<area shape="rect" id="node5" href="$class_interface_1_1_unit_widget.html#aff2c52f5deb70b537aa08d958c403003" title=" " alt="" coords="31,201,193,243"/>
+<area shape="rect" id="node6" href="$class_interface_1_1_top_window.html#ae97a7f3b8e2e23776ae65c4d8b9915b1" title=" " alt="" coords="31,267,193,308"/>
+</map>

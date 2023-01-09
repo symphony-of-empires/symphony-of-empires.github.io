@@ -1,11 +1,10 @@
 var searchData=
 [
-  ['nation_2107',['Nation',['../class_nation.html',1,'']]],
-  ['nationbutton_2108',['NationButton',['../class_interface_1_1_nation_button.html',1,'Interface']]],
-  ['nationclienthint_2109',['NationClientHint',['../class_nation_client_hint.html',1,'']]],
-  ['nationmarketview_2110',['NationMarketView',['../class_interface_1_1_nation_market_view.html',1,'Interface']]],
-  ['nationmodifier_2111',['NationModifier',['../class_nation_modifier.html',1,'']]],
-  ['nationrelation_2112',['NationRelation',['../class_nation_relation.html',1,'']]],
-  ['nationupdate_2113',['NationUpdate',['../class_action_1_1_nation_update.html',1,'Action']]],
-  ['nationview_2114',['NationView',['../class_interface_1_1_nation_view.html',1,'Interface']]]
+  ['nation_2505',['Nation',['../class_nation.html',1,'']]],
+  ['nationid_2506',['NationId',['../struct_nation_id.html',1,'']]],
+  ['nationtakedecision_2507',['NationTakeDecision',['../struct_action_1_1_nation_take_decision.html',1,'Action']]],
+  ['nationupdate_2508',['NationUpdate',['../struct_action_1_1_nation_update.html',1,'Action']]],
+  ['nationview_2509',['NationView',['../class_interface_1_1_nation_view.html',1,'Interface']]],
+  ['newunit_2510',['NewUnit',['../struct_new_unit.html',1,'']]],
+  ['numericinput_2511',['NumericInput',['../class_u_i_1_1_numeric_input.html',1,'UI']]]
 ];

@@ -1,0 +1,6 @@
+<map id="GameState::handle_mouse_wheel" name="GameState::handle_mouse_wheel">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,204,80"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_context.html#adc11b206310d1a986f005dd2fd47b240" title="Check for on_hover events If the mouse is above a widget call the widgets on_hover or show its toolti..." alt="" coords="252,5,393,47"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_context.html#ac248b3010445e7516054dd3aec597fe5" title="Check if the mouse is above a widget and scroll widget." alt="" coords="252,71,393,112"/>
+<area shape="rect" id="node3" href="$utils_8hpp.html#a691f74f2d0064525e91034400241a280" title=" " alt="" coords="441,46,512,73"/>
+</map>

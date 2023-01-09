@@ -1,0 +1,4 @@
+<map id="Building" name="Building">
+<area shape="rect" id="node1" title="A military outpost, on land serves as a &quot;spawn&quot; place for units When adjacent to a water tile this se..." alt="" coords="45,80,120,107"/>
+<area shape="rect" id="node2" href="$struct_entity.html" title=" " alt="" coords="5,5,160,32"/>
+</map>

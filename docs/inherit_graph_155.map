@@ -1,5 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_unified_render_1_1_mesh.html" title=" " alt="" coords="5,23,193,65"/>
-<area shape="rect" id="node2" href="$class_unified_render_1_1_simple_model.html" title=" " alt="" coords="241,5,449,32"/>
-<area shape="rect" id="node3" href="$class_unified_render_1_1_sphere.html" title=" " alt="" coords="261,56,429,83"/>
+<area shape="rect" id="node1" href="$class_eng3_d_1_1_texture_manager.html" title="General manager for textures, caches textures into the memory instead of reading them off the disk ev..." alt="" coords="5,5,183,32"/>
 </map>

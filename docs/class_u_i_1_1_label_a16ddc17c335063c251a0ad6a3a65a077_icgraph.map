@@ -1,0 +1,4 @@
+<map id="UI::Label::set_text" name="UI::Label::set_text">
+<area shape="rect" id="node1" title="Generates text for the widget and overrides the current text texture." alt="" coords="176,5,316,32"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_label.html#a2bf3696ec7dcd4e3b76c5e6a4d4f71fa" title=" " alt="" coords="5,5,128,32"/>
+</map>

@@ -1,7 +1,0 @@
-<map id="GameState::update_on_tick" name="GameState::update_on_tick">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,208,57"/>
-<area shape="rect" id="node2" href="$class_u_i_1_1_context.html#a51ecabf16facb0a1f32b45be9813f284" title="Will call on_tick on all widgets." alt="" coords="269,5,419,32"/>
-<area shape="rect" id="node3" href="$class_map.html#a34655aa02bf6b95e7866b3c3960e4095" title=" " alt="" coords="256,56,432,83"/>
-<area shape="rect" id="node4" href="$class_map_render.html#af057c612d2ccae0650d6dfd0341922ba" title=" " alt="" coords="480,56,703,83"/>
-<area shape="rect" id="node5" href="$class_unified_render_1_1_texture.html#a75dcb99342ea207731dbeb0b43fae1cb" title=" " alt="" coords="751,49,921,90"/>
-</map>

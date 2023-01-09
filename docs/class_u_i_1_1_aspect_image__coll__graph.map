@@ -1,0 +1,8 @@
+<map id="UI::AspectImage" name="UI::AspectImage">
+<area shape="rect" id="node1" title="A version of the Image widget that keeps aspect ratio of the image (useful for flags)" alt="" coords="5,275,135,301"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_image.html" title="Image widget, can display pictures or effects on the screen." alt="" coords="27,199,113,225"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_widget.html" title="The master widget all the other widgets inherit from, do not use directly instead use one of the many..." alt="" coords="91,109,182,136"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_tooltip.html" title="Tooltip widget, used entirely for hovering purpouses, don&#39;t use any other widget for hovering unless ..." alt="" coords="137,199,224,225"/>
+<area shape="rect" id="node5" href="$struct_eng3_d_1_1_color.html" title="Primitive color type used through the engine." alt="" coords="9,5,115,32"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_border.html" title="Border class that defines the texture and size of borders of the widgets." alt="" coords="169,5,256,32"/>
+</map>

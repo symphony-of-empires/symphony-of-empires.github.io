@@ -1,0 +1,7 @@
+<map id="UI::TableElement" name="UI::TableElement">
+<area shape="rect" id="node1" title="An element on a table, operates on a k=v fashion where the key is used for sorting the table." alt="" coords="5,199,137,225"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html" title="The master widget all the other widgets inherit from, do not use directly instead use one of the many..." alt="" coords="115,109,206,136"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_tooltip.html" title="Tooltip widget, used entirely for hovering purpouses, don&#39;t use any other widget for hovering unless ..." alt="" coords="161,199,248,225"/>
+<area shape="rect" id="node4" href="$struct_eng3_d_1_1_color.html" title="Primitive color type used through the engine." alt="" coords="33,5,139,32"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_border.html" title="Border class that defines the texture and size of borders of the widgets." alt="" coords="193,5,280,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="UI::ScrollbarThumb" name="UI::ScrollbarThumb">
+<area shape="rect" id="node1" title="The thumb of the scrollbar." alt="" coords="5,80,152,107"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html" title="The master widget all the other widgets inherit from, do not use directly instead use one of the many..." alt="" coords="33,5,124,32"/>
+</map>

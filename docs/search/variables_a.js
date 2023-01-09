@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['known_5floc_5ffor_5fpacket_3498',['known_loc_for_packet',['../structstb__vorbis.html#ab4f2b28e26cb9f9a060a7b7855f12ece',1,'stb_vorbis']]]
+  ['joystick_5fdead_5fzone_4109',['JOYSTICK_DEAD_ZONE',['../class_eng3_d_1_1_state.html#ae6681364c3978b892a2a33ad924f1743',1,'Eng3D::State']]]
 ];

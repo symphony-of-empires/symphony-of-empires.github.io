@@ -1,0 +1,4 @@
+<map id="UI::Context::check_drag" name="UI::Context::check_drag">
+<area shape="rect" id="node1" title="Check for on_drag events, will move Window widgets with is_pinned = false." alt="" coords="252,13,429,39"/>
+<area shape="rect" id="node2" href="$class_game_state.html#a32844a1037e6813d9941a080ef23a178" title=" " alt="" coords="5,5,204,47"/>
+</map>

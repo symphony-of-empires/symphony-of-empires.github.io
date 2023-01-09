@@ -1,0 +1,8 @@
+<map id="UI::ScrollbarThumb::ScrollbarThumb" name="UI::ScrollbarThumb::ScrollbarThumb">
+<area shape="rect" id="node1" title=" " alt="" coords="5,99,152,141"/>
+<area shape="rect" id="node2" href="$class_eng3_d_1_1_state.html#aa56bcd817186a82da2b53f34f8c4d680" title=" " alt="" coords="200,5,397,32"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_widget.html#ac14d747cf43a736f91aebf372fb1c9dd" title="Obtains the height of the top and bottom overflow in widget That is the space that the children of th..." alt="" coords="205,56,393,83"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_widget.html#a3c8a0903f5b0349934f6c305e7bf8e6a" title="Scrolls all the children of this widget by a factor of y." alt="" coords="232,107,365,133"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_widget.html#a45bee51280aa2ddb823ae5cc18ae1004" title="Sets the on_click function of this widget." alt="" coords="228,158,369,199"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_widget.html#a91c44c7fdf4586553cabdbc1be39ee46" title=" " alt="" coords="210,224,387,251"/>
+</map>

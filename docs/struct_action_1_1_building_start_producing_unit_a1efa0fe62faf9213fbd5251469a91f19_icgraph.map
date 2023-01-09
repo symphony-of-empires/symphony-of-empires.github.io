@@ -1,0 +1,6 @@
+<map id="Action::BuildingStartProducingUnit::form_packet" name="Action::BuildingStartProducingUnit::form_packet">
+<area shape="rect" id="node1" title=" " alt="" coords="505,5,724,47"/>
+<area shape="rect" id="node2" href="$game__state_8cpp.html#a45a410eb36ffe68b4ee3f85e457fc08c" title=" " alt="" coords="267,13,457,39"/>
+<area shape="rect" id="node3" href="$game__state_8cpp.html#a38df56eea7afe52c578c11991df7d541" title=" " alt="" coords="108,13,219,39"/>
+<area shape="rect" id="node4" href="$game__state_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,13,60,39"/>
+</map>

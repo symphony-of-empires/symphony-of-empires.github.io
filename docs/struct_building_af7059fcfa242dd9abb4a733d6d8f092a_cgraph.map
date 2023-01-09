@@ -1,0 +1,4 @@
+<map id="Building::can_do_output" name="Building::can_do_output">
+<area shape="rect" id="node1" title="Checks if the building can produce output (if it has enough input)" alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node2" href="$class_world.html#acad108b2795ca5bc71c378a5d716fa2e" title=" " alt="" coords="232,5,383,32"/>
+</map>

@@ -81,9 +81,6 @@ var stb__vorbis_8c =
     [ "uint8", "stb__vorbis_8c.html#adde6aaee8457bee49c2a92621fe22b79", null ],
     [ "vorb", "stb__vorbis_8c.html#ad2a08bf33a1eb072ed9e2aef4f36a827", null ],
     [ "YTYPE", "stb__vorbis_8c.html#ac09448f53783c6802f40f2f56976c4c9", null ],
-    [ "VORBIS_packet_id", "stb__vorbis_8c.html#a99fb83031ce9923c84392b4e92f956b5a80ba889feb2380990384b027bd2905b4", null ],
-    [ "VORBIS_packet_comment", "stb__vorbis_8c.html#a99fb83031ce9923c84392b4e92f956b5a01e28b89a67bc5705d2c44c1221fce8d", null ],
-    [ "VORBIS_packet_setup", "stb__vorbis_8c.html#a99fb83031ce9923c84392b4e92f956b5a20b3079d6deb5a9d07566234f8f0eb1d", null ],
     [ "STBVorbisError", "stb__vorbis_8c.html#a2827ae29a055de005d8769ef0e0cd644", [
       [ "VORBIS__no_error", "stb__vorbis_8c.html#a2827ae29a055de005d8769ef0e0cd644a8fb17b5792b1463fe7e6152195d26f19", null ],
       [ "VORBIS_need_more_data", "stb__vorbis_8c.html#a2827ae29a055de005d8769ef0e0cd644a03255ba6dfd62d6530c8f67e8bc04861", null ],

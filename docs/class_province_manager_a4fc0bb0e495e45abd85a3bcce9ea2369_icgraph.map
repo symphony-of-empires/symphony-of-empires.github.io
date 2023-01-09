@@ -1,0 +1,8 @@
+<map id="ProvinceManager::clear" name="ProvinceManager::clear">
+<area shape="rect" id="node1" title=" " alt="" coords="611,31,785,57"/>
+<area shape="rect" id="node2" href="$class_world.html#a8947c73e2fb5ddc4546e47e5dc3944f2" title=" " alt="" coords="403,5,518,32"/>
+<area shape="rect" id="node5" href="$class_map_render.html#a9f770e76c701a8ce00daf57924a27633" title=" " alt="" coords="359,56,563,83"/>
+<area shape="rect" id="node3" href="$class_game_state.html#a9770493b5d56697899be44dd01a28e65" title=" " alt="" coords="115,5,303,32"/>
+<area shape="rect" id="node4" href="$game__state_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,5,60,32"/>
+<area shape="rect" id="node6" href="$class_map_render.html#a6aedf1f66b245750840db0195be1a1d1" title=" " alt="" coords="108,56,311,83"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="World::get_id" name="World::get_id">
+<area shape="rect" id="node1" title="Get the id of an object, this is a template for all types except for tiles and locally&#45;stored types (..." alt="" coords="969,368,1077,395"/>
+<area shape="rect" id="node2" href="$namespace_lua_a_p_i.html#a063558533401c77a415f25b7ea057b27" title=" " alt="" coords="743,5,886,32"/>
+<area shape="rect" id="node3" href="$class_map.html#a93243dea13cf4624b472d14aafb22216" title=" " alt="" coords="753,56,876,83"/>
+<area shape="rect" id="node4" href="$namespace_lua_a_p_i.html#ab17bb6eb2915df5fde261caec477faf4" title=" " alt="" coords="745,107,884,133"/>
+<area shape="rect" id="node5" href="$namespace_lua_a_p_i.html#a3f6eed836fe1229d37e9eaeeb2d052a0" title=" " alt="" coords="747,157,882,184"/>
+<area shape="rect" id="node10" href="$namespace_lua_a_p_i.html#aca207d1963c7a8dff2f904caf0aaadc2" title=" " alt="" coords="733,208,896,235"/>
+<area shape="rect" id="node11" href="$namespace_lua_a_p_i.html#a98af0fff26d20f99c77d647c3780370e" title=" " alt="" coords="743,259,886,285"/>
+<area shape="rect" id="node12" href="$namespace_lua_a_p_i.html#ac9e0ad208c4b8d0e3dc18d0b9899d629" title=" " alt="" coords="735,309,894,336"/>
+<area shape="rect" id="node13" href="$namespace_lua_a_p_i.html#aa4bd23588ea07649be2ef35138028e87" title=" " alt="" coords="722,361,907,402"/>
+<area shape="rect" id="node14" href="$namespace_lua_a_p_i.html#a2db0339dcf34bae7f44941c05ed03ed7" title=" " alt="" coords="739,427,890,453"/>
+<area shape="rect" id="node15" href="$namespace_lua_a_p_i.html#a564a6ba367bf2da6c5d9f5fc182cfec9" title=" " alt="" coords="727,477,902,504"/>
+<area shape="rect" id="node16" href="$namespace_lua_a_p_i.html#a1208b308d643f231686d1543f09e1ed1" title=" " alt="" coords="724,528,905,555"/>
+<area shape="rect" id="node17" href="$namespace_lua_a_p_i.html#ae2328ff52553af521b766b67c424ee42" title=" " alt="" coords="733,579,896,605"/>
+<area shape="rect" id="node18" href="$class_interface_1_1_nation_view.html#ab23381341de6c14baeea2d89a833b6aa" title=" " alt="" coords="733,630,896,671"/>
+<area shape="rect" id="node19" href="$class_interface_1_1_unit_widget.html#aff2c52f5deb70b537aa08d958c403003" title=" " alt="" coords="734,695,895,737"/>
+<area shape="rect" id="node20" href="$class_interface_1_1_province_population_tab.html#aa15c14f5cb6698473a24e839b48d793d" title=" " alt="" coords="708,761,921,802"/>
+<area shape="rect" id="node6" href="$class_world.html#a8b82aa865cb7bede7bca12ab017e2343" title=" " alt="" coords="495,368,611,395"/>
+<area shape="rect" id="node7" href="$class_game_state.html#a0dfffdcfd20fba3cc84679aa452709b1" title=" " alt="" coords="224,361,399,402"/>
+<area shape="rect" id="node8" href="$game__state_8cpp.html#afb78ab0b8df118ee978c76dee0155440" title=" " alt="" coords="108,368,176,395"/>
+<area shape="rect" id="node9" href="$game__state_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,368,60,395"/>
+<area shape="rect" id="node21" href="$class_interface_1_1_province_population_tab.html#ad7345995e07569fa1ab963ba00cc9e30" title=" " alt="" coords="447,761,660,802"/>
+</map>

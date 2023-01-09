@@ -1,0 +1,5 @@
+<map id="Province::cancel_construction_project" name="Province::cancel_construction_project">
+<area shape="rect" id="node1" title=" " alt="" coords="447,5,661,47"/>
+<area shape="rect" id="node2" href="$class_nation.html#a8a7f2ead74602b355ca64a010e99fdc9" title=" " alt="" coords="217,13,399,39"/>
+<area shape="rect" id="node3" href="$class_nation.html#a492a9836571a8df928274111043538fc" title="Gives this nation a specified province (for example on a treaty)" alt="" coords="5,13,169,39"/>
+</map>

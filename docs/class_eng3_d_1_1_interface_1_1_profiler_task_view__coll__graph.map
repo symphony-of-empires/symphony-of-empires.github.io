@@ -1,0 +1,8 @@
+<map id="Eng3D::Interface::ProfilerTaskView" name="Eng3D::Interface::ProfilerTaskView">
+<area shape="rect" id="node1" title=" " alt="" coords="5,275,191,316"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_group.html" title="Grouping to keep widgets together without triggering events." alt="" coords="57,199,139,225"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_widget.html" title="The master widget all the other widgets inherit from, do not use directly instead use one of the many..." alt="" coords="118,109,209,136"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_tooltip.html" title="Tooltip widget, used entirely for hovering purpouses, don&#39;t use any other widget for hovering unless ..." alt="" coords="164,199,251,225"/>
+<area shape="rect" id="node5" href="$struct_eng3_d_1_1_color.html" title="Primitive color type used through the engine." alt="" coords="35,5,142,32"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_border.html" title="Border class that defines the texture and size of borders of the widgets." alt="" coords="196,5,283,32"/>
+</map>

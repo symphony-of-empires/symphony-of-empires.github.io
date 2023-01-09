@@ -1,8 +1,0 @@
-<map id="game/src/client/value_chase.hpp" name="game/src/client/value_chase.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="107,5,269,47"/>
-<area shape="rect" id="node2" href="$flat__camera_8hpp.html" title=" " alt="" coords="26,95,174,136"/>
-<area shape="rect" id="node5" href="$orbit__camera_8hpp.html" title=" " alt="" coords="198,95,354,136"/>
-<area shape="rect" id="node3" href="$map_8cpp.html" title=" " alt="" coords="185,191,367,218"/>
-<area shape="rect" id="node4" href="$map__render_8cpp.html" title=" " alt="" coords="5,184,160,225"/>
-<area shape="rect" id="node6" href="$game__state_8cpp.html" title=" " alt="" coords="392,184,555,225"/>
-</map>

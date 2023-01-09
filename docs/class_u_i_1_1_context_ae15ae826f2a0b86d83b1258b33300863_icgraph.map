@@ -1,0 +1,4 @@
+<map id="UI::Context::check_click" name="UI::Context::check_click">
+<area shape="rect" id="node1" title="Check for on_click events. Check if the mouse is above a widget and call the widgets on_click if poss..." alt="" coords="280,5,421,47"/>
+<area shape="rect" id="node2" href="$class_game_state.html#a05b174fc9f1d542acd44a2e3c827011b" title=" " alt="" coords="5,13,232,39"/>
+</map>

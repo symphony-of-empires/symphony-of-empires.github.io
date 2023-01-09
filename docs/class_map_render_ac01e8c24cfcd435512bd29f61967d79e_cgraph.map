@@ -1,6 +1,0 @@
-<map id="MapRender::draw" name="MapRender::draw">
-<area shape="rect" id="node1" title=" " alt="" coords="5,56,141,83"/>
-<area shape="rect" id="node2" href="$class_camera.html#a8818f4d88b92635279c1769af46a2bbe" title=" " alt="" coords="189,5,364,32"/>
-<area shape="rect" id="node3" href="$class_camera.html#a9c50f635e1417e9dc0aebe53ecd24dc2" title=" " alt="" coords="207,56,347,83"/>
-<area shape="rect" id="node4" href="$class_camera.html#a02ca73f04f39610d764440ee6643d76e" title=" " alt="" coords="189,107,364,133"/>
-</map>

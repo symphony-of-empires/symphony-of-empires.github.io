@@ -1,0 +1,6 @@
+<map id="Nation::control_province" name="Nation::control_province">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,187,98"/>
+<area shape="rect" id="node2" href="$class_province.html#a45e467144ec1e9ef033e49c1ddd09c6a" title=" " alt="" coords="235,5,449,47"/>
+<area shape="rect" id="node3" href="$struct_entity.html#a64dd7416c7b112fb6b86150858b17028" title=" " alt="" coords="289,71,395,98"/>
+<area shape="rect" id="node4" href="$class_world.html#acad108b2795ca5bc71c378a5d716fa2e" title=" " alt="" coords="267,122,417,149"/>
+</map>

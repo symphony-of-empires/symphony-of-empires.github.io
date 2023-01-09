@@ -1,5 +1,5 @@
 var class_manager =
 [
-    [ "get", "class_manager.html#af339009bc8d43943d3c4d507a68482ae", null ],
-    [ "load", "class_manager.html#a6a04dd58dda19756f1bead0b391e7018", null ]
+    [ "get", "class_manager.html#a35813013432a0fb952c32fc9472c16e9", null ],
+    [ "load", "class_manager.html#ad55b47df3e44751386334080755a698d", null ]
 ];

@@ -1,0 +1,11 @@
+<map id="UI::Widget::make_widget" name="UI::Widget::make_widget">
+<area shape="rect" id="node1" title=" " alt="" coords="595,101,780,127"/>
+<area shape="rect" id="node2" href="$class_interface_1_1_army_production_tab.html#a5494128704d496e0afb7616dca470547" title=" " alt="" coords="354,5,546,47"/>
+<area shape="rect" id="node3" href="$game__state_8cpp.html#a77319d55fd309ea6ae5626d3da1624cc" title=" " alt="" coords="390,71,510,98"/>
+<area shape="rect" id="node6" href="$class_interface_1_1_industry_window.html#add2f549811bc1ea1364b7fa3b65a3783" title=" " alt="" coords="353,123,547,164"/>
+<area shape="rect" id="node9" href="$class_interface_1_1_policies_view.html#abc4aa55a9075f5848b44b3211d1f05cf" title=" " alt="" coords="365,188,535,229"/>
+<area shape="rect" id="node4" href="$game__state_8cpp.html#a38df56eea7afe52c578c11991df7d541" title=" " alt="" coords="151,71,262,98"/>
+<area shape="rect" id="node5" href="$game__state_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,71,60,98"/>
+<area shape="rect" id="node7" href="$class_interface_1_1_industry_window.html#a49be8e118abaa646cedaf92ed839a632" title=" " alt="" coords="110,123,303,164"/>
+<area shape="rect" id="node8" href="$struct_interface_1_1_province_building_tab.html#a57cf4e4a881120c4743ced3e3557ae79" title=" " alt="" coords="108,188,305,229"/>
+</map>

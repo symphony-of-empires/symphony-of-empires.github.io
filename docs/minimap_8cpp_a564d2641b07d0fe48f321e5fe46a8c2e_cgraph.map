@@ -1,6 +1,9 @@
 <map id="religion_map_mode" name="religion_map_mode">
-<area shape="rect" id="node1" title=" " alt="" coords="5,78,156,105"/>
-<area shape="rect" id="node2" href="$class_unified_render_1_1_color.html#a16b0beb1a45da0f5b19274d1d1b492af" title=" " alt="" coords="204,5,361,47"/>
-<area shape="rect" id="node3" href="$class_unified_render_1_1_color.html#ac039544082933fc6841196e72a452448" title=" " alt="" coords="204,71,361,112"/>
-<area shape="rect" id="node4" href="$class_unified_render_1_1_color.html#aa6694fd5e161847079d97c4e4686fcd6" title=" " alt="" coords="204,136,361,177"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,156,83"/>
+<area shape="rect" id="node2" href="$struct_eng3_d_1_1_color.html#a748f4d9b8725289323666fd4c2b553fb" title=" " alt="" coords="204,5,355,32"/>
+<area shape="rect" id="node5" href="$struct_eng3_d_1_1_color.html#add416f9b7d5301f51fc0c412a09547dd" title="Combine two colors with LERP." alt="" coords="210,56,349,83"/>
+<area shape="rect" id="node6" href="$struct_eng3_d_1_1_color.html#a2456b07065c69769a9a979010144de4d" title="Create a color from RGB components." alt="" coords="208,107,351,133"/>
+<area shape="rect" id="node3" href="$struct_eng3_d_1_1_color.html#a832af67b4ed44c0456424c386df7acf0" title=" " alt="" coords="403,19,561,45"/>
+<area shape="rect" id="node4" href="$struct_eng3_d_1_1_color.html#a4aeb6b7def0b09353d4bcf8d1d3a4eaa" title=" " alt="" coords="609,56,757,83"/>
+<area shape="rect" id="node7" href="$struct_eng3_d_1_1_color.html#a8fd0d3d80fba6dc4b7776691e2d33f58" title="Create a color from RGBA components." alt="" coords="407,81,557,108"/>
 </map>

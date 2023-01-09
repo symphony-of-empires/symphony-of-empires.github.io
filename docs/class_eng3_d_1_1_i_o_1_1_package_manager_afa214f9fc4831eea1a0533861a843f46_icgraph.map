@@ -1,0 +1,31 @@
+<map id="Eng3D::IO::PackageManager::get_unique" name="Eng3D::IO::PackageManager::get_unique">
+<area shape="rect" id="node1" title="Obtaining an unique asset means the &quot;first&#45;found&quot; policy applies." alt="" coords="688,559,895,600"/>
+<area shape="rect" id="node2" href="$class_interface_1_1_army_production_unit_info.html#afe0c394fa5cc3de2b4d50e403e438df3" title=" " alt="" coords="385,5,624,47"/>
+<area shape="rect" id="node3" href="$class_interface_1_1_army_view.html#a8bce154dafa3cd5457afdc1f5866d978" title=" " alt="" coords="427,71,582,112"/>
+<area shape="rect" id="node4" href="$class_eng3_d_1_1_borders.html#ac8e3de74f2f5965246d732f86c1a6177" title="Construct a new Eng 3D::Borders object." alt="" coords="415,137,595,163"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_context.html#a26d85f2a07893456ace56cea4c95b64f" title=" " alt="" coords="427,187,582,214"/>
+<area shape="rect" id="node6" href="$game__state_8cpp.html#a44443fa0d39957c0f83ea33288a5fab8" title=" " alt="" coords="437,238,572,265"/>
+<area shape="rect" id="node9" href="$class_interface_1_1_decision_window.html#a624564aa37e398568710b7b6e4673f3a" title=" " alt="" coords="407,289,603,331"/>
+<area shape="rect" id="node10" href="$game_2src_2client_2map_8cpp.html#a54517cfb53e5a4a719f29fdac322d3b1" title=" " alt="" coords="451,355,558,382"/>
+<area shape="rect" id="node12" href="$class_game_state.html#ac01855fe789a730103416d84ad3672c3" title=" " alt="" coords="403,457,607,483"/>
+<area shape="rect" id="node13" href="$class_interface_1_1_nation_view.html#ab23381341de6c14baeea2d89a833b6aa" title=" " alt="" coords="133,384,296,425"/>
+<area shape="rect" id="node18" href="$pyscript_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="477,507,532,534"/>
+<area shape="rect" id="node19" href="$class_interface_1_1_main_menu.html#ada04d9cba58cf15b68710179ebac7852" title=" " alt="" coords="427,559,583,600"/>
+<area shape="rect" id="node20" href="$class_map.html#a52ee1dba587cc7666425f96055bae92f" title=" " alt="" coords="171,897,258,923"/>
+<area shape="rect" id="node21" href="$class_interface_1_1_mapmode_commodity_options.html#a90463574fdca22c9613f91d082a94c9b" title=" " alt="" coords="369,676,640,717"/>
+<area shape="rect" id="node22" href="$class_interface_1_1_policies_view.html#abc4aa55a9075f5848b44b3211d1f05cf" title=" " alt="" coords="419,741,590,783"/>
+<area shape="rect" id="node23" href="$struct_interface_1_1_province_edit_language_tab.html#a58fd86c9a2e5c2d3d2d882f8cb3b1fd3" title=" " alt="" coords="389,807,621,848"/>
+<area shape="rect" id="node24" href="$struct_interface_1_1_province_edit_terrain_tab.html#a7d0e89d4357141fde0c81d6c0c6619ef" title=" " alt="" coords="398,872,611,913"/>
+<area shape="rect" id="node25" href="$class_map.html#a173350c645164676bb856c9a823e24f2" title=" " alt="" coords="426,938,583,965"/>
+<area shape="rect" id="node26" href="$class_map_render.html#a6aedf1f66b245750840db0195be1a1d1" title=" " alt="" coords="113,1031,316,1058"/>
+<area shape="rect" id="node27" href="$class_eng3_d_1_1_rivers.html#a2935b38434187461dfa5c5d4a201c689" title="Construct a new Eng3D::Rivers object." alt="" coords="423,1039,586,1066"/>
+<area shape="rect" id="node28" href="$class_interface_1_1_time_control_view.html#a4aacb9bb058f70369834927ff742ebba" title=" " alt="" coords="405,1091,604,1132"/>
+<area shape="rect" id="node29" href="$class_map_render.html#a9f770e76c701a8ce00daf57924a27633" title=" " alt="" coords="403,1157,607,1183"/>
+<area shape="rect" id="node7" href="$game__state_8cpp.html#afb78ab0b8df118ee978c76dee0155440" title=" " alt="" coords="181,238,249,265"/>
+<area shape="rect" id="node8" href="$game__state_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,238,60,265"/>
+<area shape="rect" id="node11" href="$class_map.html#a6a40755f8541eece2fa48e9e24a588f8" title=" " alt="" coords="169,333,260,359"/>
+<area shape="rect" id="node14" href="$class_interface_1_1_province_population_tab.html#ad7345995e07569fa1ab963ba00cc9e30" title=" " alt="" coords="108,449,321,491"/>
+<area shape="rect" id="node15" href="$class_interface_1_1_battle_widget.html#a283d81c1a11650a5732f0e5e981056e6" title=" " alt="" coords="128,515,301,556"/>
+<area shape="rect" id="node16" href="$class_interface_1_1_unit_widget.html#aff2c52f5deb70b537aa08d958c403003" title=" " alt="" coords="134,580,295,621"/>
+<area shape="rect" id="node17" href="$class_interface_1_1_top_window.html#ae97a7f3b8e2e23776ae65c4d8b9915b1" title=" " alt="" coords="133,645,296,687"/>
+</map>

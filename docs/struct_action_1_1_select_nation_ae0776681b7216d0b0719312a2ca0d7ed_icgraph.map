@@ -1,0 +1,5 @@
+<map id="Action::SelectNation::form_packet" name="Action::SelectNation::form_packet">
+<area shape="rect" id="node1" title=" " alt="" coords="436,5,591,47"/>
+<area shape="rect" id="node2" href="$class_game_state.html#a0ee69e2976e9660e0d9aeab900b81686" title=" " alt="" coords="209,13,388,39"/>
+<area shape="rect" id="node3" href="$class_interface_1_1_main_menu.html#ada04d9cba58cf15b68710179ebac7852" title=" " alt="" coords="5,5,161,47"/>
+</map>

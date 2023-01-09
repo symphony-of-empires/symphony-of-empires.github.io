@@ -1,5 +1,6 @@
 <map id="MapRender" name="MapRender">
-<area shape="rect" id="node1" title=" " alt="" coords="45,316,141,343"/>
-<area shape="rect" id="node2" href="$class_map_options.html" title=" " alt="" coords="43,227,143,253"/>
-<area shape="rect" id="node3" href="$class_unified_render_1_1_open_g_l_1_1_option.html" title=" " alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node1" title=" " alt="" coords="69,331,165,357"/>
+<area shape="rect" id="node2" href="$class_eng3_d_1_1_base_map.html" title=" " alt="" coords="5,241,137,268"/>
+<area shape="rect" id="node3" href="$struct_map_options.html" title=" " alt="" coords="161,241,261,268"/>
+<area shape="rect" id="node4" href="$class_eng3_d_1_1_open_g_l_1_1_option.html" title="Option that is passed to the GLSL transpiler for preprocessing the shaders and programming them on th..." alt="" coords="124,5,299,32"/>
 </map>

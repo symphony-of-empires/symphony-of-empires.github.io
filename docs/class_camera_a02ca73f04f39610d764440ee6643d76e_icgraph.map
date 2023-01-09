@@ -1,9 +1,0 @@
-<map id="Camera::get_world_pos" name="Camera::get_world_pos">
-<area shape="rect" id="node1" title=" " alt="" coords="712,31,887,57"/>
-<area shape="rect" id="node2" href="$class_map_editor.html#a8f9437bc3bd5cf141595c72f3c93a03a" title=" " alt="" coords="532,5,660,32"/>
-<area shape="rect" id="node3" href="$class_map_render.html#ac01e8c24cfcd435512bd29f61967d79e" title=" " alt="" coords="528,56,664,83"/>
-<area shape="rect" id="node4" href="$class_map.html#aa7db24c83975f82b23c72b19d5217f28" title=" " alt="" coords="389,56,480,83"/>
-<area shape="rect" id="node5" href="$game__state_8cpp.html#ae390ae4f9633cefd9eac7c364bddb6f7" title=" " alt="" coords="251,56,341,83"/>
-<area shape="rect" id="node6" href="$main_8cpp.html#a87242d4aceba48fd71c1fb2a0b64754d" title=" " alt="" coords="108,56,203,83"/>
-<area shape="rect" id="node7" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,56,60,83"/>
-</map>

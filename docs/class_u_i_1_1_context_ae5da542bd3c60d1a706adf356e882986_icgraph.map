@@ -1,0 +1,7 @@
+<map id="UI::Context::clear" name="UI::Context::clear">
+<area shape="rect" id="node1" title="Removes all widgets." alt="" coords="391,78,525,105"/>
+<area shape="rect" id="node2" href="$class_interface_1_1_main_menu.html#ada04d9cba58cf15b68710179ebac7852" title=" " alt="" coords="147,5,303,47"/>
+<area shape="rect" id="node3" href="$class_interface_1_1_main_menu_connect_server.html#a9efede33cc57d38d329d37f968a46c91" title=" " alt="" coords="108,71,343,112"/>
+<area shape="rect" id="node4" href="$game__state_8cpp.html#afb78ab0b8df118ee978c76dee0155440" title=" " alt="" coords="191,137,259,163"/>
+<area shape="rect" id="node5" href="$game__state_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,137,60,163"/>
+</map>

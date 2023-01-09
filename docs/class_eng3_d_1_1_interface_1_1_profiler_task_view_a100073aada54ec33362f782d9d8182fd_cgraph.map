@@ -1,0 +1,7 @@
+<map id="Eng3D::Interface::ProfilerTaskView::set_task" name="Eng3D::Interface::ProfilerTaskView::set_task">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,191,76"/>
+<area shape="rect" id="node2" href="$class_eng3_d_1_1_benchmark_task.html#a9f4d977d199066590fae3b6c74b3b094" title=" " alt="" coords="239,5,413,47"/>
+<area shape="rect" id="node3" href="$struct_eng3_d_1_1_color.html#ac7480723962832b0bfc9f2a537c3b32c" title="Create a color from RGB32 components." alt="" coords="251,71,401,98"/>
+<area shape="rect" id="node4" href="$struct_eng3_d_1_1_color.html#aa7c863a1ffe0e168c2fbbede1728224b" title="Create a color from RGBA32 components." alt="" coords="461,71,620,98"/>
+<area shape="rect" id="node5" href="$struct_eng3_d_1_1_color.html#a4aeb6b7def0b09353d4bcf8d1d3a4eaa" title=" " alt="" coords="668,71,816,98"/>
+</map>

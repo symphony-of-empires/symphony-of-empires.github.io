@@ -1,0 +1,8 @@
+<map id="Interface::BattleWidget::BattleWidget" name="Interface::BattleWidget::BattleWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="5,129,179,171"/>
+<area shape="rect" id="node2" href="$struct_province_1_1_battle.html#a23d9c58a56fc5a19656905fba341edea" title=" " alt="" coords="248,5,403,47"/>
+<area shape="rect" id="node3" href="$struct_province_1_1_battle.html#a88c36b9e187ce67a2e47808edb61bc55" title=" " alt="" coords="248,71,403,112"/>
+<area shape="rect" id="node4" href="$class_eng3_d_1_1_state.html#aa56bcd817186a82da2b53f34f8c4d680" title=" " alt="" coords="227,137,424,163"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_widget.html#aaef943e2765901afbadd62b63d4ee8b3" title="Sets the on_each_tick function of this widget." alt="" coords="255,188,396,229"/>
+<area shape="rect" id="node6" href="$namespace_eng3_d.html#a2daac0a3df154cd4d5c44da06e430ee9" title="String formatter." alt="" coords="245,254,405,281"/>
+</map>

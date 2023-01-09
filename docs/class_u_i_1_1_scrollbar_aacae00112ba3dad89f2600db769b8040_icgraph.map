@@ -1,0 +1,4 @@
+<map id="UI::Scrollbar::update_thumb" name="UI::Scrollbar::update_thumb">
+<area shape="rect" id="node1" title="Updates the thumb position in respect to the current scroll positioning of the parent." alt="" coords="220,5,375,47"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_scrollbar.html#a8f6d232de29370440a4ab20b4a1923de" title=" " alt="" coords="5,13,172,39"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="NewUnit" name="NewUnit">
+<area shape="rect" id="node1" title=" " alt="" coords="125,171,203,197"/>
+<area shape="rect" id="node2" href="$struct_unit_type_id.html" title=" " alt="" coords="5,81,96,108"/>
+<area shape="rect" id="node3" href="$struct_entity_id.html" title=" " alt="" coords="15,5,161,32"/>
+<area shape="rect" id="node6" href="$struct_pop_type_id.html" title=" " alt="" coords="120,81,208,108"/>
+<area shape="rect" id="node4" href="$struct_province_id.html" title=" " alt="" coords="232,81,323,108"/>
+<area shape="rect" id="node5" href="$struct_entity_id.html" title=" " alt="" coords="200,5,355,32"/>
+</map>

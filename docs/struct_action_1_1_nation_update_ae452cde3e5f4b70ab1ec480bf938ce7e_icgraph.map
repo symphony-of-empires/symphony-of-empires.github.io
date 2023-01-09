@@ -1,0 +1,6 @@
+<map id="Action::NationUpdate::form_packet" name="Action::NationUpdate::form_packet">
+<area shape="rect" id="node1" title=" " alt="" coords="507,5,668,47"/>
+<area shape="rect" id="node2" href="$class_world.html#a8947c73e2fb5ddc4546e47e5dc3944f2" title=" " alt="" coords="344,13,459,39"/>
+<area shape="rect" id="node3" href="$class_game_state.html#a9770493b5d56697899be44dd01a28e65" title=" " alt="" coords="108,13,296,39"/>
+<area shape="rect" id="node4" href="$game__state_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,13,60,39"/>
+</map>

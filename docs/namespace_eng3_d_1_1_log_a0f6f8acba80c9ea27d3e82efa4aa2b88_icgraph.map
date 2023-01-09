@@ -1,0 +1,52 @@
+<map id="Eng3D::Log::debug" name="Eng3D::Log::debug">
+<area shape="rect" id="node1" title=" " alt="" coords="884,955,1027,981"/>
+<area shape="rect" id="node2" href="$struct_eng3_d_1_1_audio.html#a90598b374cd75c16f7e2912dcfac8f80" title=" " alt="" coords="646,5,801,32"/>
+<area shape="rect" id="node3" href="$namespace_lua_a_p_i.html#afc2df2e273d58ce3eed9d9bd1882acca" title=" " alt="" coords="346,44,509,71"/>
+<area shape="rect" id="node4" href="$class_nation.html#aee916fd782acb865a81a66f22659b587" title="Declare war." alt="" coords="647,212,799,239"/>
+<area shape="rect" id="node5" href="$class_server.html#a674438f876331108967f3e29be41b402" title=" " alt="" coords="370,161,485,188"/>
+<area shape="rect" id="node6" href="$class_eng3_d_1_1_networking_1_1_client.html#a9ef39931dd78b12ac225ca0532680dd2" title=" " alt="" coords="646,314,801,355"/>
+<area shape="rect" id="node7" href="$class_client.html#a61a8455f192dc28945184d9e78e13a1b" title=" " alt="" coords="369,212,486,239"/>
+<area shape="rect" id="node9" href="$class_world.html#a8947c73e2fb5ddc4546e47e5dc3944f2" title=" " alt="" coords="666,431,781,457"/>
+<area shape="rect" id="node10" href="$class_game_state.html#a9770493b5d56697899be44dd01a28e65" title=" " alt="" coords="333,263,521,289"/>
+<area shape="rect" id="node11" href="$namespace_lua_a_p_i.html#ac6b2759cb4aa4d35fd418a21a751ab23" title=" " alt="" coords="653,107,793,133"/>
+<area shape="rect" id="node13" href="$struct_eng3_d_1_1_deser_1_1_archive.html#a484d9e58a6b3a2f523798e23ee91f1cc" title=" " alt="" coords="640,482,807,523"/>
+<area shape="rect" id="node16" href="$class_eng3_d_1_1_texture_manager.html#af9cf19cb0bd906b47dec14c57d5b2352" title=" " alt="" coords="635,703,812,745"/>
+<area shape="rect" id="node21" href="$class_interface_1_1_main_menu_connect_server.html#a9efede33cc57d38d329d37f968a46c91" title=" " alt="" coords="7,1206,242,1247"/>
+<area shape="rect" id="node24" href="$class_eng3_d_1_1_audio_manager.html#a09b8676d35325374b3d3b7bb9f5e308d" title=" " alt="" coords="640,1183,807,1225"/>
+<area shape="rect" id="node26" href="$class_game_state.html#a7505def227b1609ddc50a4544afed320" title=" " alt="" coords="325,1489,530,1516"/>
+<area shape="rect" id="node29" href="$class_eng3_d_1_1_texture_manager.html#a88ed4d9fb34ad82011eb0a337f72a665" title="Finds a texture in the list of a texture manager if the texture is already in the list we load the sa..." alt="" coords="635,863,812,905"/>
+<area shape="rect" id="node36" href="$class_map.html#a52ee1dba587cc7666425f96055bae92f" title=" " alt="" coords="384,1287,471,1313"/>
+<area shape="rect" id="node41" href="$class_map_render.html#a9f770e76c701a8ce00daf57924a27633" title=" " alt="" coords="325,1388,529,1415"/>
+<area shape="rect" id="node42" href="$class_map_render.html#ad237baf3582689d3963ac5c6e59aa363" title=" " alt="" coords="634,1300,813,1327"/>
+<area shape="rect" id="node43" href="$class_game_state.html#a0ee69e2976e9660e0d9aeab900b81686" title=" " alt="" coords="634,929,813,956"/>
+<area shape="rect" id="node44" href="$class_eng3_d_1_1_networking_1_1_server.html#a30e18b4781cd936a85dfad64ecde7214" title=" " alt="" coords="646,1351,801,1393"/>
+<area shape="rect" id="node45" href="$class_eng3_d_1_1_networking_1_1_socket_stream.html#ae978131bfbb15a83f08bc272c58afc34" title=" " alt="" coords="622,1417,825,1458"/>
+<area shape="rect" id="node46" href="$struct_eng3_d_1_1_deser_1_1_archive.html#a3ed230c9955f48b049d5a023c5573e5b" title=" " alt="" coords="640,1482,807,1523"/>
+<area shape="rect" id="node47" href="$class_eng3_d_1_1_g_l_s_l_1_1_context.html#a4c203c8f96fc8e8bf1e26cd87ccb1fdd" title=" " alt="" coords="642,1547,805,1589"/>
+<area shape="rect" id="node48" href="$class_eng3_d_1_1_networking_1_1_server_client.html#aa9a1eedcd978f8b6408cd12b44c8f811" title=" " alt="" coords="630,1613,817,1654"/>
+<area shape="rect" id="node49" href="$namespace_lua_a_p_i.html#a166279a825d317dff5e84beb39db15a2" title=" " alt="" coords="641,1679,805,1705"/>
+<area shape="rect" id="node50" href="$class_map_render.html#ab490f60d45b158b3a4d7c88dc88aa64f" title="Creates the &quot;waving&quot; border around the continent to give it a 19th century map feel Generate a distan..." alt="" coords="611,1132,836,1159"/>
+<area shape="rect" id="node8" href="$class_client.html#a6ce8dbab20334d3f21ad02cac4368ec6" title=" " alt="" coords="71,212,178,239"/>
+<area shape="rect" id="node12" href="$class_world.html#a859db18c5d63eca0888cc65dd4142474" title=" " alt="" coords="356,95,499,137"/>
+<area shape="rect" id="node14" href="$namespace_l_u_a__util.html#ad9d84b6a6e97b3d96e164101e730d870" title=" " alt="" coords="372,313,483,340"/>
+<area shape="rect" id="node15" href="$class_world.html#a61454ae9d3c0d03695bce87d612bbb66" title=" " alt="" coords="357,364,497,391"/>
+<area shape="rect" id="node17" href="$class_u_i_1_1_widget.html#adbd9b5ed5bbf24f7f6f58efecb604127" title="Generates text for the widget and overrides the current text texture." alt="" coords="352,617,503,644"/>
+<area shape="rect" id="node18" href="$class_interface_1_1_army_production_unit_info.html#afe0c394fa5cc3de2b4d50e403e438df3" title=" " alt="" coords="5,593,244,634"/>
+<area shape="rect" id="node19" href="$class_interface_1_1_army_view.html#a8bce154dafa3cd5457afdc1f5866d978" title=" " alt="" coords="47,685,202,726"/>
+<area shape="rect" id="node20" href="$class_interface_1_1_decision_window.html#a624564aa37e398568710b7b6e4673f3a" title=" " alt="" coords="27,807,223,849"/>
+<area shape="rect" id="node22" href="$class_interface_1_1_nation_view.html#ab23381341de6c14baeea2d89a833b6aa" title=" " alt="" coords="43,509,206,550"/>
+<area shape="rect" id="node23" href="$class_interface_1_1_policies_view.html#abc4aa55a9075f5848b44b3211d1f05cf" title=" " alt="" coords="39,425,210,466"/>
+<area shape="rect" id="node25" href="$class_game_state.html#a05b174fc9f1d542acd44a2e3c827011b" title=" " alt="" coords="314,1439,541,1465"/>
+<area shape="rect" id="node27" href="$game__state_8cpp.html#a38df56eea7afe52c578c11991df7d541" title=" " alt="" coords="69,1489,180,1516"/>
+<area shape="rect" id="node28" href="$game__state_8cpp.html#afb78ab0b8df118ee978c76dee0155440" title=" " alt="" coords="91,1293,159,1320"/>
+<area shape="rect" id="node30" href="$class_eng3_d_1_1_borders.html#ac8e3de74f2f5965246d732f86c1a6177" title="Construct a new Eng 3D::Borders object." alt="" coords="337,769,517,796"/>
+<area shape="rect" id="node31" href="$class_u_i_1_1_context.html#a26d85f2a07893456ace56cea4c95b64f" title=" " alt="" coords="350,820,505,847"/>
+<area shape="rect" id="node32" href="$game__state_8cpp.html#a44443fa0d39957c0f83ea33288a5fab8" title=" " alt="" coords="360,1169,495,1196"/>
+<area shape="rect" id="node33" href="$game_2src_2client_2map_8cpp.html#a54517cfb53e5a4a719f29fdac322d3b1" title=" " alt="" coords="374,921,481,948"/>
+<area shape="rect" id="node34" href="$class_game_state.html#ac01855fe789a730103416d84ad3672c3" title=" " alt="" coords="325,516,529,543"/>
+<area shape="rect" id="node35" href="$class_interface_1_1_main_menu.html#ada04d9cba58cf15b68710179ebac7852" title=" " alt="" coords="349,1221,505,1262"/>
+<area shape="rect" id="node37" href="$class_interface_1_1_mapmode_commodity_options.html#a90463574fdca22c9613f91d082a94c9b" title=" " alt="" coords="292,973,563,1014"/>
+<area shape="rect" id="node38" href="$struct_interface_1_1_province_edit_language_tab.html#a58fd86c9a2e5c2d3d2d882f8cb3b1fd3" title=" " alt="" coords="311,1038,543,1079"/>
+<area shape="rect" id="node39" href="$struct_interface_1_1_province_edit_terrain_tab.html#a7d0e89d4357141fde0c81d6c0c6619ef" title=" " alt="" coords="321,1103,534,1145"/>
+<area shape="rect" id="node40" href="$class_eng3_d_1_1_rivers.html#a2935b38434187461dfa5c5d4a201c689" title="Construct a new Eng3D::Rivers object." alt="" coords="346,668,509,695"/>
+</map>

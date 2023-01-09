@@ -1,9 +1,0 @@
-<map id="UI::Widget::draw_rect" name="UI::Widget::draw_rect">
-<area shape="rect" id="node1" title=" " alt="" coords="463,173,625,200"/>
-<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html#a4ea22c0752cea29f4dd8d241a71fb41b" title=" " alt="" coords="216,123,415,149"/>
-<area shape="rect" id="node6" href="$class_u_i_1_1_widget.html#ac0561f24cb25a19344d58f10a7333b17" title=" " alt="" coords="5,173,168,200"/>
-<area shape="rect" id="node7" href="$class_u_i_1_1_bar_chart.html#aa678de94ee1f13883c8b5f9ad267d0e8" title=" " alt="" coords="228,224,403,251"/>
-<area shape="rect" id="node3" href="$class_u_i_1_1_label.html#a9d9f92d47f5f177901ea2ad83962de1c" title=" " alt="" coords="11,5,163,32"/>
-<area shape="rect" id="node4" href="$class_u_i_1_1_progress_bar.html#a90214841558561f9106dba7739107012" title=" " alt="" coords="13,57,160,98"/>
-<area shape="rect" id="node5" href="$class_u_i_1_1_chart.html#a1199023d459b982d89e3db63d6263815" title=" " alt="" coords="11,123,163,149"/>
-</map>

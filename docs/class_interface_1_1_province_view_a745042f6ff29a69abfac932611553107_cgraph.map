@@ -1,0 +1,18 @@
+<map id="Interface::ProvinceView::ProvinceView" name="Interface::ProvinceView::ProvinceView">
+<area shape="rect" id="node1" title=" " alt="" coords="5,231,181,273"/>
+<area shape="rect" id="node2" href="$struct_entity.html#a64dd7416c7b112fb6b86150858b17028" title=" " alt="" coords="259,5,365,32"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_widget.html#aaf79e92d46cc37f91327d75b42bd2cf6" title="Kills the current widget, setting it up for deletion when dead widgets are cleared by the UI context." alt="" coords="489,60,607,87"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_window.html#a36a8897a012c8af528c3de1660671fae" title=" " alt="" coords="229,107,395,149"/>
+<area shape="rect" id="node7" href="$class_u_i_1_1_widget.html#a45bee51280aa2ddb823ae5cc18ae1004" title="Sets the on_click function of this widget." alt="" coords="241,173,383,214"/>
+<area shape="rect" id="node8" href="$class_u_i_1_1_widget.html#adbd9b5ed5bbf24f7f6f58efecb604127" title="Generates text for the widget and overrides the current text texture." alt="" coords="237,289,387,316"/>
+<area shape="rect" id="node12" href="$namespace_eng3_d.html#aa559d3847f8c8cd69775bf7bb7e76ecc" title="String formatter, with translation." alt="" coords="701,403,883,429"/>
+<area shape="rect" id="node13" href="$namespace_eng3_d.html#a2daac0a3df154cd4d5c44da06e430ee9" title="String formatter." alt="" coords="941,268,1101,295"/>
+<area shape="rect" id="node14" href="$namespace_eng3_d_1_1_locale.html#a9c2effc733964ffd9d135001e6fc036b" title=" " alt="" coords="931,428,1111,455"/>
+<area shape="rect" id="node16" href="$class_u_i_1_1_widget.html#acebb8b96ff34667e66fd2d98519dbb09" title=" " alt="" coords="240,508,384,535"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_widget.html#af96542e4905b8ae2c540e4a3a73d4c22" title=" " alt="" coords="703,60,881,87"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_image.html#a86ff5c76873637d9ca8b0433fbac0b5e" title=" " alt="" coords="443,115,653,141"/>
+<area shape="rect" id="node9" href="$class_eng3_d_1_1_texture_manager.html#af9cf19cb0bd906b47dec14c57d5b2352" title=" " alt="" coords="459,341,637,382"/>
+<area shape="rect" id="node15" href="$class_eng3_d_1_1_state.html#aa56bcd817186a82da2b53f34f8c4d680" title=" " alt="" coords="449,289,647,316"/>
+<area shape="rect" id="node10" href="$namespace_eng3_d_1_1_log.html#a0f6f8acba80c9ea27d3e82efa4aa2b88" title=" " alt="" coords="721,348,863,375"/>
+<area shape="rect" id="node11" href="$namespace_eng3_d_1_1_log.html#a3e23c7cd8e6a525628ef052a65d5efd6" title="Logs data to a file or console." alt="" coords="959,348,1082,375"/>
+</map>

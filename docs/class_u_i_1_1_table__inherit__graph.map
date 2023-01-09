@@ -1,0 +1,4 @@
+<map id="UI::Table&lt; T &gt;" name="UI::Table&lt; T &gt;">
+<area shape="rect" id="node1" title="A dynamic/smart table that can sort elements by ascending/descending order." alt="" coords="5,80,121,107"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html" title="The master widget all the other widgets inherit from, do not use directly instead use one of the many..." alt="" coords="18,5,109,32"/>
+</map>

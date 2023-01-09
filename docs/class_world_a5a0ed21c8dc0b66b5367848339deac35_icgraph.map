@@ -1,0 +1,20 @@
+<map id="World::get_relation" name="World::get_relation">
+<area shape="rect" id="node1" title=" " alt="" coords="609,330,756,357"/>
+<area shape="rect" id="node2" href="$struct_a_i_manager.html#ad8915fb9afda7055ba3d9225c7fdaf23" title=" " alt="" coords="390,5,533,47"/>
+<area shape="rect" id="node3" href="$class_world.html#a8947c73e2fb5ddc4546e47e5dc3944f2" title=" " alt="" coords="404,71,519,98"/>
+<area shape="rect" id="node6" href="$struct_a_i_manager.html#aa0718cf415c24ad4dbd19549e4b0dbb7" title=" " alt="" coords="373,123,549,164"/>
+<area shape="rect" id="node7" href="$namespace_lua_a_p_i.html#a6e927ae3f9b61a74198095045b7864d1" title=" " alt="" coords="390,188,533,229"/>
+<area shape="rect" id="node8" href="$struct_a_i_manager.html#a9f95e2021cc7f153dce32f9cd295aa36" title=" " alt="" coords="361,254,561,281"/>
+<area shape="rect" id="node10" href="$class_nation.html#a1b6aaa3a1c163f6589f81f28b803cc09" title=" " alt="" coords="404,305,519,331"/>
+<area shape="rect" id="node12" href="$class_nation.html#aec914931f87b37b92b983c2c83a5fc4e" title=" " alt="" coords="393,355,529,382"/>
+<area shape="rect" id="node13" href="$namespace_diplomacy.html#ae31ebec6b7f3c415226e44aa4ddd84b8" title=" " alt="" coords="384,406,539,433"/>
+<area shape="rect" id="node15" href="$namespace_lua_a_p_i.html#abf207390219570ad3a139aa05f9f06ed" title=" " alt="" coords="376,457,547,499"/>
+<area shape="rect" id="node16" href="$class_interface_1_1_nation_view.html#ab23381341de6c14baeea2d89a833b6aa" title=" " alt="" coords="380,523,543,564"/>
+<area shape="rect" id="node17" href="$namespace_lua_a_p_i.html#a12d88efd3afb493126aa147b13ce44ee" title=" " alt="" coords="390,588,533,629"/>
+<area shape="rect" id="node18" href="$class_interface_1_1_unit_widget.html#aff2c52f5deb70b537aa08d958c403003" title=" " alt="" coords="381,653,542,695"/>
+<area shape="rect" id="node4" href="$class_game_state.html#a9770493b5d56697899be44dd01a28e65" title=" " alt="" coords="117,71,305,98"/>
+<area shape="rect" id="node5" href="$game__state_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,71,60,98"/>
+<area shape="rect" id="node9" href="$struct_a_i_manager.html#a1562b00e9d60a1226e947dd081724689" title=" " alt="" coords="108,254,313,281"/>
+<area shape="rect" id="node11" href="$class_nation.html#ac3d7130bbe039993a19fba130359c74f" title=" " alt="" coords="143,305,279,331"/>
+<area shape="rect" id="node14" href="$namespace_diplomacy.html#ae2b3b986c648ee0c389ed3b5f1d46afb" title=" " alt="" coords="141,406,280,433"/>
+</map>

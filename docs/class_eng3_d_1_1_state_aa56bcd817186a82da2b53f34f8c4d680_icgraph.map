@@ -1,0 +1,52 @@
+<map id="Eng3D::State::get_instance" name="Eng3D::State::get_instance">
+<area shape="rect" id="node1" title=" " alt="" coords="763,575,960,602"/>
+<area shape="rect" id="node2" href="$class_interface_1_1_battle_widget.html#a8caeee251ebf0832f0224e4f0645dc08" title=" " alt="" coords="522,5,695,47"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_candle_chart.html#a698b44be1fff8d38b893797bf5f8d6d8" title=" " alt="" coords="503,71,715,98"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_chart.html#a056ed4d431c65fa9747785afc7e7ee86" title=" " alt="" coords="547,122,670,149"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_widget.html#a59600fe0f98d1893bf9a380960753104" title=" " alt="" coords="527,173,690,199"/>
+<area shape="rect" id="node7" href="$class_u_i_1_1_widget.html#aa804ad9bec633fc30fc97103f26923ba" title=" " alt="" coords="5,173,168,199"/>
+<area shape="rect" id="node10" href="$struct_eng3_d_1_1_font_s_d_f.html#ae33fbdf516b68d8ef432a50400b354ad" title=" " alt="" coords="515,298,702,325"/>
+<area shape="rect" id="node11" href="$class_u_i_1_1_image.html#aec0ec5ca1503eccb270c9200ded71082" title=" " alt="" coords="541,349,676,375"/>
+<area shape="rect" id="node12" href="$class_u_i_1_1_image.html#ab36863901eb1d411f90b11ecad6ef48f" title=" " alt="" coords="503,399,714,426"/>
+<area shape="rect" id="node13" href="$class_u_i_1_1_candle_chart.html#a8f85e519c35de75edc4cdbfe422a13df" title=" " alt="" coords="535,451,683,492"/>
+<area shape="rect" id="node14" href="$class_u_i_1_1_chart.html#a50fc50a8229b83aa4b4c1a8dc0dadfce" title=" " alt="" coords="533,517,685,543"/>
+<area shape="rect" id="node15" href="$struct_u_i_1_1_waffle_chart.html#a4d216a958e0f5d869476836bb6f0b7db" title=" " alt="" coords="535,568,682,609"/>
+<area shape="rect" id="node16" href="$class_u_i_1_1_scrollbar.html#a8f6d232de29370440a4ab20b4a1923de" title=" " alt="" coords="525,634,692,661"/>
+<area shape="rect" id="node17" href="$class_u_i_1_1_scrollbar_thumb.html#a6fe735cdfe6a9373a8e095e3ebd1bd5b" title=" " alt="" coords="535,685,682,727"/>
+<area shape="rect" id="node18" href="$class_interface_1_1_battle_widget.html#a283d81c1a11650a5732f0e5e981056e6" title=" " alt="" coords="522,751,695,792"/>
+<area shape="rect" id="node19" href="$class_u_i_1_1_tooltip.html#af7210851c56813b8dfcb1af700c3149e" title="Generates text for the widget and overrides the current text texture." alt="" coords="535,817,683,843"/>
+<area shape="rect" id="node21" href="$class_u_i_1_1_widget.html#adbd9b5ed5bbf24f7f6f58efecb604127" title="Generates text for the widget and overrides the current text texture." alt="" coords="533,879,684,906"/>
+<area shape="rect" id="node46" href="$class_u_i_1_1_table_row.html#ad720d87f6a188ab028e62c23f7382e93" title=" " alt="" coords="521,930,697,957"/>
+<area shape="rect" id="node47" href="$namespace_lua_a_p_i.html#a166279a825d317dff5e84beb39db15a2" title=" " alt="" coords="527,981,691,1007"/>
+<area shape="rect" id="node48" href="$class_interface_1_1_unit_widget.html#afecc76db0543e9ef9b28270d4030bde6" title=" " alt="" coords="528,1032,689,1073"/>
+<area shape="rect" id="node49" href="$class_u_i_1_1_window.html#a3dfb15cd488cfb9608af3a3bd1edd78d" title=" " alt="" coords="531,1098,687,1125"/>
+<area shape="rect" id="node50" href="$class_eng3_d_1_1_texture.html#ad3ee47c02902643b1e8b52b5f25b15dd" title=" " alt="" coords="515,1149,702,1175"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_widget.html#a2aa25ffb436e6f77f69e50073aa21440" title=" " alt="" coords="236,71,435,98"/>
+<area shape="rect" id="node9" href="$class_u_i_1_1_bar_chart.html#a2fae1cd21996814cde5f715035222d58" title=" " alt="" coords="248,122,423,149"/>
+<area shape="rect" id="node8" href="$class_u_i_1_1_progress_bar.html#a1a7a5c87017f478f4a3de7b6c56eb2c6" title=" " alt="" coords="13,64,160,105"/>
+<area shape="rect" id="node20" href="$class_u_i_1_1_tooltip.html#a3bf0c9347cca81a0aa759584bb1e0a18" title=" " alt="" coords="266,274,405,301"/>
+<area shape="rect" id="node22" href="$class_interface_1_1_army_production_tab.html#a5494128704d496e0afb7616dca470547" title=" " alt="" coords="239,623,431,664"/>
+<area shape="rect" id="node23" href="$class_interface_1_1_army_production_unit_info.html#afe0c394fa5cc3de2b4d50e403e438df3" title=" " alt="" coords="216,688,455,729"/>
+<area shape="rect" id="node24" href="$class_interface_1_1_army_view.html#a8bce154dafa3cd5457afdc1f5866d978" title=" " alt="" coords="258,753,413,795"/>
+<area shape="rect" id="node25" href="$class_interface_1_1_decision_window.html#a624564aa37e398568710b7b6e4673f3a" title=" " alt="" coords="237,819,433,860"/>
+<area shape="rect" id="node26" href="$class_interface_1_1_industry_window.html#a49be8e118abaa646cedaf92ed839a632" title=" " alt="" coords="239,884,432,925"/>
+<area shape="rect" id="node27" href="$class_u_i_1_1_input.html#ab16fe908d042b43b0080455ba88afdaa" title=" " alt="" coords="27,1135,146,1162"/>
+<area shape="rect" id="node28" href="$class_interface_1_1_lobby_select_view.html#a8ee6c1afc48db5ef481dfa5e97692680" title=" " alt="" coords="236,1001,435,1043"/>
+<area shape="rect" id="node29" href="$triangle_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="308,1067,363,1094"/>
+<area shape="rect" id="node30" href="$class_interface_1_1_main_menu_connect_server.html#a9efede33cc57d38d329d37f968a46c91" title=" " alt="" coords="218,1119,453,1160"/>
+<area shape="rect" id="node31" href="$class_interface_1_1_nation_view.html#ab23381341de6c14baeea2d89a833b6aa" title=" " alt="" coords="254,1184,417,1225"/>
+<area shape="rect" id="node32" href="$class_u_i_1_1_numeric_input.html#ae2a237e76e8d2fc6c002e3aded5251fe" title=" " alt="" coords="238,1249,433,1291"/>
+<area shape="rect" id="node33" href="$class_u_i_1_1_input.html#a3713869eee8816250df82299855e6643" title=" " alt="" coords="266,1315,405,1356"/>
+<area shape="rect" id="node34" href="$class_interface_1_1_policies_view.html#abc4aa55a9075f5848b44b3211d1f05cf" title=" " alt="" coords="250,1380,421,1421"/>
+<area shape="rect" id="node35" href="$class_interface_1_1_pop_window.html#a2338c5b60e38a8fe7f8c273a5c8f7193" title=" " alt="" coords="253,1445,417,1487"/>
+<area shape="rect" id="node36" href="$class_eng3_d_1_1_interface_1_1_profiler_view.html#afe01c1df8ff207da8e196b895c9de028" title=" " alt="" coords="243,1511,428,1552"/>
+<area shape="rect" id="node37" href="$struct_interface_1_1_province_economy_tab.html#ac5b9868dd857d80681f74b5b8dfb4ab0" title=" " alt="" coords="233,1576,437,1617"/>
+<area shape="rect" id="node38" href="$class_interface_1_1_province_population_tab.html#ad7345995e07569fa1ab963ba00cc9e30" title=" " alt="" coords="229,1641,442,1683"/>
+<area shape="rect" id="node39" href="$class_interface_1_1_province_view.html#a745042f6ff29a69abfac932611553107" title=" " alt="" coords="247,1707,423,1748"/>
+<area shape="rect" id="node40" href="$class_interface_1_1_unit_widget.html#ae95d68931d8f2eb011ea1064dad85e8b" title=" " alt="" coords="255,1772,416,1813"/>
+<area shape="rect" id="node41" href="$class_u_i_1_1_label.html#a16ddc17c335063c251a0ad6a3a65a077" title="Generates text for the widget and overrides the current text texture." alt="" coords="265,325,405,351"/>
+<area shape="rect" id="node42" href="$struct_u_i_1_1_checkbox.html#a748de4e80d87e92a6ee90f98a312c582" title="Generates text for the widget and overrides the current text texture." alt="" coords="251,375,420,402"/>
+<area shape="rect" id="node43" href="$class_interface_1_1_time_control_view.html#a4aacb9bb058f70369834927ff742ebba" title=" " alt="" coords="236,427,435,468"/>
+<area shape="rect" id="node44" href="$class_interface_1_1_top_window.html#ae97a7f3b8e2e23776ae65c4d8b9915b1" title=" " alt="" coords="254,492,417,533"/>
+<area shape="rect" id="node45" href="$class_interface_1_1_unit_view.html#a861ead1d1832df5223c76824b2cfa466" title=" " alt="" coords="262,557,409,599"/>
+</map>

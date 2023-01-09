@@ -1,4 +1,5 @@
 <map id="Map::set_map_mode" name="Map::set_map_mode">
-<area shape="rect" id="node1" title=" " alt="" coords="140,5,299,32"/>
-<area shape="rect" id="node2" href="$class_map.html#a281bafa9437e50f4a5dd22739ebe9f07" title=" " alt="" coords="5,5,92,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="199,35,357,61"/>
+<area shape="rect" id="node2" href="$class_map.html#a52ee1dba587cc7666425f96055bae92f" title=" " alt="" coords="35,5,121,32"/>
+<area shape="rect" id="node3" href="$class_interface_1_1_minimap.html#a601b355bfab96bd6486ceb9b67a22a26" title=" " alt="" coords="5,57,151,98"/>
 </map>

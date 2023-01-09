@@ -1,0 +1,7 @@
+<map id="UI::Scrollbar::Scrollbar" name="UI::Scrollbar::Scrollbar">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,172,108"/>
+<area shape="rect" id="node2" href="$class_eng3_d_1_1_state.html#aa56bcd817186a82da2b53f34f8c4d680" title=" " alt="" coords="220,5,417,32"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_widget.html#ac14d747cf43a736f91aebf372fb1c9dd" title="Obtains the height of the top and bottom overflow in widget That is the space that the children of th..." alt="" coords="225,56,413,83"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_widget.html#a3c8a0903f5b0349934f6c305e7bf8e6a" title="Scrolls all the children of this widget by a factor of y." alt="" coords="252,107,385,133"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_scrollbar.html#aacae00112ba3dad89f2600db769b8040" title="Updates the thumb position in respect to the current scroll positioning of the parent." alt="" coords="241,158,396,199"/>
+</map>

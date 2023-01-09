@@ -1,0 +1,4 @@
+<map id="Manager::load" name="Manager::load">
+<area shape="rect" id="node1" title="Load an element, this is the function that must be defined by the inheritor." alt="" coords="161,5,276,32"/>
+<area shape="rect" id="node2" href="$class_manager.html#a35813013432a0fb952c32fc9472c16e9" title="Obtain an element or construct a new one from a provided construct which accepts key." alt="" coords="5,5,113,32"/>
+</map>

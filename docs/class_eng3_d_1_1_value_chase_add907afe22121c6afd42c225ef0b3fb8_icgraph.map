@@ -1,0 +1,7 @@
+<map id="Eng3D::ValueChase::move_towards" name="Eng3D::ValueChase::move_towards">
+<area shape="rect" id="node1" title=" " alt="" coords="413,39,571,80"/>
+<area shape="rect" id="node2" href="$class_eng3_d_1_1_flat_camera.html#a4cb9e5bbd660a4ce821f08fd5a02ce39" title="Update the movement of the camera. Used for smooth camera movement." alt="" coords="209,5,365,47"/>
+<area shape="rect" id="node4" href="$class_eng3_d_1_1_orbit_camera.html#a03bf90b0409e545dee40429bc85d4c7c" title="Update the movement of the camera. Used for smooth camera movement." alt="" coords="210,71,365,112"/>
+<area shape="rect" id="node3" href="$class_eng3_d_1_1_flat_camera.html#ab24baafd5fa9d90c5495dc0e0eb5c198" title="Set the map position of the camera." alt="" coords="5,5,161,47"/>
+<area shape="rect" id="node5" href="$class_eng3_d_1_1_orbit_camera.html#af61731b8674cb9b1286b5ba1339403e0" title="Set the map position of the camera." alt="" coords="6,71,161,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="UI::Widget::set_tooltip" name="UI::Widget::set_tooltip">
+<area shape="rect" id="node1" title="Set the tooltip to be shown when this widget is hovered, but generate it from a string instead of tak..." alt="" coords="5,5,172,32"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html#a59a343757cbb2e67a1d00a142811c2a9" title="Set the tooltip to be shown when this widget is hovered, overrides the previous tooltip." alt="" coords="220,5,387,32"/>
+</map>

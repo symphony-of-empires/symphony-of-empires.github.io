@@ -1,0 +1,6 @@
+<map id="Interface::ArmyUnitsTab::ArmyUnitsTab" name="Interface::ArmyUnitsTab::ArmyUnitsTab">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,184,90"/>
+<area shape="rect" id="node2" href="$struct_eng3_d_1_1_freelist.html#a1f7d86b1f2817bcbe89a5dd45493053a" title=" " alt="" coords="232,5,416,32"/>
+<area shape="rect" id="node3" href="$struct_entity.html#a64dd7416c7b112fb6b86150858b17028" title=" " alt="" coords="271,56,377,83"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_widget.html#aaef943e2765901afbadd62b63d4ee8b3" title="Sets the on_each_tick function of this widget." alt="" coords="253,107,395,149"/>
+</map>

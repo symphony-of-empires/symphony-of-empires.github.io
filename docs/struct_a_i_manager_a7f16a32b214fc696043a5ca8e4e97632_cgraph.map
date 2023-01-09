@@ -1,0 +1,5 @@
+<map id="AIManager::calc_weights" name="AIManager::calc_weights">
+<area shape="rect" id="node1" title="Recalculate weights iff losing territory." alt="" coords="5,5,189,32"/>
+<area shape="rect" id="node2" href="$struct_a_i_manager.html#a11a25cfd66b742b64cca7feaff6347dd" title="Reshuffle weights of the AI." alt="" coords="237,5,435,32"/>
+<area shape="rect" id="node3" href="$struct_a_i_manager.html#a6d72d4d01eca909d19bc2a2984371604" title=" " alt="" coords="483,5,640,32"/>
+</map>

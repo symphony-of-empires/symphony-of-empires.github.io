@@ -1,0 +1,4 @@
+<map id="Eng3D::OrbitCamera::update" name="Eng3D::OrbitCamera::update">
+<area shape="rect" id="node1" title="Update the movement of the camera. Used for smooth camera movement." alt="" coords="208,5,363,47"/>
+<area shape="rect" id="node2" href="$class_eng3_d_1_1_orbit_camera.html#af61731b8674cb9b1286b5ba1339403e0" title="Set the map position of the camera." alt="" coords="5,5,160,47"/>
+</map>

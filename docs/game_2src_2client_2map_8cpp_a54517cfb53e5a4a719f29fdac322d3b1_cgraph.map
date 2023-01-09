@@ -1,0 +1,15 @@
+<map id="draw_battles" name="draw_battles">
+<area shape="rect" id="node1" title=" " alt="" coords="5,202,112,229"/>
+<area shape="rect" id="node2" href="$struct_eng3_d_1_1_mesh_static.html#a1a034e2808b8cccdf61d94ae13c782ac" title=" " alt="" coords="171,71,355,98"/>
+<area shape="rect" id="node7" href="$namespace_eng3_d_1_1_locale.html#a9c2effc733964ffd9d135001e6fc036b" title=" " alt="" coords="835,122,1015,149"/>
+<area shape="rect" id="node8" href="$class_province.html#a121c075bb578428210058b061347a3a8" title=" " alt="" coords="195,173,332,199"/>
+<area shape="rect" id="node9" href="$class_unit_manager.html#afafa9636c76329b2d4b11415ac408a86" title=" " alt="" coords="164,224,363,265"/>
+<area shape="rect" id="node10" href="$class_eng3_d_1_1_i_o_1_1_package_manager.html#afa214f9fc4831eea1a0533861a843f46" title="Obtaining an unique asset means the &quot;first&#45;found&quot; policy applies." alt="" coords="160,289,367,331"/>
+<area shape="rect" id="node11" href="$class_eng3_d_1_1_texture_manager.html#a88ed4d9fb34ad82011eb0a337f72a665" title="Finds a texture in the list of a texture manager if the texture is already in the list we load the sa..." alt="" coords="175,355,352,396"/>
+<area shape="rect" id="node3" href="$namespace_eng3_d.html#a506768c8e5fe0e96ff5aa8e0e2353241" title=" " alt="" coords="434,71,538,98"/>
+<area shape="rect" id="node4" href="$class_eng3_d_1_1_open_g_l_1_1_v_a_o.html#a370637ab50bc65c64f69788b0d575fd4" title=" " alt="" coords="617,5,775,47"/>
+<area shape="rect" id="node5" href="$namespace_eng3_d.html#aa559d3847f8c8cd69775bf7bb7e76ecc" title="String formatter, with translation." alt="" coords="605,71,787,98"/>
+<area shape="rect" id="node6" href="$namespace_eng3_d.html#a2daac0a3df154cd4d5c44da06e430ee9" title="String formatter." alt="" coords="845,71,1005,98"/>
+<area shape="rect" id="node12" href="$namespace_eng3_d_1_1_log.html#a0f6f8acba80c9ea27d3e82efa4aa2b88" title=" " alt="" coords="415,362,557,389"/>
+<area shape="rect" id="node13" href="$namespace_eng3_d_1_1_log.html#a3e23c7cd8e6a525628ef052a65d5efd6" title="Logs data to a file or console." alt="" coords="635,362,757,389"/>
+</map>

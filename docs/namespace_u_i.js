@@ -1,23 +1,107 @@
 var namespace_u_i =
 [
     [ "BarChart", "class_u_i_1_1_bar_chart.html", "class_u_i_1_1_bar_chart" ],
-    [ "Border", "class_u_i_1_1_border.html", "class_u_i_1_1_border" ],
     [ "Button", "class_u_i_1_1_button.html", "class_u_i_1_1_button" ],
+    [ "CandleData", "struct_u_i_1_1_candle_data.html", "struct_u_i_1_1_candle_data" ],
+    [ "CandleChart", "class_u_i_1_1_candle_chart.html", "class_u_i_1_1_candle_chart" ],
     [ "Chart", "class_u_i_1_1_chart.html", "class_u_i_1_1_chart" ],
-    [ "ChartData", "class_u_i_1_1_chart_data.html", "class_u_i_1_1_chart_data" ],
-    [ "Checkbox", "class_u_i_1_1_checkbox.html", "class_u_i_1_1_checkbox" ],
+    [ "Checkbox", "struct_u_i_1_1_checkbox.html", "struct_u_i_1_1_checkbox" ],
     [ "CloseButton", "class_u_i_1_1_close_button.html", "class_u_i_1_1_close_button" ],
-    [ "Context", "class_u_i_1_1_context.html", "class_u_i_1_1_context" ],
-    [ "Div", "class_u_i_1_1_div.html", "class_u_i_1_1_div" ],
+    [ "Div", "struct_u_i_1_1_div.html", "struct_u_i_1_1_div" ],
     [ "Group", "class_u_i_1_1_group.html", "class_u_i_1_1_group" ],
     [ "Image", "class_u_i_1_1_image.html", "class_u_i_1_1_image" ],
+    [ "AspectImage", "class_u_i_1_1_aspect_image.html", "class_u_i_1_1_aspect_image" ],
     [ "Input", "class_u_i_1_1_input.html", "class_u_i_1_1_input" ],
     [ "Label", "class_u_i_1_1_label.html", "class_u_i_1_1_label" ],
+    [ "NumericInput", "class_u_i_1_1_numeric_input.html", "class_u_i_1_1_numeric_input" ],
     [ "PieChart", "class_u_i_1_1_pie_chart.html", "class_u_i_1_1_pie_chart" ],
     [ "ProgressBar", "class_u_i_1_1_progress_bar.html", "class_u_i_1_1_progress_bar" ],
+    [ "ScrollbarThumb", "class_u_i_1_1_scrollbar_thumb.html", "class_u_i_1_1_scrollbar_thumb" ],
+    [ "Scrollbar", "class_u_i_1_1_scrollbar.html", "class_u_i_1_1_scrollbar" ],
     [ "Slider", "class_u_i_1_1_slider.html", "class_u_i_1_1_slider" ],
+    [ "TableElement", "class_u_i_1_1_table_element.html", "class_u_i_1_1_table_element" ],
+    [ "TableRow", "class_u_i_1_1_table_row.html", "class_u_i_1_1_table_row" ],
+    [ "Table", "class_u_i_1_1_table.html", "class_u_i_1_1_table" ],
     [ "Text", "class_u_i_1_1_text.html", "class_u_i_1_1_text" ],
     [ "Tooltip", "class_u_i_1_1_tooltip.html", "class_u_i_1_1_tooltip" ],
+    [ "Context", "class_u_i_1_1_context.html", "class_u_i_1_1_context" ],
+    [ "WaffleChart", "struct_u_i_1_1_waffle_chart.html", "struct_u_i_1_1_waffle_chart" ],
+    [ "ChartData", "class_u_i_1_1_chart_data.html", "class_u_i_1_1_chart_data" ],
+    [ "Border", "class_u_i_1_1_border.html", "class_u_i_1_1_border" ],
     [ "Widget", "class_u_i_1_1_widget.html", "class_u_i_1_1_widget" ],
-    [ "Window", "class_u_i_1_1_window.html", "class_u_i_1_1_window" ]
+    [ "Window", "class_u_i_1_1_window.html", "class_u_i_1_1_window" ],
+    [ "Callback", "namespace_u_i.html#a10961e5b8647b3f5bcc18e32d981acbe", null ],
+    [ "Align", "namespace_u_i.html#ae8be8d007ac0bf267fc4d51c85d26fc0", [
+      [ "START", "namespace_u_i.html#ae8be8d007ac0bf267fc4d51c85d26fc0ab078ffd28db767c502ac367053f6e0ac", null ],
+      [ "END", "namespace_u_i.html#ae8be8d007ac0bf267fc4d51c85d26fc0ab1a326c06d88bf042f73d70f50197905", null ],
+      [ "CENTER", "namespace_u_i.html#ae8be8d007ac0bf267fc4d51c85d26fc0ac397289ee45877be0cd49811fe245b4e", null ]
+    ] ],
+    [ "ClickState", "namespace_u_i.html#ad6f03dbad7569ff388513578281fa9aa", [
+      [ "NOT_CLICKED", "namespace_u_i.html#ad6f03dbad7569ff388513578281fa9aaa336488d39151604bdb8c97cf07762fd8", null ],
+      [ "NOT_HANDLED", "namespace_u_i.html#ad6f03dbad7569ff388513578281fa9aaa0b9ab98dca1a5b86adde2eaf09c95aea", null ],
+      [ "HANDLED", "namespace_u_i.html#ad6f03dbad7569ff388513578281fa9aaa9a5c682455ce10cef6dfee3aef3730a5", null ]
+    ] ],
+    [ "Direction", "group___u_i.html#gaacada08fac199a5708acd05d98f9a1c9", [
+      [ "LEFT_TO_RIGHT", "group___u_i.html#ggaacada08fac199a5708acd05d98f9a1c9a3ba9c296d0eb2686b837d4f10e27243b", null ],
+      [ "RIGHT_TO_LEFT", "group___u_i.html#ggaacada08fac199a5708acd05d98f9a1c9a132e23a80cef8d694ea55b6e790b9e4a", null ],
+      [ "TOP_TO_BOTTOM", "group___u_i.html#ggaacada08fac199a5708acd05d98f9a1c9a99330b5426599e4d48e0f69ca4089fc1", null ],
+      [ "BOTTOM_TO_TOP", "group___u_i.html#ggaacada08fac199a5708acd05d98f9a1c9a74db93190a9be48683571425f41c12c8", null ]
+    ] ],
+    [ "Flex", "group___u_i.html#ga86fcebf715ff59010e8dc0b4a6f087b5", [
+      [ "NONE", "group___u_i.html#gga86fcebf715ff59010e8dc0b4a6f087b5ab50339a10e1de285ac99d4c3990b8693", null ],
+      [ "ROW", "group___u_i.html#gga86fcebf715ff59010e8dc0b4a6f087b5a54c1ed33c810f895d48c008d89f880b7", null ],
+      [ "COLUMN", "group___u_i.html#gga86fcebf715ff59010e8dc0b4a6f087b5a829250befeaeea0b203d31fd09a0ced3", null ]
+    ] ],
+    [ "FlexJustify", "group___u_i.html#gaf6aaf60fdc98865d7b1995704983b8fd", [
+      [ "START", "group___u_i.html#ggaf6aaf60fdc98865d7b1995704983b8fdab078ffd28db767c502ac367053f6e0ac", null ],
+      [ "END", "group___u_i.html#ggaf6aaf60fdc98865d7b1995704983b8fdab1a326c06d88bf042f73d70f50197905", null ],
+      [ "SPACE_BETWEEN", "group___u_i.html#ggaf6aaf60fdc98865d7b1995704983b8fda83dc311435f2ce3fb34b25ab94df5596", null ],
+      [ "SPACE_AROUND", "group___u_i.html#ggaf6aaf60fdc98865d7b1995704983b8fda86f9bb13aa00fb54e85188c0f936cd0b", null ]
+    ] ],
+    [ "Origin", "group___u_i.html#gaff351a3c24693e3afadf0793e2873d0f", [
+      [ "CENTER", "group___u_i.html#ggaff351a3c24693e3afadf0793e2873d0fac397289ee45877be0cd49811fe245b4e", null ],
+      [ "MIDDLE_LEFT", "group___u_i.html#ggaff351a3c24693e3afadf0793e2873d0fa9d4989e254422a15442ed8c59c600f1a", null ],
+      [ "MIDDLE_RIGHT", "group___u_i.html#ggaff351a3c24693e3afadf0793e2873d0fa0a22e84ed1c4062d7ac11d80bbed3876", null ],
+      [ "UPPER_LEFT", "group___u_i.html#ggaff351a3c24693e3afadf0793e2873d0fac122adb2ef4ea606a12c5af1b8ca5319", null ],
+      [ "UPPER_MIDDLE", "group___u_i.html#ggaff351a3c24693e3afadf0793e2873d0fa3c5d76f4d3e454de5f62a52916337539", null ],
+      [ "UPPER_RIGHT", "group___u_i.html#ggaff351a3c24693e3afadf0793e2873d0fa24cd25dbc37d130d0a94554e560ead06", null ],
+      [ "LOWER_LEFT", "group___u_i.html#ggaff351a3c24693e3afadf0793e2873d0fa56052100a4c3a420907d2fc77f1227a8", null ],
+      [ "LOWER_MIDDLE", "group___u_i.html#ggaff351a3c24693e3afadf0793e2873d0faadeabe18f659d1da86c124e6a6da0acb", null ],
+      [ "LOWER_RIGHT", "group___u_i.html#ggaff351a3c24693e3afadf0793e2873d0fa9434fe4878cd007b366fa72d3694f1b4", null ],
+      [ "CENTER_SCREEN", "group___u_i.html#ggaff351a3c24693e3afadf0793e2873d0faedb6ee00df6f59665cc2bc28fed68bdf", null ],
+      [ "MIDDLE_LEFT_SCREEN", "group___u_i.html#ggaff351a3c24693e3afadf0793e2873d0fad3090a84f0cdf633c728397a5dc4812d", null ],
+      [ "MIDDLE_RIGHT_SCREEN", "group___u_i.html#ggaff351a3c24693e3afadf0793e2873d0fa4020cc71cfcb54e6346894cc52ac316c", null ],
+      [ "UPPER_LEFT_SCREEN", "group___u_i.html#ggaff351a3c24693e3afadf0793e2873d0fa1a917522c2be7d04e7ad95c56c95caea", null ],
+      [ "UPPER_MIDDLE_SCREEN", "group___u_i.html#ggaff351a3c24693e3afadf0793e2873d0fa4350bb7eabec49393dfb9d6aee8c6b85", null ],
+      [ "UPPER_RIGHT_SCREEN", "group___u_i.html#ggaff351a3c24693e3afadf0793e2873d0fa8d8fb9d1504f8912103f2be83ffd9332", null ],
+      [ "LOWER_LEFT_SCREEN", "group___u_i.html#ggaff351a3c24693e3afadf0793e2873d0faa5108b32ed09c2e0b24246c649bd1a03", null ],
+      [ "LOWER_MIDDLE_SCREEN", "group___u_i.html#ggaff351a3c24693e3afadf0793e2873d0fa11c750970d885d2eac02800341de811d", null ],
+      [ "LOWER_RIGHT_SCREEN", "group___u_i.html#ggaff351a3c24693e3afadf0793e2873d0faf0fbdeef3e20bf7e72cd67a5e4702487", null ]
+    ] ],
+    [ "Overflow", "namespace_u_i.html#a9df4156a0592f278aea8bf737b0489b5", [
+      [ "CLAMP", "namespace_u_i.html#a9df4156a0592f278aea8bf737b0489b5aecf301fe86e23bb2bf5155bbef3b1345", null ],
+      [ "WRAP", "namespace_u_i.html#a9df4156a0592f278aea8bf737b0489b5ae1c8555fcf0ea2bb648a6fd527d658c0", null ]
+    ] ],
+    [ "WidgetType", "group___u_i.html#ga76514bb25ef5af8d66563c67202197a1", [
+      [ "DIV", "group___u_i.html#gga76514bb25ef5af8d66563c67202197a1a29bbf66f7f8529ec47e394fb5a36c646", null ],
+      [ "BUTTON", "group___u_i.html#gga76514bb25ef5af8d66563c67202197a1a57b35198356d373bcd2a6e08abcb3795", null ],
+      [ "INPUT", "group___u_i.html#gga76514bb25ef5af8d66563c67202197a1aa84cc046d48610b05c21fd3670d0c829", null ],
+      [ "WINDOW", "group___u_i.html#gga76514bb25ef5af8d66563c67202197a1a70e2a9fa5d5ec49dc67453eab551251d", null ],
+      [ "TOOLTIP", "group___u_i.html#gga76514bb25ef5af8d66563c67202197a1ad324c1dd47c2c44f621c1e67dfecb915", null ],
+      [ "LABEL", "group___u_i.html#gga76514bb25ef5af8d66563c67202197a1a6f434c508ad901b8667ed22f713e52bb", null ],
+      [ "IMAGE", "group___u_i.html#gga76514bb25ef5af8d66563c67202197a1a23a12f67f614b5518c7f1c2465bf95e3", null ],
+      [ "CHART", "group___u_i.html#gga76514bb25ef5af8d66563c67202197a1a901e55a61b4fcbe505f59dfa5e4dd608", null ],
+      [ "CHECKBOX", "group___u_i.html#gga76514bb25ef5af8d66563c67202197a1a22ab9eebdf3d8e32268c02e577520333", null ],
+      [ "PIE_CHART", "group___u_i.html#gga76514bb25ef5af8d66563c67202197a1ab39662d2f70c02e1612f8c6928f906b9", null ],
+      [ "BAR_CHART", "group___u_i.html#gga76514bb25ef5af8d66563c67202197a1ac410243acea8da5dbd81cbfae2ca9ce5", null ],
+      [ "PROGRESS_BAR", "group___u_i.html#gga76514bb25ef5af8d66563c67202197a1a0d32e02396c223148b9aadf9894521d8", null ],
+      [ "SLIDER", "group___u_i.html#gga76514bb25ef5af8d66563c67202197a1a3c93f85078b290625b7c4db299979c4f", null ],
+      [ "GROUP", "group___u_i.html#gga76514bb25ef5af8d66563c67202197a1a720909a4b948fc9e33633b61960d6b3c", null ],
+      [ "SCROLLBAR", "group___u_i.html#gga76514bb25ef5af8d66563c67202197a1ac77177961ab05e4a38832dcd6e30627d", null ],
+      [ "TABLE", "group___u_i.html#gga76514bb25ef5af8d66563c67202197a1a34bbae0aee41ddd6a73697584a20afc6", null ],
+      [ "TABLE_ROW", "group___u_i.html#gga76514bb25ef5af8d66563c67202197a1a12a7ef966036af1949ebb7b41b65441f", null ],
+      [ "TABLE_ELEMENT", "group___u_i.html#gga76514bb25ef5af8d66563c67202197a1a2b76d121f24aeb2778592882ef35aa94", null ],
+      [ "SCROLLBAR_THUMB", "group___u_i.html#gga76514bb25ef5af8d66563c67202197a1a9b103c5d9dcc96214ae23a0dbb6c9205", null ]
+    ] ],
+    [ "g_ui_context", "namespace_u_i.html#ad0af94070e491a379bd316c0014db383", null ]
 ];

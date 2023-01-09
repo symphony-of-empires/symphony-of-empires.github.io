@@ -1,16 +1,9 @@
 <map id="TreatyClause::ImposePolicies" name="TreatyClause::ImposePolicies">
-<area shape="rect" id="node1" title=" " alt="" coords="5,528,217,555"/>
-<area shape="rect" id="node2" href="$class_treaty_clause_1_1_base_clause.html" title=" " alt="" coords="132,452,323,479"/>
-<area shape="rect" id="node3" href="$class_nation.html" title=" " alt="" coords="311,348,376,375"/>
-<area shape="rect" id="node8" href="$class_province.html" title=" " alt="" coords="443,452,521,479"/>
-<area shape="rect" id="node4" href="$class_refname_entity.html" title=" " alt="" coords="275,157,478,184"/>
-<area shape="rect" id="node7" href="$class_technology.html" title=" " alt="" coords="296,247,391,273"/>
-<area shape="rect" id="node5" href="$class_id_entity.html" title=" " alt="" coords="299,81,454,108"/>
-<area shape="rect" id="node6" href="$class_entity.html" title=" " alt="" coords="305,5,448,32"/>
-<area shape="rect" id="node9" href="$class_terrain_type.html" title=" " alt="" coords="551,297,647,324"/>
-<area shape="rect" id="node10" href="$class_refname_entity.html" title=" " alt="" coords="502,157,697,184"/>
-<area shape="rect" id="node13" href="$class_ideology.html" title=" " alt="" coords="415,247,493,273"/>
-<area shape="rect" id="node11" href="$class_id_entity.html" title=" " alt="" coords="526,81,673,108"/>
-<area shape="rect" id="node12" href="$class_entity.html" title=" " alt="" coords="532,5,667,32"/>
-<area shape="rect" id="node14" href="$class_policies.html" title=" " alt="" coords="87,157,159,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="72,275,284,301"/>
+<area shape="rect" id="node2" href="$class_treaty_clause_1_1_base_clause.html" title=" " alt="" coords="5,185,196,212"/>
+<area shape="rect" id="node3" href="$struct_nation_id.html" title=" " alt="" coords="62,81,139,108"/>
+<area shape="rect" id="node4" href="$struct_entity_id.html" title=" " alt="" coords="23,5,178,32"/>
+<area shape="rect" id="node5" href="$struct_policies.html" title=" " alt="" coords="221,185,293,212"/>
+<area shape="rect" id="node6" href="$struct_policies_1_1_economic.html" title=" " alt="" coords="175,81,317,108"/>
+<area shape="rect" id="node7" href="$struct_policies_1_1_political.html" title=" " alt="" coords="341,81,473,108"/>
 </map>

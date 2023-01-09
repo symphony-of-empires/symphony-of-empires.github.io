@@ -1,0 +1,6 @@
+<map id="Unit::can_move" name="Unit::can_move">
+<area shape="rect" id="node1" title="Checks if the unit can move (if it can set_province)" alt="" coords="404,31,528,57"/>
+<area shape="rect" id="node2" href="$class_unit.html#a5f5b956b191fc18235fb430154cb6b55" title=" " alt="" coords="233,31,356,57"/>
+<area shape="rect" id="node3" href="$class_unit.html#aedef8eb724d0d7a5d22cbefa9e97d52f" title=" " alt="" coords="39,5,152,32"/>
+<area shape="rect" id="node4" href="$class_unit.html#af432499ffe9747b0ddb2f87173f860d0" title=" " alt="" coords="5,56,185,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Eng3D::OrbitCamera::get_view" name="Eng3D::OrbitCamera::get_view">
+<area shape="rect" id="node1" title="Get the view matrix." alt="" coords="217,5,372,47"/>
+<area shape="rect" id="node2" href="$class_eng3_d_1_1_orbit_camera.html#a1e2d4ee3e52d0f45da7ebe4ed532daa8" title="Get the cursors position on the map." alt="" coords="5,5,169,47"/>
+</map>

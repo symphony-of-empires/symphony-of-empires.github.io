@@ -1,0 +1,4 @@
+<map id="UI::TableElement" name="UI::TableElement">
+<area shape="rect" id="node1" title="An element on a table, operates on a k=v fashion where the key is used for sorting the table." alt="" coords="5,80,137,107"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html" title="The master widget all the other widgets inherit from, do not use directly instead use one of the many..." alt="" coords="26,5,117,32"/>
+</map>

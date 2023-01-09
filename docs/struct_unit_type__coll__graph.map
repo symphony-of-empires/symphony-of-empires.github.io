@@ -1,0 +1,6 @@
+<map id="UnitType" name="UnitType">
+<area shape="rect" id="node1" title="Defines a type of unit, it can be a tank, garrison, infantry, etc this is moddable via a lua script a..." alt="" coords="175,171,254,197"/>
+<area shape="rect" id="node2" href="$struct_refname_entity.html" title=" " alt="" coords="5,81,224,108"/>
+<area shape="rect" id="node3" href="$struct_entity.html" title="An entity which can only be referenced by an (presumably) unique Id this is the base class for the ot..." alt="" coords="65,5,164,32"/>
+<area shape="rect" id="node4" href="$struct_eng3_d_1_1_string_ref.html" title="A reference to a string on the global string pool." alt="" coords="249,81,381,108"/>
+</map>

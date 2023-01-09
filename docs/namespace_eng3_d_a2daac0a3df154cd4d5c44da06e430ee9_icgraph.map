@@ -1,0 +1,52 @@
+<map id="Eng3D::string_format" name="Eng3D::string_format">
+<area shape="rect" id="node1" title="String formatter." alt="" coords="789,885,949,912"/>
+<area shape="rect" id="node2" href="$namespace_lua_a_p_i.html#ada7d9d3fb81b9e5d1032054b06c63775" title=" " alt="" coords="566,5,713,32"/>
+<area shape="rect" id="node4" href="$namespace_lua_a_p_i.html#adb29e655637bdc3bcbaa4e0a49daaaec" title=" " alt="" coords="559,173,720,200"/>
+<area shape="rect" id="node5" href="$class_interface_1_1_battle_widget.html#a8caeee251ebf0832f0224e4f0645dc08" title=" " alt="" coords="553,225,726,266"/>
+<area shape="rect" id="node6" href="$namespace_lua_a_p_i.html#afc2df2e273d58ce3eed9d9bd1882acca" title=" " alt="" coords="558,291,721,317"/>
+<area shape="rect" id="node7" href="$struct_eng3_d_1_1_deser_1_1_archive.html#a809e4e43bf48aa3f86c3701b47a852b8" title=" " alt="" coords="556,342,723,383"/>
+<area shape="rect" id="node10" href="$struct_eng3_d_1_1_deser_1_1_archive.html#aee3eb4c77499d9f3dd7a2bb4a04dff5a" title=" " alt="" coords="556,407,723,449"/>
+<area shape="rect" id="node11" href="$class_map.html#a1e704b83efd928151073aebcbfb9001e" title=" " alt="" coords="567,524,712,551"/>
+<area shape="rect" id="node12" href="$class_map.html#a52ee1dba587cc7666425f96055bae92f" title=" " alt="" coords="327,473,413,500"/>
+<area shape="rect" id="node13" href="$class_interface_1_1_decision_window.html#a624564aa37e398568710b7b6e4673f3a" title=" " alt="" coords="541,626,737,667"/>
+<area shape="rect" id="node14" href="$class_world.html#a8947c73e2fb5ddc4546e47e5dc3944f2" title=" " alt="" coords="582,692,697,719"/>
+<area shape="rect" id="node16" href="$struct_eng3_d_1_1_deser_1_1_archive.html#a484d9e58a6b3a2f523798e23ee91f1cc" title=" " alt="" coords="287,902,453,943"/>
+<area shape="rect" id="node19" href="$struct_ideology.html#a3b8cb1165a12de844df2a4da74affefe" title=" " alt="" coords="551,1367,727,1393"/>
+<area shape="rect" id="node20" href="$struct_religion.html#a5f887c64a6451f7823fdb00b30ae5c8e" title=" " alt="" coords="552,1417,727,1444"/>
+<area shape="rect" id="node21" href="$struct_terrain_type.html#a4baa86a4915066eebe5d777fc169df27" title=" " alt="" coords="542,1468,737,1495"/>
+<area shape="rect" id="node22" href="$struct_commodity.html#ac5d8ed452dea56c606cb8a2e5f154401" title=" " alt="" coords="541,1519,737,1545"/>
+<area shape="rect" id="node23" href="$struct_unit_type.html#a668eb0e0d5474b6598ca7cd61466b8ab" title=" " alt="" coords="550,1569,729,1596"/>
+<area shape="rect" id="node24" href="$class_game_state.html#ac01855fe789a730103416d84ad3672c3" title=" " alt="" coords="537,809,741,836"/>
+<area shape="rect" id="node25" href="$class_interface_1_1_nation_view.html#ab23381341de6c14baeea2d89a833b6aa" title=" " alt="" coords="289,706,451,747"/>
+<area shape="rect" id="node29" href="$class_interface_1_1_top_window.html#ae97a7f3b8e2e23776ae65c4d8b9915b1" title=" " alt="" coords="289,771,451,813"/>
+<area shape="rect" id="node30" href="$namespace_lua_a_p_i.html#a6fe5f94e64538cf85a76b5da4ea2db02" title=" " alt="" coords="554,57,725,98"/>
+<area shape="rect" id="node31" href="$class_interface_1_1_industry_window.html#add2f549811bc1ea1364b7fa3b65a3783" title=" " alt="" coords="273,1333,467,1374"/>
+<area shape="rect" id="node34" href="$class_interface_1_1_policies_view.html#abc4aa55a9075f5848b44b3211d1f05cf" title=" " alt="" coords="285,1398,455,1439"/>
+<area shape="rect" id="node35" href="$class_interface_1_1_pop_window.html#a2338c5b60e38a8fe7f8c273a5c8f7193" title=" " alt="" coords="288,1463,452,1505"/>
+<area shape="rect" id="node36" href="$class_interface_1_1_province_view.html#a745042f6ff29a69abfac932611553107" title=" " alt="" coords="282,1529,458,1570"/>
+<area shape="rect" id="node37" href="$class_map.html#a173350c645164676bb856c9a823e24f2" title=" " alt="" coords="561,575,718,601"/>
+<area shape="rect" id="node38" href="$class_server.html#a674438f876331108967f3e29be41b402" title=" " alt="" coords="313,1595,427,1621"/>
+<area shape="rect" id="node39" href="$class_u_i_1_1_table_element.html#a7bdc96c9ccac6f5788c3cb82121119db" title=" " alt="" coords="544,1620,735,1647"/>
+<area shape="rect" id="node40" href="$class_interface_1_1_unit_widget.html#ae95d68931d8f2eb011ea1064dad85e8b" title=" " alt="" coords="559,743,720,785"/>
+<area shape="rect" id="node41" href="$namespace_lua_a_p_i.html#a96b93b156c45da2e8fe70bd1f649577b" title=" " alt="" coords="540,123,739,149"/>
+<area shape="rect" id="node42" href="$struct_eng3_d_1_1_deser_1_1_archive.html#a3ed230c9955f48b049d5a023c5573e5b" title=" " alt="" coords="287,1646,453,1687"/>
+<area shape="rect" id="node43" href="$namespace_eng3_d.html#aa559d3847f8c8cd69775bf7bb7e76ecc" title="String formatter, with translation." alt="" coords="549,1012,730,1039"/>
+<area shape="rect" id="node50" href="$namespace_lua_a_p_i.html#a358c35d9cf7a1ba0427642bbe5326cd6" title=" " alt="" coords="548,1671,731,1697"/>
+<area shape="rect" id="node3" href="$class_world.html#a8b82aa865cb7bede7bca12ab017e2343" title=" " alt="" coords="312,64,428,91"/>
+<area shape="rect" id="node8" href="$struct_eng3_d_1_1_deser_1_1_serializer_memcpy.html#a4c2a91f5e5bf0b5cbd9d0f7128e07a6d" title=" " alt="" coords="278,407,462,449"/>
+<area shape="rect" id="node9" href="$struct_eng3_d_1_1_deser_1_1_serializer_3_01_world_01_4.html#ad7df642a2625692ca03632a5936a08f0" title=" " alt="" coords="271,342,469,383"/>
+<area shape="rect" id="node15" href="$class_game_state.html#a9770493b5d56697899be44dd01a28e65" title=" " alt="" coords="276,524,464,551"/>
+<area shape="rect" id="node17" href="$namespace_l_u_a__util.html#ad9d84b6a6e97b3d96e164101e730d870" title=" " alt="" coords="49,884,159,911"/>
+<area shape="rect" id="node18" href="$class_world.html#a61454ae9d3c0d03695bce87d612bbb66" title=" " alt="" coords="34,935,174,961"/>
+<area shape="rect" id="node26" href="$class_interface_1_1_province_population_tab.html#ad7345995e07569fa1ab963ba00cc9e30" title=" " alt="" coords="263,837,477,878"/>
+<area shape="rect" id="node27" href="$class_interface_1_1_battle_widget.html#a283d81c1a11650a5732f0e5e981056e6" title=" " alt="" coords="283,641,457,682"/>
+<area shape="rect" id="node28" href="$class_interface_1_1_unit_widget.html#aff2c52f5deb70b537aa08d958c403003" title=" " alt="" coords="289,575,451,617"/>
+<area shape="rect" id="node32" href="$class_interface_1_1_industry_window.html#a49be8e118abaa646cedaf92ed839a632" title=" " alt="" coords="7,1301,201,1342"/>
+<area shape="rect" id="node33" href="$struct_interface_1_1_province_building_tab.html#a57cf4e4a881120c4743ced3e3557ae79" title=" " alt="" coords="5,1366,203,1407"/>
+<area shape="rect" id="node44" href="$class_interface_1_1_army_production_unit_info.html#afe0c394fa5cc3de2b4d50e403e438df3" title=" " alt="" coords="251,1150,489,1191"/>
+<area shape="rect" id="node45" href="$struct_eng3_d_1_1_audio.html#a90598b374cd75c16f7e2912dcfac8f80" title=" " alt="" coords="293,1216,447,1243"/>
+<area shape="rect" id="node46" href="$class_eng3_d_1_1_audio_manager.html#ac4153b6680967484a264426303195fe5" title=" " alt="" coords="287,1267,453,1309"/>
+<area shape="rect" id="node47" href="$class_eng3_d_1_1_networking_1_1_client.html#a46092ba5f13ace7905372a445e77d7dc" title=" " alt="" coords="293,967,447,1009"/>
+<area shape="rect" id="node48" href="$class_eng3_d_1_1_networking_1_1_client.html#a9ef39931dd78b12ac225ca0532680dd2" title=" " alt="" coords="293,1033,447,1074"/>
+<area shape="rect" id="node49" href="$namespace_eng3_d.html#a506768c8e5fe0e96ff5aa8e0e2353241" title=" " alt="" coords="318,1099,422,1125"/>
+</map>

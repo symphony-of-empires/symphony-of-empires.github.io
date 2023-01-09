@@ -1,0 +1,4 @@
+<map id="Eng3D::Camera::get_tile_world_pos" name="Eng3D::Camera::get_tile_world_pos">
+<area shape="rect" id="node1" title="Get the tiles world position." alt="" coords="205,5,357,47"/>
+<area shape="rect" id="node2" href="$class_eng3_d_1_1_camera.html#ab387fa58e66d3355148366461e27575a" title="Get the tiles position on the screen." alt="" coords="5,5,157,47"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="Server::Server" name="Server::Server">
+<area shape="rect" id="node1" title=" " alt="" coords="5,376,120,403"/>
+<area shape="rect" id="node2" href="$struct_eng3_d_1_1_freelist.html#aa41a7c7935ddad3ee007748fe424023e" title=" " alt="" coords="192,5,333,32"/>
+<area shape="rect" id="node3" href="$class_eng3_d_1_1_networking_1_1_server.html#acce55a08225b74396f29eaa2f33ebf41" title="This will broadcast the given packet to all clients currently on the server." alt="" coords="185,57,340,98"/>
+<area shape="rect" id="node4" href="$struct_eng3_d_1_1_string_ref.html#a465fd911cb1fdf06801f7507fa974a29" title=" " alt="" coords="177,123,348,149"/>
+<area shape="rect" id="node9" href="$class_nation.html#ad4e7f3c77dcc69a9ae1a7a5c5780b920" title=" " alt="" coords="183,173,342,200"/>
+<area shape="rect" id="node10" href="$namespace_eng3_d_1_1_log.html#a0f6f8acba80c9ea27d3e82efa4aa2b88" title=" " alt="" coords="424,224,567,251"/>
+<area shape="rect" id="node12" href="$class_nation.html#aee916fd782acb865a81a66f22659b587" title="Declare war." alt="" coords="187,275,339,301"/>
+<area shape="rect" id="node14" href="$namespace_eng3_d_1_1_deser.html#a8d027761b302f73f3e7073ceb17cfdad" title=" " alt="" coords="168,325,357,352"/>
+<area shape="rect" id="node15" href="$struct_action_1_1_building_add.html#a18f0fbfb030fe4dfa53f9ff09095cafb" title=" " alt="" coords="188,427,337,469"/>
+<area shape="rect" id="node16" href="$struct_entity.html#a64dd7416c7b112fb6b86150858b17028" title=" " alt="" coords="442,405,549,432"/>
+<area shape="rect" id="node17" href="$namespace_eng3_d_1_1_deser.html#afd2ea5ea41cc89088144428830e7f9c1" title=" " alt="" coords="409,475,582,501"/>
+<area shape="rect" id="node18" href="$class_world.html#a8e57434e0aafd63b8a1ccfd449a4826b" title=" " alt="" coords="210,544,315,571"/>
+<area shape="rect" id="node19" href="$class_server.html#a630a229664144b7fe542069ecca4d6da" title="This is the handling thread&#45;function for handling a connection to a single client Sending packets wil..." alt="" coords="202,595,323,621"/>
+<area shape="rect" id="node21" href="$class_nation.html#a3e0ce8def33de49baf71a0ad8858e41a" title="Enacts a policy on a nation." alt="" coords="193,645,332,672"/>
+<area shape="rect" id="node22" href="$namespace_eng3_d.html#a2daac0a3df154cd4d5c44da06e430ee9" title="String formatter." alt="" coords="415,696,575,723"/>
+<area shape="rect" id="node23" href="$namespace_eng3_d.html#aa559d3847f8c8cd69775bf7bb7e76ecc" title="String formatter, with translation." alt="" coords="172,747,353,773"/>
+<area shape="rect" id="node5" href="$struct_eng3_d_1_1_string_ref.html#a8778d980a4762c9ab87a638e2e2db996" title=" " alt="" coords="415,115,575,157"/>
+<area shape="rect" id="node6" href="$class_eng3_d_1_1_string_manager.html#a0bfd4f1e71d93fbda3a9cd6a09ea5549" title=" " alt="" coords="633,71,800,113"/>
+<area shape="rect" id="node8" href="$class_eng3_d_1_1_string_manager.html#a9303a7c99715e8535ceb2758aa3f3ac9" title=" " alt="" coords="633,137,800,178"/>
+<area shape="rect" id="node7" href="$struct_eng3_d_1_1_string_ref.html#a76f583fc1cf257249012f5654282870b" title=" " alt="" coords="848,79,1027,105"/>
+<area shape="rect" id="node11" href="$namespace_eng3_d_1_1_log.html#a3e23c7cd8e6a525628ef052a65d5efd6" title="Logs data to a file or console." alt="" coords="655,224,778,251"/>
+<area shape="rect" id="node13" href="$class_world.html#acad108b2795ca5bc71c378a5d716fa2e" title=" " alt="" coords="420,275,571,301"/>
+<area shape="rect" id="node20" href="$class_eng3_d_1_1_networking_1_1_server.html#a12d15d6da477f0a7baa1a30a2b6e5940" title=" " alt="" coords="418,587,573,629"/>
+<area shape="rect" id="node24" href="$namespace_eng3_d_1_1_locale.html#a9c2effc733964ffd9d135001e6fc036b" title=" " alt="" coords="405,747,585,773"/>
+</map>

@@ -1,6 +1,0 @@
-<map id="UI::Widget::on_render" name="UI::Widget::on_render">
-<area shape="rect" id="node1" title=" " alt="" coords="5,13,168,39"/>
-<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html#ad0e49e71073f6aa158260744bf06067d" title=" " alt="" coords="463,13,625,39"/>
-<area shape="rect" id="node4" href="$class_u_i_1_1_widget.html#a4ea22c0752cea29f4dd8d241a71fb41b" title=" " alt="" coords="216,38,415,65"/>
-<area shape="rect" id="node3" href="$class_unified_render_1_1_rectangle.html#af6273b062bd558a15d2257857eeb5d26" title=" " alt="" coords="673,5,861,47"/>
-</map>

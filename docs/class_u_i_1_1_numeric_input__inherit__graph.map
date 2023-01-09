@@ -1,0 +1,5 @@
+<map id="UI::NumericInput" name="UI::NumericInput">
+<area shape="rect" id="node1" title="A version of the Input widget that only allows numbers." alt="" coords="5,155,137,181"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_group.html" title="Grouping to keep widgets together without triggering events." alt="" coords="30,80,113,107"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_widget.html" title="The master widget all the other widgets inherit from, do not use directly instead use one of the many..." alt="" coords="26,5,117,32"/>
+</map>

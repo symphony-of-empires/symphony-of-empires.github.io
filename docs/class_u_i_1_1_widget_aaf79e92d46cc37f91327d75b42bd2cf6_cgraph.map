@@ -1,0 +1,4 @@
+<map id="UI::Widget::kill" name="UI::Widget::kill">
+<area shape="rect" id="node1" title="Kills the current widget, setting it up for deletion when dead widgets are cleared by the UI context." alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_widget.html#af96542e4905b8ae2c540e4a3a73d4c22" title=" " alt="" coords="172,5,349,32"/>
+</map>

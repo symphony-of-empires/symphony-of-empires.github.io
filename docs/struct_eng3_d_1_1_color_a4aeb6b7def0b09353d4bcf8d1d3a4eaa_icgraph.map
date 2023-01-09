@@ -1,0 +1,21 @@
+<map id="Eng3D::Color::Color" name="Eng3D::Color::Color">
+<area shape="rect" id="node1" title=" " alt="" coords="944,262,1092,288"/>
+<area shape="rect" id="node2" href="$struct_eng3_d_1_1_color.html#a832af67b4ed44c0456424c386df7acf0" title=" " alt="" coords="737,156,896,183"/>
+<area shape="rect" id="node10" href="$struct_eng3_d_1_1_color.html#aa7c863a1ffe0e168c2fbbede1728224b" title="Create a color from RGBA32 components." alt="" coords="737,382,896,408"/>
+<area shape="rect" id="node15" href="$struct_eng3_d_1_1_color.html#a8fd0d3d80fba6dc4b7776691e2d33f58" title="Create a color from RGBA components." alt="" coords="741,262,892,288"/>
+<area shape="rect" id="node3" href="$struct_eng3_d_1_1_color.html#a748f4d9b8725289323666fd4c2b553fb" title=" " alt="" coords="533,127,684,154"/>
+<area shape="rect" id="node4" href="$minimap_8cpp.html#a0e3786296c88a646a7d91aeedc2d5558" title=" " alt="" coords="292,156,455,183"/>
+<area shape="rect" id="node5" href="$class_interface_1_1_minimap.html#a601b355bfab96bd6486ceb9b67a22a26" title=" " alt="" coords="39,29,185,70"/>
+<area shape="rect" id="node6" href="$game_2src_2client_2map_8cpp.html#afe109a7c80fa044b4287d9d84920a580" title=" " alt="" coords="296,39,451,66"/>
+<area shape="rect" id="node7" href="$minimap_8cpp.html#a564d2641b07d0fe48f321e5fe46a8c2e" title=" " alt="" coords="298,207,449,234"/>
+<area shape="rect" id="node8" href="$class_interface_1_1_province_population_tab.html#aa15c14f5cb6698473a24e839b48d793d" title=" " alt="" coords="267,90,480,132"/>
+<area shape="rect" id="node9" href="$class_interface_1_1_province_population_tab.html#ad7345995e07569fa1ab963ba00cc9e30" title=" " alt="" coords="5,94,219,136"/>
+<area shape="rect" id="node11" href="$struct_eng3_d_1_1_binary_image.html#a851898539c89d80de86ca7bb4e40d2f0" title="Obtains a pixel from the binary image." alt="" coords="531,433,686,474"/>
+<area shape="rect" id="node12" href="$struct_eng3_d_1_1_color.html#ac7480723962832b0bfc9f2a537c3b32c" title="Create a color from RGB32 components." alt="" coords="533,382,684,408"/>
+<area shape="rect" id="node13" href="$struct_eng3_d_1_1_color.html#a6ecfedc13f38e94b84ff2fb7a60c8d4b" title=" " alt="" coords="277,440,469,467"/>
+<area shape="rect" id="node14" href="$class_eng3_d_1_1_interface_1_1_profiler_task_view.html#a100073aada54ec33362f782d9d8182fd" title=" " alt="" coords="281,374,466,416"/>
+<area shape="rect" id="node16" href="$struct_eng3_d_1_1_color.html#a2456b07065c69769a9a979010144de4d" title="Create a color from RGB components." alt="" coords="537,232,680,259"/>
+<area shape="rect" id="node19" href="$class_interface_1_1_unit_widget.html#aff2c52f5deb70b537aa08d958c403003" title=" " alt="" coords="528,284,689,325"/>
+<area shape="rect" id="node17" href="$class_interface_1_1_decision_window.html#a624564aa37e398568710b7b6e4673f3a" title=" " alt="" coords="275,309,471,350"/>
+<area shape="rect" id="node18" href="$minimap_8cpp.html#abe098f4409a1dca433af4f94a87647d0" title=" " alt="" coords="288,258,459,284"/>
+</map>

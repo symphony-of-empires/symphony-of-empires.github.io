@@ -1,4 +1,4 @@
 <map id="UI::ChartData" name="UI::ChartData">
-<area shape="rect" id="node1" title=" " alt="" coords="29,95,139,121"/>
-<area shape="rect" id="node2" href="$class_unified_render_1_1_color.html" title=" " alt="" coords="5,5,163,32"/>
+<area shape="rect" id="node1" title="Generalized chart data, used mostly by chart widgets, however it&#39;s not specific to any widget." alt="" coords="5,95,116,121"/>
+<area shape="rect" id="node2" href="$struct_eng3_d_1_1_color.html" title="Primitive color type used through the engine." alt="" coords="7,5,114,32"/>
 </map>

@@ -1,0 +1,5 @@
+<map id="Eng3D::Color::rgb8" name="Eng3D::Color::rgb8">
+<area shape="rect" id="node1" title="Create a color from RGB components." alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node2" href="$struct_eng3_d_1_1_color.html#a8fd0d3d80fba6dc4b7776691e2d33f58" title="Create a color from RGBA components." alt="" coords="196,5,347,32"/>
+<area shape="rect" id="node3" href="$struct_eng3_d_1_1_color.html#a4aeb6b7def0b09353d4bcf8d1d3a4eaa" title=" " alt="" coords="395,5,543,32"/>
+</map>

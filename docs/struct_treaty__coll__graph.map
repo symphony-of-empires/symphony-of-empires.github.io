@@ -1,0 +1,7 @@
+<map id="Treaty" name="Treaty">
+<area shape="rect" id="node1" title=" " alt="" coords="207,185,269,212"/>
+<area shape="rect" id="node2" href="$struct_entity.html" title=" " alt="" coords="5,81,148,108"/>
+<area shape="rect" id="node3" href="$struct_eng3_d_1_1_string_ref.html" title="A reference to a string on the global string pool." alt="" coords="172,81,304,108"/>
+<area shape="rect" id="node4" href="$struct_nation_id.html" title=" " alt="" coords="329,81,406,108"/>
+<area shape="rect" id="node5" href="$struct_entity_id.html" title=" " alt="" coords="290,5,445,32"/>
+</map>

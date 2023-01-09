@@ -1,4 +1,10 @@
 <map id="LuaAPI::get_province" name="LuaAPI::get_province">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,164,32"/>
-<area shape="rect" id="node2" href="$class_world.html#ae4bea99395c77d8afcbc54333e7b84a3" title=" " alt="" coords="212,5,320,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,164,83"/>
+<area shape="rect" id="node2" href="$lua__api_8cpp.html#a41d6d2614258b445d4aab2d6d28dff4d" title=" " alt="" coords="232,5,363,32"/>
+<area shape="rect" id="node3" href="$struct_eng3_d_1_1_string_ref.html#a465fd911cb1fdf06801f7507fa974a29" title=" " alt="" coords="212,56,383,83"/>
+<area shape="rect" id="node8" href="$class_world.html#a7d2c2d20eee7edbae293e41d7c949b14" title="Get the id of an object, this is a template for all types except for tiles and locally&#45;stored types (..." alt="" coords="243,107,351,133"/>
+<area shape="rect" id="node4" href="$struct_eng3_d_1_1_string_ref.html#a8778d980a4762c9ab87a638e2e2db996" title=" " alt="" coords="431,49,591,90"/>
+<area shape="rect" id="node5" href="$class_eng3_d_1_1_string_manager.html#a0bfd4f1e71d93fbda3a9cd6a09ea5549" title=" " alt="" coords="639,15,805,57"/>
+<area shape="rect" id="node7" href="$class_eng3_d_1_1_string_manager.html#a9303a7c99715e8535ceb2758aa3f3ac9" title=" " alt="" coords="639,81,805,122"/>
+<area shape="rect" id="node6" href="$struct_eng3_d_1_1_string_ref.html#a76f583fc1cf257249012f5654282870b" title=" " alt="" coords="853,23,1032,49"/>
 </map>
