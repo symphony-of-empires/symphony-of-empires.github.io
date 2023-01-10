@@ -79,7 +79,6 @@ var namespace_eng3_d =
     [ "TextureMapHash", "struct_eng3_d_1_1_texture_map_hash.html", "struct_eng3_d_1_1_texture_map_hash" ],
     [ "TextureUploadRequest", "class_eng3_d_1_1_texture_upload_request.html", "class_eng3_d_1_1_texture_upload_request" ],
     [ "TextureManager", "class_eng3_d_1_1_texture_manager.html", "class_eng3_d_1_1_texture_manager" ],
-    [ "ThreadPool", "class_eng3_d_1_1_thread_pool.html", "class_eng3_d_1_1_thread_pool" ],
     [ "ValueChase", "class_eng3_d_1_1_value_chase.html", "class_eng3_d_1_1_value_chase" ],
     [ "Framebuffer", "namespace_eng3_d.html#a74b35a8695be64e74e9132df7e7dd245", null ],
     [ "Rect", "namespace_eng3_d.html#abd4f6f95eff6955bc5ca2adab2eae865", null ],

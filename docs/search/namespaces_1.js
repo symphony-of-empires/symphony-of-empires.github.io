@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['diplomacy_2744',['Diplomacy',['../namespace_diplomacy.html',1,'']]]
+  ['diplomacy_2735',['Diplomacy',['../namespace_diplomacy.html',1,'']]]
 ];

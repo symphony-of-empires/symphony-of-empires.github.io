@@ -385,7 +385,6 @@ var hierarchy =
     [ "Eng3D::TextureMapHash", "struct_eng3_d_1_1_texture_map_hash.html", null ],
     [ "Eng3D::TextureOptions", "class_eng3_d_1_1_texture_options.html", null ],
     [ "Eng3D::TextureUploadRequest", "class_eng3_d_1_1_texture_upload_request.html", null ],
-    [ "Eng3D::ThreadPool", "class_eng3_d_1_1_thread_pool.html", null ],
     [ "Eng3D::GLSL::Token", "class_eng3_d_1_1_g_l_s_l_1_1_token.html", null ],
     [ "Economy::Trade", "struct_economy_1_1_trade.html", null ],
     [ "Eng3D::GLSL::Type", "class_eng3_d_1_1_g_l_s_l_1_1_type.html", null ],

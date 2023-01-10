@@ -1,4 +1,0 @@
-<map id="Eng3D::ThreadPool::ThreadPool" name="Eng3D::ThreadPool::ThreadPool">
-<area shape="rect" id="node1" title="Construct a new Thread Pool object, this initializes threads for the pool." alt="" coords="5,5,159,47"/>
-<area shape="rect" id="node2" href="$class_eng3_d_1_1_thread_pool.html#a72ce2b6f25feb215d6ef0df3331bc713" title="This loop is executed on each thread on the thread list, what this basically does is to check in the ..." alt="" coords="207,5,360,47"/>
-</map>

@@ -1,11 +1,5 @@
 var NAVTREEINDEX9 =
 {
-"stb__image_8h.html#a548d486e07e0eb95671cb200d3a9530f":[4,0,0,1,63,18],
-"stb__image_8h.html#a5cbc6f5cbb3b2d0d87ee959fcee9d23e":[4,0,0,1,63,22],
-"stb__image_8h.html#a5d47fb76ce1e34eb0729ad932c9c48e2":[4,0,0,1,63,37],
-"stb__image_8h.html#a648037d4c55689328ba08c8f5d293df2":[4,0,0,1,63,4],
-"stb__image_8h.html#a6e7fd261af79ecef2208df3a6cc806bb":[4,0,0,1,63,35],
-"stb__image_8h.html#a7d9af55a35382c011cc186f7b62c00af":[4,0,0,1,63,15],
 "stb__image_8h.html#a7fbd65c83495f13f22469fe493775739":[4,0,0,1,63,47],
 "stb__image_8h.html#a82bcc0957b6a4ebfdfa3d7f04fbaed18":[4,0,0,1,63,27],
 "stb__image_8h.html#a86291c64cb663f41a34647d5e1abf363":[4,0,0,1,63,12],
@@ -166,8 +160,8 @@ var NAVTREEINDEX9 =
 "stb__vorbis_8c.html#ae32061695d3dca3f5aa042793ef30329":[4,0,0,1,65,101],
 "stb__vorbis_8c.html#ae71449b1cc6e6250b91f539153a7a0d3":[4,0,0,1,65,40],
 "stb__vorbis_8c.html#ae8daba892ecc7da0dace8b1a1f7d2a18":[4,0,0,1,65,28],
-"stb__vorbis_8c.html#af2514b871b2d97f06e30474f5dcb06d6":[4,0,0,1,65,54],
 "stb__vorbis_8c.html#af2514b871b2d97f06e30474f5dcb06d6":[4,0,0,1,65,53],
+"stb__vorbis_8c.html#af2514b871b2d97f06e30474f5dcb06d6":[4,0,0,1,65,54],
 "stb__vorbis_8c.html#af60aefea255c38f9c7fc87c1f1f6abd9":[4,0,0,1,65,61],
 "stb__vorbis_8c.html#af8a1d2ed31f7c9a00fec46a798edb61b":[4,0,0,1,65,42],
 "stb__vorbis_8c.html#af93b819ac40799ac392e16f6a90729fd":[4,0,0,1,65,16],
@@ -249,5 +243,11 @@ var NAVTREEINDEX9 =
 "struct_building.html#aede43821a6b0d3c6dccfb3384433e70d":[3,0,10,14],
 "struct_building.html#af1b893e9bd1237f7a927ddebf8c9479c":[3,0,10,11],
 "struct_building.html#af684fddd2ff9535c082198d71ab03efa":[3,0,10,29],
-"struct_building.html#af7059fcfa242dd9abb4a733d6d8f092a":[3,0,10,2]
+"struct_building.html#af7059fcfa242dd9abb4a733d6d8f092a":[3,0,10,2],
+"struct_building.html#afc39a3f64feec66daa8bcd5dd0b418f5":[3,0,10,7],
+"struct_building.html#afc976b25e7bb566de7489487c03a521a":[3,0,10,31],
+"struct_building_1_1_investment.html":[3,0,10,0],
+"struct_building_1_1_investment.html#a23caa380908cf7f5d7e315d65b3126b9":[3,0,10,0,2],
+"struct_building_1_1_investment.html#a24d994ca67c459a64b2a1d8bdb903f10":[3,0,10,0,1],
+"struct_building_1_1_investment.html#a56ff4d6556d23abf26b7c5d001cfefba":[3,0,10,0,3]
 };

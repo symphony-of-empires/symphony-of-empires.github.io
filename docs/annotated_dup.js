@@ -198,7 +198,6 @@ var annotated_dup =
       [ "TextureMapHash", "struct_eng3_d_1_1_texture_map_hash.html", "struct_eng3_d_1_1_texture_map_hash" ],
       [ "TextureUploadRequest", "class_eng3_d_1_1_texture_upload_request.html", "class_eng3_d_1_1_texture_upload_request" ],
       [ "TextureManager", "class_eng3_d_1_1_texture_manager.html", "class_eng3_d_1_1_texture_manager" ],
-      [ "ThreadPool", "class_eng3_d_1_1_thread_pool.html", "class_eng3_d_1_1_thread_pool" ],
       [ "ValueChase", "class_eng3_d_1_1_value_chase.html", "class_eng3_d_1_1_value_chase" ]
     ] ],
     [ "Interface", "namespace_interface.html", [
